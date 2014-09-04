@@ -102,7 +102,7 @@ class Item:
             '234':'Kit Skill',
             '235':'percent_remove_AP',
             
-            '838':'CMC_dmg',
+            '838':'CMC_dmg_p',
             '875':'block',
 
             '988':'percent_resis'
