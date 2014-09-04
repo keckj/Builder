@@ -1,0 +1,4525 @@
+
+<Items>
+	<Item>
+		<ID>11553<\ID>
+		<Name>Golden Epaulettes<\Name>
+		<Level>0<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811553<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>18055<\ID>
+		<Name>[ADMIN] Hide set epaulettes<\Name>
+		<Level>0<\Level>
+		<Description>[ADMIN] Hide set epaulettes<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818055<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.3<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9771<\ID>
+		<Name>Black Drheller Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389771<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10174<\ID>
+		<Name>Aspidon Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810174<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10538<\ID>
+		<Name>Bellatrool Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810538<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10539<\ID>
+		<Name>Moogrrtrool Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810539<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10540<\ID>
+		<Name>Scaretrool Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810540<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10541<\ID>
+		<Name>Albatrool Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810541<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10754<\ID>
+		<Name>Ethereal Amaknian Guard Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810754<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10755<\ID>
+		<Name>Ethereal Bontarian Guard Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810755<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10756<\ID>
+		<Name>Ethereal Brakmarian Guard Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810756<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10757<\ID>
+		<Name>Ethereal Sufokian Guard Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810757<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10769<\ID>
+		<Name>Michelangecrow Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810769<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13413<\ID>
+		<Name>Mod Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>13813413<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13443<\ID>
+		<Name>Guild Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>13813443<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13584<\ID>
+		<Name>Dark Vlad's Flamboyant Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813584<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13605<\ID>
+		<Name>Circumflex Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>1389615<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13699<\ID>
+		<Name>Spektral Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813699<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13700<\ID>
+		<Name>Mascot Epaulettes<\Name>
+		<Level>1<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813700<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9675<\ID>
+		<Name>Bontarian Epaulettes<\Name>
+		<Level>5<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389675<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9676<\ID>
+		<Name>Amaknian Epaulettes<\Name>
+		<Level>5<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389676<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9677<\ID>
+		<Name>Brakmarian Epaulettes<\Name>
+		<Level>5<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389677<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10460<\ID>
+		<Name>Sufokian Epaulettes<\Name>
+		<Level>5<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810460<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>11388<\ID>
+		<Name>Greedopaulettes<\Name>
+		<Level>6<\Level>
+		<Description>You've been looking forward to wearing these epaulettes for a long time, haven't you? I'll bet you have.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811388<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2044<\ID>
+		<Name>Twiggy Epaulettes<\Name>
+		<Level>8<\Level>
+		<Description>Made from 100% recyclable materials, these epaulettes will not protect you, but at least you'll have a clear conscience. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1382044<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11947<\ID>
+		<Name>Stolen Epaulettes<\Name>
+		<Level>8<\Level>
+		<Description>Stolen Epaulettes are the sweetest.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811947<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4240<\ID>
+		<Name>Swocks<\Name>
+		<Level>10<\Level>
+		<Description>These epaulettes will awaken the sleeping beast inside of you.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1384240<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10058<\ID>
+		<Name>Count Epaulettes<\Name>
+		<Level>10<\Level>
+		<Description>These epaulettes are a useful place to keep your cooking utensils.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810058<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10768<\ID>
+		<Name>Epaulettes of Destiny<\Name>
+		<Level>10<\Level>
+		<Description>Put them on! It is your destiny!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810768<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15299<\ID>
+		<Name>Krospeed Epaulettes<\Name>
+		<Level>10<\Level>
+		<Description>These epaulettes catch the wind and use it to propel you towards your enemies in the blink of an eye.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13815299<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10779<\ID>
+		<Name>Epaulettes of Respite<\Name>
+		<Level>11<\Level>
+		<Description>You'll be able to sleep soundly on your newly padded shoulders!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810779<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4248<\ID>
+		<Name>Windy Larvepaulettes<\Name>
+		<Level>13<\Level>
+		<Description>These epaulettes are so slimy and disgusting that even your own mother won't want to give you a hug.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1384248<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10780<\ID>
+		<Name>Captain Epaulettes<\Name>
+		<Level>13<\Level>
+		<Description>With epaulettes like these on, you really do deserve to be a captain.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810780<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14978<\ID>
+		<Name>Moist Larvepaulettes<\Name>
+		<Level>13<\Level>
+		<Description>These epaulettes are so slimy and disgusting that even your own mother won't want to give you a hug.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1382322<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14980<\ID>
+		<Name>Muddy Larvepaulettes<\Name>
+		<Level>13<\Level>
+		<Description>These epaulettes are so slimy and disgusting that even your own mother won't want to give you a hug.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1384248<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14981<\ID>
+		<Name>Roast Larvepaulettes<\Name>
+		<Level>13<\Level>
+		<Description>These epaulettes are so slimy and disgusting that even your own mother won't want to give you a hug.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1382323<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2089<\ID>
+		<Name>Tofu Epaulettes<\Name>
+		<Level>14<\Level>
+		<Description>If you see Tofus running after you when you're wearing these epaulettes, fear not! They just think you're one of them!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1382089<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5310<\ID>
+		<Name>Gobball Epaulettes<\Name>
+		<Level>14<\Level>
+		<Description>The first woolen shoulder pads that can kill...  annihilation by odor, that is. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1385310<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8091<\ID>
+		<Name>Three Pistes' Epaulettes<\Name>
+		<Level>15<\Level>
+		<Description>Musty root beer smell aside, these epaulettes take some beating.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1388091<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13987<\ID>
+		<Name>Macho Epaulettes<\Name>
+		<Level>15<\Level>
+		<Description>The Guild of Armorers is proud to present their latest epaulette model. Now you can be a macho macho man!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813987<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15515<\ID>
+		<Name>Beakies<\Name>
+		<Level>15<\Level>
+		<Description>These epaulettes used to be the best in the west! Today, they're a little rusty, but they can still hold their own in the pecking order.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815515<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14823<\ID>
+		<Name>Shin Larvepaulettes<\Name>
+		<Level>18<\Level>
+		<Description>The Shin Larva used to use these epaulettes as little shelters for the new hatchlings when it was due to rain.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814823<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14832<\ID>
+		<Name>Viscous Epaulettes<\Name>
+		<Level>18<\Level>
+		<Description>They're goopy, they're gloopy, they hang a little droopy, they're Viscous Epaulettes and now they won't come off!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814832<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15527<\ID>
+		<Name>Cloudy Epiwilettes<\Name>
+		<Level>18<\Level>
+		<Description>If these epaulettes are the wrong size, just head down to the shop on Piwidilly Circus to get them adjusted.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815527<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13995<\ID>
+		<Name>Dripplerettes<\Name>
+		<Level>20<\Level>
+		<Description>These epaulettes will not only make your armpits sweat, but also give off a beautiful scent of BO... Oh wait, that's you...<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813995<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14713<\ID>
+		<Name>Helvy's Epaulettes<\Name>
+		<Level>20<\Level>
+		<Description>A pair of epaulettes created in honor of the legends told in the taverns of Brakmar.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814713<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9574<\ID>
+		<Name>Prespic Epaulettes<\Name>
+		<Level>22<\Level>
+		<Description>You should avoid making any sudden movements when you've got these equipped, or people might assume you walked face first into a swarm of Moskitos.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389574<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10089<\ID>
+		<Name>Estrichettes<\Name>
+		<Level>22<\Level>
+		<Description>These Estrichettes do everything except the cooking.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810089<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10317<\ID>
+		<Name>Strawcrow Epaulettes<\Name>
+		<Level>22<\Level>
+		<Description>Also known as 'Crobak Perches,' these epaulettes aren't very resistant but can deliver quite a whack if you know how to use them properly.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810317<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10410<\ID>
+		<Name>Albatrepaulettes<\Name>
+		<Level>22<\Level>
+		<Description>These epaulettes are made from 100% pure Albatrocious droppings!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810410<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9503<\ID>
+		<Name>Blibli Epaulettes<\Name>
+		<Level>23<\Level>
+		<Description>These Epaulettes have the familiar scent of Gobballs, but much stronger and more pungent.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389503<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10184<\ID>
+		<Name>Scarpaulettes<\Name>
+		<Level>23<\Level>
+		<Description>If you have bad posture, these epaulettes have some words of wisdom to share with you: Let it be.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810184<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15533<\ID>
+		<Name>Celestial Epiwilettes<\Name>
+		<Level>24<\Level>
+		<Description>Cheep and cheerful.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815533<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10386<\ID>
+		<Name>Crabaulettes<\Name>
+		<Level>25<\Level>
+		<Description>These Crabaulettes are really snappy. They're going to make you very happy.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810386<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13991<\ID>
+		<Name>F'Artagnan Epaulettes<\Name>
+		<Level>25<\Level>
+		<Description>Don't kick up a stink! These boots will leave you coming out of a fight smelling like anything but a Demonic Rose.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813991<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13983<\ID>
+		<Name>Azuric Epaulettes<\Name>
+		<Level>30<\Level>
+		<Description>These super-sharp epaulettes double up as weapons for when you're in dire straits!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813983<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10060<\ID>
+		<Name>Glitt Epaulettes<\Name>
+		<Level>31<\Level>
+		<Description>These indiscrete epaulettes might not make you feel very illuminated, but they are so original you'll shine in society anyway.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810060<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9392<\ID>
+		<Name>Royal Gobball Epaulettes<\Name>
+		<Level>33<\Level>
+		<Description>These could be quite classy, if only the nauseating odor they give off didn't make you want to vomit.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389392<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9504<\ID>
+		<Name>Royal Tofu Epaulettes<\Name>
+		<Level>33<\Level>
+		<Description>All we can say about these epaulettes is that they'll make you look more like a crowd entertainer than a brave warrior.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389504<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15342<\ID>
+		<Name>Cloudy Tofu Epaulettes<\Name>
+		<Level>33<\Level>
+		<Description>With shoulders as comfy-looking as yours, you can hardly blame all the little Piwis for coming to perch on you!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815342<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9980<\ID>
+		<Name>Karne Epaulettes<\Name>
+		<Level>35<\Level>
+		<Description>These pretty epaulettes would go quite well with chili. If you can find any, that is...<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 35,<\Conditions>
+		<Children>11110,11111,11112<\Children>
+		<Icon>1389980<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10994<\ID>
+		<Name>Ekokolettes<\Name>
+		<Level>35<\Level>
+		<Description>These Ekokolettes might be a bit scratchy, but they're well made and offer a lot of protection. Isn't mother nature incredible?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810994<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11067<\ID>
+		<Name>Toaderpads<\Name>
+		<Level>35<\Level>
+		<Description>These maggoty epaulettes are almost impossible to get off once you've put them on, because they're just so sticky.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811067<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17614<\ID>
+		<Name>Ottopaulettes<\Name>
+		<Level>35<\Level>
+		<Description>These epaulettes stay on thanks to some very powerful suckers; they're so powerful it's very hard to remove the armor.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817614<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14908<\ID>
+		<Name>Imperial Shin Larva Epaulettes<\Name>
+		<Level>38<\Level>
+		<Description>An outright honorable place to stow away your dignified shoulders.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814908<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11008<\ID>
+		<Name>Carnivore Epaulettes<\Name>
+		<Level>39<\Level>
+		<Description>As tender as Gobball steak.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811008<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11022<\ID>
+		<Name>Royal Blibli Epaulettes<\Name>
+		<Level>39<\Level>
+		<Description>These epaulettes have a lot of attitude, and it seems they've passed some of it on to you.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811022<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11433<\ID>
+		<Name>Black Zorpaulettes<\Name>
+		<Level>39<\Level>
+		<Description>These epaulettes are designed to make you float when you're in water... Unfortunately, it only works for a second before you sink like a stone. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811433<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>158<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9394<\ID>
+		<Name>Drheller Epaulettes<\Name>
+		<Level>40<\Level>
+		<Description>Dig a little tunnel, dig a little tunnel... and always let your kamas be your guide!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389394<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10716<\ID>
+		<Name>Podgy Estrichettes<\Name>
+		<Level>40<\Level>
+		<Description>These epaulettes provide a little extra padding and also give their wearer a delightfully rounded silhouette.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810716<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10728<\ID>
+		<Name>Crabbinson Epaulettes<\Name>
+		<Level>40<\Level>
+		<Description>Be the crabbiest of all the crabs!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810728<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13963<\ID>
+		<Name>Spelunking Epaulettes<\Name>
+		<Level>40<\Level>
+		<Description>These super-sharp epaulettes double up as weapons for when you're in dire straits!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813963<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9652<\ID>
+		<Name>Beefy Epaulettes<\Name>
+		<Level>41<\Level>
+		<Description>Probably the only epaulettes you can snack on...<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1380000<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11053<\ID>
+		<Name>Clammy Epaulettes<\Name>
+		<Level>42<\Level>
+		<Description>These epaulettes will keep you safe in any clamity, and they make your mussels look huge!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811053<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14584<\ID>
+		<Name>Imperial Tofu Epaulettes<\Name>
+		<Level>43<\Level>
+		<Description>These epaulettes are useful if not very manly.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814584<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9505<\ID>
+		<Name>Whirligig Epaulettes<\Name>
+		<Level>44<\Level>
+		<Description>Why not take these on a whirl with your friends?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389505<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>85<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4251<\ID>
+		<Name>Ulrick Errel Epaulettes<\Name>
+		<Level>45<\Level>
+		<Description>These epaulettes shaped like a purse will carry your makeup everywhere you go. Very helpful for putting on a brave face when you lose. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11113,11114,11115<\Children>
+		<Icon>1384251<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11045<\ID>
+		<Name>Tron Epaulettes<\Name>
+		<Level>45<\Level>
+		<Description>Da do tron tron tron, da do tron tron ~<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811045<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11800<\ID>
+		<Name>Crucifly Epaulettes<\Name>
+		<Level>45<\Level>
+		<Description>These epaulettes will have the flies in your vicinity dropping like, well, flies.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11801,11802,11803<\Children>
+		<Icon>13811800<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13746<\ID>
+		<Name>Kozcu Epaulettes<\Name>
+		<Level>45<\Level>
+		<Description>Your horoscope says... nothing will frighten you today, which is a weight off your shoulders!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813746<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15183<\ID>
+		<Name>Sharksies<\Name>
+		<Level>45<\Level>
+		<Description>A cutesy-wutesy name for a pair of cutesy-wutesy... enormous... intimidating epaulettes. Gulp!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815183<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11060<\ID>
+		<Name>Fins<\Name>
+		<Level>46<\Level>
+		<Description>These epaulettes were fashioned out of fins removed from shark carcasses. Slap them on your shoulders and get ready to terrorize Sufokia!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811060<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11849<\ID>
+		<Name>Amakna Riktus Epaulettes<\Name>
+		<Level>46<\Level>
+		<Description>The Amakna Riktus are the most robust of the widespread Riktus family and this breastplate makes that very clear.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811849<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11850<\ID>
+		<Name>Bonta Riktus Epaulettes<\Name>
+		<Level>46<\Level>
+		<Description>The Bonta Riktus are as hard as nails and the most resistant of the widespread Riktus family. This breastplate follows suit.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811850<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11851<\ID>
+		<Name>Brakmar Riktus Epaulettes<\Name>
+		<Level>46<\Level>
+		<Description>The Brakmar Riktus are known for their super-human force, so don't underestimate the damage that this breastplate can inflict.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811851<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11852<\ID>
+		<Name>Sufokia Riktus Epaulettes<\Name>
+		<Level>46<\Level>
+		<Description>The Sufokia Riktus are primarily renowned for their robbing and running, but they're not afraid of attacking if they have to! <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811852<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14703<\ID>
+		<Name>Prinssly Epaulettes<\Name>
+		<Level>46<\Level>
+		<Description>A haughty look for a naughty crook.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814703<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6788<\ID>
+		<Name>Cloudy Epaulettes<\Name>
+		<Level>47<\Level>
+		<Description>In case of fatigue, these epaulettes will allow you to take a nap. Consider alternating between the two to avoid getting a crick in your neck. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1386788<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11583<\ID>
+		<Name>Royal Chafaulettes<\Name>
+		<Level>47<\Level>
+		<Description>The origin of these epaulettes is a dark, deep secret. All that is known is that they have great powers.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13811583<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17753<\ID>
+		<Name>Wild Gobball Epaulettes<\Name>
+		<Level>47<\Level>
+		<Description>Now, the weight of the wool is on your shoulders. Ancient Gobball Hunter proverb<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817753<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12439<\ID>
+		<Name>Crackly Epaulettes<\Name>
+		<Level>48<\Level>
+		<Description>Make sure you don't crack under the strain of these epaulettes.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812439<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15349<\ID>
+		<Name>Celestial Tofu Epaulettes<\Name>
+		<Level>48<\Level>
+		<Description>These epaulettes were based on the feet of the Celestial Tofu himself. I know right, I never thought he'd wear socks with sandals either.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815349<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14585<\ID>
+		<Name>Alpha Predator Epaulettes<\Name>
+		<Level>49<\Level>
+		<Description>There's what looks like an empty fitting on these epaulettes, suggesting that they used to include some kind of mechanism.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814585<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9393<\ID>
+		<Name>Arachnee Epaulettes<\Name>
+		<Level>50<\Level>
+		<Description>As soft as they are firm, this is the sort of plastic Nick Tup would be dying to get his hands on.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389393<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13770<\ID>
+		<Name>Shouldo Lorko<\Name>
+		<Level>50<\Level>
+		<Description>These super-sharp epaulettes double up as weapons for when you're in dire straits!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813770<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15298<\ID>
+		<Name>Krolevel Epaulettes<\Name>
+		<Level>50<\Level>
+		<Description>The initial design for these epaulettes was in Gobball Wool and Blibli Leather, but all that changed when militant Sadida dolls started ambushing wearers in the name of environmental protection.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13815298<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9615<\ID>
+		<Name>Justice Epaulettes<\Name>
+		<Level>52<\Level>
+		<Description>Thanks to these epaulettes, you can spread justice to the impoverished. Or you can become a power-thirsty lunatic with his own, selfish ideas about justice.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCrimeScore() >= 500,<\Conditions>
+		<Icon>1389615<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15028<\ID>
+		<Name>Pirate Rags<\Name>
+		<Level>52<\Level>
+		<Description>These rags will cover your shoulders. They're very flammable so you might want to avoid walking near the Sidimote volcano with them on.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815028<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9683<\ID>
+		<Name>Treepaulettes<\Name>
+		<Level>53<\Level>
+		<Description>With these on your shoulders, you'll be able to show the whole World what you're made of!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1389683<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14583<\ID>
+		<Name>Imperial Gobball Epaulettes<\Name>
+		<Level>53<\Level>
+		<Description>These epaulettes will have you feeling like you're dancing on the clouds. <\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814583<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10697<\ID>
+		<Name>Rascaulettes<\Name>
+		<Level>54<\Level>
+		<Description>These epaulettes are almost as solid as Rascal's tusks!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810697<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15010<\ID>
+		<Name>Chestershire Epaulettes<\Name>
+		<Level>55<\Level>
+		<Description>You've probably seen a Bow Meow without a smile, but have you ever seen a smile without a Bow Meow?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815010<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15011<\ID>
+		<Name>Epaulinas<\Name>
+		<Level>55<\Level>
+		<Description>These epaulettes belonged to a wily Cra known as Lilyx. She tried to make people believe she was a Shushu, but all she did during battles was throw stones.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815011<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15012<\ID>
+		<Name>Epaularies<\Name>
+		<Level>55<\Level>
+		<Description>The production of these epaulettes calls for a large quantity of pollen from the rare and beautiful Ecalipse flower.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815012<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17618<\ID>
+		<Name>Crimson Piggy Epaulettes<\Name>
+		<Level>55<\Level>
+		<Description>What's the pig idea?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817618<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10329<\ID>
+		<Name>Polteropolettes<\Name>
+		<Level>56<\Level>
+		<Description>You can recycle Polteropolettes into funny little ships for races on the streams.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810329<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12334<\ID>
+		<Name>Riktus Elite Epaulettes<\Name>
+		<Level>57<\Level>
+		<Description>If you are short of ideas, you could always use these epaulettes to smash up walls as well as your enemies.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812334<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14589<\ID>
+		<Name>Infernal Epaulettes<\Name>
+		<Level>57<\Level>
+		<Description>Warmer and cooler than a puffer jacket.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814589<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12577<\ID>
+		<Name>Comforters<\Name>
+		<Level>58<\Level>
+		<Description>Lay your head on your shoulder, drift gently off to sleep, and end up with a stiff neck.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812577<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15169<\ID>
+		<Name>Wounded Epaulettes<\Name>
+		<Level>58<\Level>
+		<Description>Just like any self-respecting, aquaphobic Shark, the fabric used to make these epaulettes is 100% rainproof.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815169<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14586<\ID>
+		<Name>Ivory Zorpaulettes<\Name>
+		<Level>59<\Level>
+		<Description>Almost too heavy to wear, but so worth it once they're on.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814586<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14627<\ID>
+		<Name>Imperial Blibli Epaulettes<\Name>
+		<Level>59<\Level>
+		<Description>These epaulettes will make a real Samson out of you. Now just make sure you get a patent on them before Api Armor tries to sue you for all you've got.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814627<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12569<\ID>
+		<Name>Woolly Epaulettes<\Name>
+		<Level>60<\Level>
+		<Description>I don't think you could stuff any more padding into these epaulettes if you tried! Oh, you have tried.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812569<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13967<\ID>
+		<Name>Khist Epaulettes<\Name>
+		<Level>60<\Level>
+		<Description>This helmet is the last thing you'll see before eternal rest.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813967<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14727<\ID>
+		<Name>Tearjask's Epaulettes<\Name>
+		<Level>60<\Level>
+		<Description>A famous Shark hunter reported missing in mysterious circumstances... Judging by the place you found these epaulettes, the mystery is solved.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814727<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10667<\ID>
+		<Name>Ep-Pwn-Lettes<\Name>
+		<Level>62<\Level>
+		<Description>You thought you had 'em, but you got owned!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810667<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>151<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15317<\ID>
+		<Name>Royal Whirly Epaulettes<\Name>
+		<Level>62<\Level>
+		<Description>These epaulettes will keep you cool all day long - and let you play at being a helicopter! Wheee!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815317<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14860<\ID>
+		<Name>Exotic Epaulettes<\Name>
+		<Level>63<\Level>
+		<Description>This hunting trophy is embellished with two fine Macawker beaks, one on each shoulder. So you finally managed to shut them up!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814860<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15118<\ID>
+		<Name>Epshellettes<\Name>
+		<Level>63<\Level>
+		<Description>With these sailor-made epaulettes on your shoulders, you look very whelk-to-do indeed.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815118<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15350<\ID>
+		<Name>Divine Tofu Epaulettes<\Name>
+		<Level>64<\Level>
+		<Description>These epaulettes were the cradles of two twin Divine Tofus: Tofulus and Tefus.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815350<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15543<\ID>
+		<Name>Royal Strich Epaulettes<\Name>
+		<Level>64<\Level>
+		<Description>You made a good choice turning that Strich into epaulettes rather than nuggets. It definitely had some kind of disease.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815543<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12362<\ID>
+		<Name>Hairypaulettes<\Name>
+		<Level>65<\Level>
+		<Description>Shave away... Just remember that every full moon the hairs on these epaulettes will grow back... and twice as thick as before!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812362<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15398<\ID>
+		<Name>Imperial Drheller Epaulettes<\Name>
+		<Level>65<\Level>
+		<Description>The tufts on these epaulettes are supposed to represent the Drheller's sharp teeth... Or was it the horns? I can't remember. They hurt a lot, either way!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815398<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15502<\ID>
+		<Name>Royal Puddly Epaulettes<\Name>
+		<Level>65<\Level>
+		<Description>Just so you know, your head lice have voted you Citizen of the Month for the slides you installed on your shoulders, and are now petitioning for a swimming pool.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815502<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14588<\ID>
+		<Name>Ugly Queen Epaulettes<\Name>
+		<Level>66<\Level>
+		<Description>If you're royal, it doesn't matter how ugly you are.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814588<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15498<\ID>
+		<Name>Epincerettes<\Name>
+		<Level>66<\Level>
+		<Description>Pinchmie and Pinchyu are on your shoulders. Which one will strike first? Probably neither; they both kind of suck.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815498<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>74<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10098<\ID>
+		<Name>Boowish Epaulettes<\Name>
+		<Level>67<\Level>
+		<Description>What could be more reassuring than having two enormous Boowolf paws on your shoulders? Though have you noticed how the claws always feel like they're getting longer at night...?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13810098<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14587<\ID>
+		<Name>Imperial Chafaulettes<\Name>
+		<Level>67<\Level>
+		<Description>With these epaulettes on your shoulders, you'll never walk alone.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814587<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14875<\ID>
+		<Name>Mussy Epollets<\Name>
+		<Level>68<\Level>
+		<Description>Try on these epaulettes and get your freak on!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814875<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15174<\ID>
+		<Name>Blood-Stained Epaulettes<\Name>
+		<Level>68<\Level>
+		<Description>They're bloody, they're cruddy, you got them from your buddy, they're Blood-Stained Epaulettes and you just want them off!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815174<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4245<\ID>
+		<Name>Onis<\Name>
+		<Level>70<\Level>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1384245<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13977<\ID>
+		<Name>Valhalla Epaulettes<\Name>
+		<Level>70<\Level>
+		<Description>The significance of this helmet will become clear as you breathe your last breath.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813977<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17811<\ID>
+		<Name>Thork Epaulettes<\Name>
+		<Level>71<\Level>
+		<Description>Solid, simple, effective. Thork likes massive epaulettes. That way, he looks like he's more than just a Bwork.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817811<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15025<\ID>
+		<Name>Ephurlettes<\Name>
+		<Level>74<\Level>
+		<Description>These epaulettes' inbuilt ventilation system will have you churning out stale, piratey air 24\/7.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815025<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15124<\ID>
+		<Name>Epaulectrics<\Name>
+		<Level>75<\Level>
+		<Description>Epaulectrics explode into battle - lightning strikes!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815124<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15490<\ID>
+		<Name>Imperial Crab Epaulettes<\Name>
+		<Level>75<\Level>
+		<Description>You made a good choice turning that crab into epaulettes rather than p\u00e2t\u00e9. Although you would kill for a sandwich right now.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815490<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15550<\ID>
+		<Name>Imperial Moogrr Epaulettes<\Name>
+		<Level>75<\Level>
+		<Description>Become the \"rock\" of the team with these large, dependable epaulettes - everyone's favorite shoulder to cry on.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815550<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12458<\ID>
+		<Name>Featherypaulettes<\Name>
+		<Level>76<\Level>
+		<Description>These epaulettes are so feathery they'll almost make you gaga!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812458<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15213<\ID>
+		<Name>The Mutagenics<\Name>
+		<Level>76<\Level>
+		<Description>If you feel like your silhouette is no longer \"you\" when you're wearing these epaulettes, you're probably quite right. Don't be afraid...<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815213<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12880<\ID>
+		<Name>Heaterettes<\Name>
+		<Level>79<\Level>
+		<Description>These Heaterettes offer a deep-heat effect that soothes all kinds of muscle pain.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>13117,13118,13119,13120<\Children>
+		<Icon>13812880<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13980<\ID>
+		<Name>Thrud Epaulettes<\Name>
+		<Level>80<\Level>
+		<Description>These epaulettes are named after a well-known warrior who was also the only daughter of eternal rest. May she rest in peace... Well, what are you waiting for? Get thudding!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813980<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16007<\ID>
+		<Name>Icehorn Epaulettes<\Name>
+		<Level>80<\Level>
+		<Description>These shoulder pads are incredibly frost-resistant and are very useful when plunging headlong into a blizzard, as you do.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816007<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18691<\ID>
+		<Name>Trool Warrior Spikes<\Name>
+		<Level>80<\Level>
+		<Description>Trools regularly shoulder each other to train. I wouldn't try that with these epaulettes, though.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCharacteristicMax(\"AP\<\Conditions>
+		<Icon>1389997<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15121<\ID>
+		<Name>Kraken Epaulettes<\Name>
+		<Level>81<\Level>
+		<Description>Oh man, have you seen these things? They swell up in the water! I mean, that doesn't make them any more useful, but still! Cool, right?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815121<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15605<\ID>
+		<Name>Clawed Strichaulettes<\Name>
+		<Level>81<\Level>
+		<Description>Now that you have these sharp, scratchy epaulettes on all the time, that annoying girl you met on the bus will probably stop trying to sit next to you.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815605<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12590<\ID>
+		<Name>Gobbsage Epaulettes<\Name>
+		<Level>83<\Level>
+		<Description>If you see someone charging towards you wearing these epaulettes, then for Eca's sake run as fast as you can in the other direction!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812590<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15612<\ID>
+		<Name>Cloudy Strich Epaulettes<\Name>
+		<Level>83<\Level>
+		<Description>As light as a ton of feathers.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815612<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16894<\ID>
+		<Name>Troolish Shoulderguards<\Name>
+		<Level>83<\Level>
+		<Description>Troolish Shoulderguards are designed for use in battles of attrition. There's no need to wear them all day, every day, unless you see life as a constant battle.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816894<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15026<\ID>
+		<Name>Admiral Ephurlettes<\Name>
+		<Level>84<\Level>
+		<Description>Get a load of the shoulder pads in these! Either the Captain of the Dark Hurl was living in the past, or he seriously needed to work on his muscles.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815026<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13972<\ID>
+		<Name>Blazy Boots<\Name>
+		<Level>85<\Level>
+		<Description>The heat generated by these epaulettes will instantly relieve your back pain.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813972<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13810<\ID>
+		<Name>Manitsu Epaulettes<\Name>
+		<Level>90<\Level>
+		<Description>An old custom was for young warriors on the verge of adulthood to smack their epaulettes off their helmets in order to knock the mind into shape.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813810<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16812<\ID>
+		<Name>Beach Floats<\Name>
+		<Level>90<\Level>
+		<Description>Even if you're in a trance, you won't go under! Practical, aren't they? Practical, no?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816812<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12887<\ID>
+		<Name>Vampyric Epaulettes<\Name>
+		<Level>94<\Level>
+		<Description>Instead of going for the neck, these epaulettes suck blood from the shoulders.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812887<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>110<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16906<\ID>
+		<Name>Imperial Trool Epaulettes<\Name>
+		<Level>94<\Level>
+		<Description>Effort is no more than a state of mind.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816906<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13973<\ID>
+		<Name>Doziak Epaulettes<\Name>
+		<Level>95<\Level>
+		<Description>Your chances of seeing a gold saint are as slim as a Schnek's of seeing the stars.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13813973<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16113<\ID>
+		<Name>Boohested Epaulettes<\Name>
+		<Level>95<\Level>
+		<Description>Even a Boohemoth couldn't pierce these with his fangs, which shows just how tough they are.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816113<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>91<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16805<\ID>
+		<Name>Oyster Oxters<\Name>
+		<Level>95<\Level>
+		<Description>Your make-up is running... really badly... all the way to your shoulders.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816805<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15964<\ID>
+		<Name>Boohemoth Epaulettes<\Name>
+		<Level>98<\Level>
+		<Description>One of the most popular hunting trophies with our friends the hunters.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815964<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14630<\ID>
+		<Name>Imperial Healer Epaulettes <\Name>
+		<Level>100<\Level>
+		<Description>This epaulettes will help you heal your allies like no one else can.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814630<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>116<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15296<\ID>
+		<Name>Kroraging Epaulettes <\Name>
+		<Level>100<\Level>
+		<Description>With these epaulettes on, your laughing stock days are well and truly over.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815296<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15297<\ID>
+		<Name>Krotector Epaulettes<\Name>
+		<Level>100<\Level>
+		<Description>These epaulettes have been stuffed with various materials found all around! They're hellishly uncomfortable but also harder than a Crackler's skull.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815297<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>988<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16830<\ID>
+		<Name>Inflatable Armbands<\Name>
+		<Level>100<\Level>
+		<Description>Like water off a duck's... shoulders.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816830<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17152<\ID>
+		<Name>Apprentice Epaulettes<\Name>
+		<Level>100<\Level>
+		<Description>Wisdom is always an overmatch for strength.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817152<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18098<\ID>
+		<Name>Ocushu Spikes<\Name>
+		<Level>100<\Level>
+		<Description>Driven deeply into the skin, these spikes cause an incredible pain that isn't entirely disagreeable...<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818098<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>123<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2512<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12484<\ID>
+		<Name>Black Crow's Epaulettes<\Name>
+		<Level>101<\Level>
+		<Description>Become the master of darkness and fear your own strength!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13812484<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14432<\ID>
+		<Name>Rampart Epaulettes<\Name>
+		<Level>101<\Level>
+		<Description>Charge your enemies with these on and they'll feel like they've just been run over by a truck. On the other hand, they take so much effort to wear that so will you.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814432<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16774<\ID>
+		<Name>Royal Smoothettes<\Name>
+		<Level>101<\Level>
+		<Description>Soft, squelchy, and full of fun, Smoothettes are the best way to put a little bounce back in your life!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816774<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16039<\ID>
+		<Name>Arktite Epaulettes<\Name>
+		<Level>102<\Level>
+		<Description>Are those Taroudium Shards that you can glimpse through the layer of ice on these epaulettes?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816039<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14140<\ID>
+		<Name>White Crow Hackle<\Name>
+		<Level>105<\Level>
+		<Description>A soft, comfortable, floaty, three-ply, feathery neck-dress. Just what you need to wipe enemies out!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814140<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15624<\ID>
+		<Name>Divine Strichaulettes<\Name>
+		<Level>105<\Level>
+		<Description>They can't fly, they can't fight, and they can't crow. But they are divine.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815624<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16015<\ID>
+		<Name>YeCh'Ti'Wawa Epaulettes<\Name>
+		<Level>107<\Level>
+		<Description>Don't be fooled by their appearance; these epaulettes definitely come from the YeCh'Ti'Wawa. Even though they could cover his entire body if he ever wore them.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816015<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14123<\ID>
+		<Name>Magmog Clinkers<\Name>
+		<Level>115<\Level>
+		<Description>These hot coals will teach all those friends who use you as a shoulder to cry on a lesson.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814123<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14439<\ID>
+		<Name>Hushed Epaulettes<\Name>
+		<Level>117<\Level>
+		<Description>Hey dude, they'll do; the murmur you need is on your shoulders.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13814439<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18152<\ID>
+		<Name>Ecactettes<\Name>
+		<Level>117<\Level>
+		<Description>You've got to protect your back and shoulders out in the desert since, after your head, they get the most sun.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818152<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>137<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15973<\ID>
+		<Name>Mecha-Epaulettes<\Name>
+		<Level>119<\Level>
+		<Description>These epaulettes fit the shoulder joint to perfection, facilitating extremely rapid movements.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13815973<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16036<\ID>
+		<Name>Hagen Daz's Epaulettes<\Name>
+		<Level>119<\Level>
+		<Description>Prepare to assume the appearance of an icy colossus and be at one with the Frigostian environment!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816036<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>120<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16971<\ID>
+		<Name>Larduous Epaulettes<\Name>
+		<Level>119<\Level>
+		<Description>Now you have giants standing on your shoulders, dwarf.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816971<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17149<\ID>
+		<Name>Initiate Epaulettes<\Name>
+		<Level>120<\Level>
+		<Description>Wisdom is knowing what to do next; virtue is doing it.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817149<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18178<\ID>
+		<Name>Epoinkettes<\Name>
+		<Level>124<\Level>
+		<Description>Just be careful not to pop yourself in the eye with one, otherwise you'll miss out on all the beautiful desert vistas.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818178<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16967<\ID>
+		<Name>Dragon Pig Winglets<\Name>
+		<Level>125<\Level>
+		<Description>You're too porky to actually leave the ground, but they look good on you!<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816967<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>132<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17263<\ID>
+		<Name>Waw Pompoms<\Name>
+		<Level>125<\Level>
+		<Description>These pompoms, affixed to your shoulders, will be a boon in times of war. Not only do they protect the wearer from blows received, but they relax your neck as well.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817263<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>114<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17262<\ID>
+		<Name>Slakjahs<\Name>
+		<Level>127<\Level>
+		<Description>Slack-jawed Iops must pay close attention if they don't want to dislocate their jaw with a blow from their own shoulder.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817262<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16055<\ID>
+		<Name>Sylargh's Epaulettes<\Name>
+		<Level>130<\Level>
+		<Description>Each of the two epaulettes carries a supply of nuts, bolts, and screws. Enough to take care of your followers in any circumstances imaginable.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13816055<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18099<\ID>
+		<Name>Tormented Epaulettes<\Name>
+		<Level>130<\Level>
+		<Description>Being deeply tormented by someone gives you strength, while tormenting someone deeply gives you courage.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818099<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>141<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2505<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18161<\ID>
+		<Name>Sporettes<\Name>
+		<Level>132<\Level>
+		<Description>They almost seem to be an actual part of your body, as if they'd grown there naturally while you were crossing the Fungopole.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818161<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>113<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17338<\ID>
+		<Name>Boney Zwombbit Epaulettes<\Name>
+		<Level>135<\Level>
+		<Description>Although fragile, they can easily make a new hole in someone's torso and cut them to the bone.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817338<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17145<\ID>
+		<Name>Sage Epaulettes<\Name>
+		<Level>135<\Level>
+		<Description>It is not wise to lose your head, either figuratively or literally.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817145<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18185<\ID>
+		<Name>Fungaulettes<\Name>
+		<Level>135<\Level>
+		<Description>Back when the Fungopole was created, these epaulettes were just some fungus shoulderpads. Since then, they've dried up and hardened a bit.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818185<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17246<\ID>
+		<Name>Emplolettes<\Name>
+		<Level>140<\Level>
+		<Description>An old Lenald needs to know when to cover his neck so he doesn't become sick as a dog.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817246<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17432<\ID>
+		<Name>Magic Cawwot Epaulettes<\Name>
+		<Level>140<\Level>
+		<Description>They're impregnated with magic Cawwot juice made from a secret recipe handed down through generations.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817432<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>136<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17305<\ID>
+		<Name>Gauwd Epaulettes<\Name>
+		<Level>141<\Level>
+		<Description>To help keep your head on your shoulders, where it belongs.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817305<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>108<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18461<\ID>
+		<Name>Victus Epaulettes<\Name>
+		<Level>145<\Level>
+		<Description>It is said that the protections that adorn these shoulder have already made victims of their own. Will you be next?<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818461<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>124<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2505<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18528<\ID>
+		<Name>Srambad Shoulder Pads<\Name>
+		<Level>146<\Level>
+		<Description>The shoulder pads allow you to discreetly hit your target in the sides.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818528<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>130<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18381<\ID>
+		<Name>Dark Vlad's Epaulettes<\Name>
+		<Level>150<\Level>
+		<Description>These epaulettes have seen more than one battle. They may not look too sturdy, but best not to hit them too hard if you want to keep your weapon.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818381<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17357<\ID>
+		<Name>Genetically Modified Epaulettes<\Name>
+		<Level>153<\Level>
+		<Description>Your movements will be fluid, giving you incomparable combat abilities. But any damage sustained will cause pain that stabs through you like a lance.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:not #HasEquipmentId(17322)# and not #HasEquipmentId(17332)#,<\Conditions>
+		<Icon>13817357<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18531<\ID>
+		<Name>Enurado Shoulder Pads<\Name>
+		<Level>154<\Level>
+		<Description>\"Miser's shoulders carry kamas and a deep comtempt.\"<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818531<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>128<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17330<\ID>
+		<Name>Wa Wabbit's Awmbands<\Name>
+		<Level>155<\Level>
+		<Description>These inflatable armbands surround the arm so that it looks strong and well-muscled, when in reality it's hiding a ton of flab.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13817330<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>108<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18644<\ID>
+		<Name>Wa Wabbit Shoulder Pads<\Name>
+		<Level>155<\Level>
+		<Description>The Wa Wabbit wore these shoulder pads when they went to war with the Lenalds.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818644<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>171<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18530<\ID>
+		<Name>The Shadow Eaters<\Name>
+		<Level>157<\Level>
+		<Description>These shoulder pads are large enough to swallow your shadow and be the only visitble thing. They're even said to swallow nearby shadows.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818530<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>112<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18529<\ID>
+		<Name>The Shadows of the Veiled Souls<\Name>
+		<Level>158<\Level>
+		<Description>Thes shoulder pads protect wandering souls from the light of day. Don't be surprised if your arms sometimes move by themselves.<\Description>
+		<Slot>Epaulettes<\Slot>
+		<SlotID>138<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13818529<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>156<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

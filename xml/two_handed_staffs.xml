@@ -1,0 +1,1063 @@
+
+<Items>
+	<Item>
+		<ID>2673<\ID>
+		<Name>Twiggy Club<\Name>
+		<Level>8<\Level>
+		<Description>It looks like an old piece of wood picked up off the forest floor, but it's strong enough for you to defend yourself with. <\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2532673<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9380<\ID>
+		<Name>Bonely Club<\Name>
+		<Level>15<\Level>
+		<Description>Used too repetitively, this staff can lead to overdeveloped muscles.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2539380<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11416<\ID>
+		<Name>Aguabrial's Rod<\Name>
+		<Level>15<\Level>
+		<Description>Now you too can master the water of the rivers and seas. Not as well as Aguabrial, but it's better than nothing.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>25311416<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9382<\ID>
+		<Name>Spiritual Club<\Name>
+		<Level>20<\Level>
+		<Description>This club increases its bearer's power and can, if necessary, be eaten.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2539382<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9636<\ID>
+		<Name>Bridge Club<\Name>
+		<Level>21<\Level>
+		<Description>Fun for the novelty, but after five minutes it gets boring and you start dreaming of your next club.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2539636<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9383<\ID>
+		<Name>Intkisser Club<\Name>
+		<Level>25<\Level>
+		<Description>This weapon's owners can be easily recognized by their typical North Amakna accent and their battle cry, \"Pow! Right in't Kisser!\"<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2539383<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10138<\ID>
+		<Name>The Black Birch<\Name>
+		<Level>25<\Level>
+		<Description>This staff, usually only sold on the black market, loves to do your dirty work for you. The faithful weapon will smash any skulls that get in its way to a pulp.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25310138<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10078<\ID>
+		<Name>The Big Branch<\Name>
+		<Level>28<\Level>
+		<Description>Sylvester likes to start a fight by waving his staff around to intimidate his victims. He loves seeing them run away, trembling like leaves and with their tails between their legs.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>25310078<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12784<\ID>
+		<Name>The Spike<\Name>
+		<Level>30<\Level>
+		<Description>If you take hold of this staff firmly with both hands it'll seem to come to life and stiffen, ready for action!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>25312784<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9384<\ID>
+		<Name>Dafturkey Club<\Name>
+		<Level>35<\Level>
+		<Description>This weapon has the power to make you look a fool. Don't say we didn't warn you!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11217,11218,11219<\Children>
+		<Icon>2539384<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9973<\ID>
+		<Name>Corpse Club<\Name>
+		<Level>35<\Level>
+		<Description>If you can get over the deathly stench, this club is sure to satisfy your more morbid urges.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 35,<\Conditions>
+		<Children>11214,11215,11216<\Children>
+		<Icon>2539973<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10565<\ID>
+		<Name>Duke Bludgeon<\Name>
+		<Level>35<\Level>
+		<Description>You don't need to be a noble to carry this classy bludgeon.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25310565<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9385<\ID>
+		<Name>Club of Kings<\Name>
+		<Level>45<\Level>
+		<Description>This club can be used to knock out the rich and pocket their valuables.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9540,9541,9542<\Children>
+		<Icon>2539385<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11866<\ID>
+		<Name>Riktus Flagpole<\Name>
+		<Level>50<\Level>
+		<Description>Let the standards of war be drawn!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25311866<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9273<\ID>
+		<Name>Great Hon Staff<\Name>
+		<Level>51<\Level>
+		<Description>After being mocked for years for using his cards in combat, Hon shut his opponent's faces with this long bat.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2539273<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11062<\ID>
+		<Name>Spear Shark Spear<\Name>
+		<Level>54<\Level>
+		<Description>As sharp as a sharp shark tooth.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25311062<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9386<\ID>
+		<Name>Horned Club<\Name>
+		<Level>55<\Level>
+		<Description>This bludgeon was probably betrayed by its owner for a better-looking, newer, more powerful club. <\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11220,11221,11222<\Children>
+		<Icon>2539386<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12340<\ID>
+		<Name>Riktus Elite Flagpole<\Name>
+		<Level>55<\Level>
+		<Description>Hold this flagpole high with pride. Let the colours of the bandit elite shine on!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25312340<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16880<\ID>
+		<Name>Giant Stalagmite<\Name>
+		<Level>55<\Level>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25316880<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>17757<\ID>
+		<Name>Staff of Great Wisdom<\Name>
+		<Level>55<\Level>
+		<Description>The wise man admits he knows nothing. He also doesn't mess with someone wielding this staff.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25317757<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3827<\ID>
+		<Name>Pulperizor<\Name>
+		<Level>60<\Level>
+		<Description>There are no two ways about it, this staff crushes everything! Skull, cartilage, everything! That will be music to the ears of those you who like the sound of bones cracking... <\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8622,8623,8624,8625<\Children>
+		<Icon>2533827<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11701<\ID>
+		<Name>Rump Stake<\Name>
+		<Level>60<\Level>
+		<Description>It might not be the kind of stake you were hoping for, but you have to admit it's a very graceful shape.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11702,11703,11704,11705<\Children>
+		<Icon>25311701<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10015<\ID>
+		<Name>Turkeeper Club<\Name>
+		<Level>62<\Level>
+		<Description>This basic supple staff doesn't hurt very much: inoffensive, it was specially invented for hitting Dragoturkeys in the middle of the head to guide them.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25310015<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13777<\ID>
+		<Name>Lanco Plumo<\Name>
+		<Level>65<\Level>
+		<Description>Even in times of peace you want a slice of the action.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25313777<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10101<\ID>
+		<Name>First Swipes Club<\Name>
+		<Level>68<\Level>
+		<Description>Boowolfines make these staffs from the skulls of their former spouses. They might not be very magical, but they will make sure you never forget who wears the pants.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12403,12404,12405,12406<\Children>
+		<Icon>25310101<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17743<\ID>
+		<Name>First Swipes Club<\Name>
+		<Level>68<\Level>
+		<Description>Boowolfines make these staffs from the skulls of their former spouses. They might not be very magical, but they will make sure you never forget who wears the pants.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25310101<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15499<\ID>
+		<Name>Noble Crab Stick<\Name>
+		<Level>71<\Level>
+		<Description>See the tooth marks all over this stick? Well, Ogrest once mistook it for something edible. Not very bright, is he...?<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11315499<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12600<\ID>
+		<Name>Sacred Scepter<\Name>
+		<Level>74<\Level>
+		<Description>Give someone your blessing by bashing them on the head.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312600<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15210<\ID>
+		<Name>Nu-Clear Cudgel<\Name>
+		<Level>78<\Level>
+		<Description>Whatever numbskull takes this cudgel in the face is likely to sprout a third eye on a stalk. Choose your targets well.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25315210<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14652<\ID>
+		<Name>Sangroku's Magic Club<\Name>
+		<Level>80<\Level>
+		<Description>A magic club which can swell to an impressive size and then shrink again to fit in your pocket. Best appreciated by ladies.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25314652<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>91<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16079<\ID>
+		<Name>Brrrbwi Staff<\Name>
+		<Level>81<\Level>
+		<Description>This staff is made principally of Frozen Wood, which lends it a shiny and fragile appearance. One of its special features is its ability to split enemies in two!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25316079<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>147<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12623<\ID>
+		<Name>Nun Scythe<\Name>
+		<Level>84<\Level>
+		<Description>Now you look like the Grim Reaper, but scarier.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312623<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>14360<\ID>
+		<Name>Whispered Lance<\Name>
+		<Level>85<\Level>
+		<Description>Whisperers' lances always find their targets. It's said that their owners whisper them detailed directions before they go into battle.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25314360<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>148<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14653<\ID>
+		<Name>Ogrest's Toothpick <\Name>
+		<Level>90<\Level>
+		<Description>The village elders are fond of telling you youngsters how an entire village was destroyed when Ogrest chucked his toothpick from the mountaintop in a rage. Surely stories like that aren't true, though...<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25314653<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16819<\ID>
+		<Name>Floating Noodle<\Name>
+		<Level>92<\Level>
+		<Description>This tube of gelatinous foam is very useful for learning to swim.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25316819<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>151<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>38<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14278<\ID>
+		<Name>Ice Lance<\Name>
+		<Level>100<\Level>
+		<Description>This staff is as cold as ice and is willing to sacrifice... itself.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25314278<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>179<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14654<\ID>
+		<Name>Kwoac's Leg<\Name>
+		<Level>100<\Level>
+		<Description>A rumor says that this leg is part of a secret recipe for a potion which will transport you to a Moogrr bonus level. Rumors aren't even believable nowadays!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25314654<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>196<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15276<\ID>
+		<Name>Klor Ofil's Staff<\Name>
+		<Level>100<\Level>
+		<Description>This staff has a pleasant, woody smell about it... not like that nasty Corpse Club, which stinks so bad no one can bear to be in the same room as it.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25315276<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>135<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16765<\ID>
+		<Name>Cocktail Straw<\Name>
+		<Level>106<\Level>
+		<Description>This oversized straw still contains drops of week-old cocktail, meaning it splatters your enemies with sticky unpleasantness as well as doing them physical harm.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25316765<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16060<\ID>
+		<Name>Mecha-Cane<\Name>
+		<Level>110<\Level>
+		<Description>This stick's transposable top makes it the perfect companion for any handyman. Comes with 33 different connectors.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11316060<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>147<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18184<\ID>
+		<Name>Spore Launcher<\Name>
+		<Level>130<\Level>
+		<Description>This incredibly long staff helps its user to leap, walk upright, and knock opponents out.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25318184<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>144<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17268<\ID>
+		<Name>Scepter of Wage<\Name>
+		<Level>135<\Level>
+		<Description>This scepter is marked by rage and thirst for revenge. It used to belong to Beatwix Kiddo.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11317268<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17293<\ID>
+		<Name>Gwand Viziew's Scepter<\Name>
+		<Level>149<\Level>
+		<Description>You up to being the Gwand Viziew in place of the Gwand Viziew?<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11317293<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>325<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18451<\ID>
+		<Name>Brutus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>As heavy as it is imposing, this great mass will put off all but the most foolhardy of adventurers. However, Moskito hunting could be little taxing.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25318451<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>400<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17328<\ID>
+		<Name>The Wa's Scepter<\Name>
+		<Level>153<\Level>
+		<Description>The Wabbits say that it's the first scepter ever received by their Wa, during his childhood, but he forgot it among all his possessions.<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11317328<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>218<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18560<\ID>
+		<Name>The Laughing Scythe<\Name>
+		<Level>165<\Level>
+		<Description>This scythe's blade is said to look like a smile, and makes its user smile himself everytime he hits a friend or a foe!<\Description>
+		<Slot>Two-handed Staff<\Slot>
+		<SlotID>253<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25318560<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>181<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

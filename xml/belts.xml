@@ -1,0 +1,4988 @@
+
+<Items>
+	<Item>
+		<ID>13604<\ID>
+		<Name>Dieresis Belt<\Name>
+		<Level>1<\Level>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>13310277<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16093<\ID>
+		<Name>Cold Hunter Pants<\Name>
+		<Level>1<\Level>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316093<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16096<\ID>
+		<Name>Smisse Pirate's Pants<\Name>
+		<Level>1<\Level>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316096<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16938<\ID>
+		<Name>Hunter Pants<\Name>
+		<Level>1<\Level>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316938<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>7120<\ID>
+		<Name>Wodent Corset<\Name>
+		<Level>2<\Level>
+		<Description>A Wodent 'round your pelvis? Woah, take it easy, hot stuff!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1337120<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14741<\ID>
+		<Name>Dark Corset<\Name>
+		<Level>2<\Level>
+		<Description>A Wodent 'round your pelvis? Woah, take it easy, hot stuff!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314741<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2306<\ID>
+		<Name>Red Piwi Belt<\Name>
+		<Level>4<\Level>
+		<Description>This belt was made with love. The tuft of plumes is just to add a touch of glamour.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332306<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2307<\ID>
+		<Name>Blue Piwi Belt<\Name>
+		<Level>4<\Level>
+		<Description>This belt was made with love. The tuft of plumes is just to add a touch of glamour.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332307<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2308<\ID>
+		<Name>Purple Piwi Belt<\Name>
+		<Level>4<\Level>
+		<Description>This belt was made with love. The tuft of plumes is just to add a touch of glamour.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332308<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2309<\ID>
+		<Name>Green Piwi Belt<\Name>
+		<Level>4<\Level>
+		<Description>This belt was made with love. The tuft of plumes is just to add a touch of glamour.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332309<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11389<\ID>
+		<Name>Beltivore<\Name>
+		<Level>5<\Level>
+		<Description>With this kind of jello stuck to your stomach, your muscles will have to work twice as hard to hold it up. But don't worry - you'll end up with impeccable abs!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311389<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9498<\ID>
+		<Name>Adventurer Belt<\Name>
+		<Level>6<\Level>
+		<Description>A little belt for budding adventurers.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339498<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4226<\ID>
+		<Name>Twiggy Belt<\Name>
+		<Level>9<\Level>
+		<Description>If you have the soul of a lumberjack and you love big knots, this belt's for you. It may well be your undoing, however.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1334226<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10815<\ID>
+		<Name>Michelangecrow Belt<\Name>
+		<Level>9<\Level>
+		<Description>This belt will support your back, so you don't throw it out during those violent escapades of yours.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310815<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10999<\ID>
+		<Name>Belt of Destiny<\Name>
+		<Level>9<\Level>
+		<Description>The reconstructors need you!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310999<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9552<\ID>
+		<Name>Royal Piwi Belt<\Name>
+		<Level>11<\Level>
+		<Description>This belt is much more than a pile of feathers. It's a pile of royal feathers!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339552<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10781<\ID>
+		<Name>Belt of Respite<\Name>
+		<Level>11<\Level>
+		<Description>This belt will keep you safe when you lie down to catch some Zs. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310781<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11798<\ID>
+		<Name>Ratbelt<\Name>
+		<Level>11<\Level>
+		<Description>This belt isn't adjustable, and it's so slimy that it's likely to end up around your ankles. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311798<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2025<\ID>
+		<Name>Gobball Belt<\Name>
+		<Level>13<\Level>
+		<Description>This puffy and soft belt is a real temptation... Less secure adventurers benefit from the extra padding to make others believe they're better equipped than they are.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332025<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2039<\ID>
+		<Name>Tofu Belt<\Name>
+		<Level>13<\Level>
+		<Description>This belt is scarily light. It seems anything hidden behind it becomes weightless...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332039<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4229<\ID>
+		<Name>Windy Larval Belt<\Name>
+		<Level>14<\Level>
+		<Description>No, you're not going mad. The only thing holding your trousers up is, indeed, this viscous and sticky liquid dripping from your belt.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1334229<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14974<\ID>
+		<Name>Moist Larval Belt<\Name>
+		<Level>14<\Level>
+		<Description>No, you're not going mad. The only thing holding your trousers up is, indeed, this viscous and sticky liquid dripping from your belt.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332329<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14976<\ID>
+		<Name>Muddy Larval Belt<\Name>
+		<Level>14<\Level>
+		<Description>No, you're not going mad. The only thing holding your trousers up is, indeed, this viscous and sticky liquid dripping from your belt.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332328<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14977<\ID>
+		<Name>Roast Larval Belt<\Name>
+		<Level>14<\Level>
+		<Description>No, you're not going mad. The only thing holding your trousers up is, indeed, this viscous and sticky liquid dripping from your belt.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332330<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2397<\ID>
+		<Name>Noddabed Creeper<\Name>
+		<Level>15<\Level>
+		<Description>This huge cot-shaped plant is often used by adventurers as a hammock, hence its name.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1332397<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7577<\ID>
+		<Name>Scaraleaf Belt<\Name>
+		<Level>15<\Level>
+		<Description>On those well-watered Pandawan evenings, there's an old tradition of attaching your belt to the bar of the tavern so as not to fall over. Or so they can't throw you out...  <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1337577<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14831<\ID>
+		<Name>Gooberbelt<\Name>
+		<Level>16<\Level>
+		<Description>We're all thinking it, but we're too shy to say it out loud: on certain parts of the body, this gooey viscosity isn't so unpleasant<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314831<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10248<\ID>
+		<Name>Safety Belt<\Name>
+		<Level>17<\Level>
+		<Description>The guards at Amakna castle use this belt to contain riots and other disturbances during popular holidays.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310248<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10677<\ID>
+		<Name>Turnova Belt<\Name>
+		<Level>20<\Level>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310677<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13608<\ID>
+		<Name>Sacred Moogrr Sarong<\Name>
+		<Level>20<\Level>
+		<Description>Not quite the standard you're used to, this hide takes you back to the stone age!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13313608<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14712<\ID>
+		<Name>Beltedy<\Name>
+		<Level>20<\Level>
+		<Description>This belt was crafted by a bear with few brain cells and poor spelling.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314712<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15530<\ID>
+		<Name>Cloudy Piwi Belt<\Name>
+		<Level>21<\Level>
+		<Description>This belt is so soft! If you didn't know any better, you'd think it was made of luxury toilet paper.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315530<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9499<\ID>
+		<Name>Blibli Belt<\Name>
+		<Level>22<\Level>
+		<Description>Very sturdy and resistant, this belt will make you powerful, if not graceful.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339499<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10115<\ID>
+		<Name>Scarabelt<\Name>
+		<Level>22<\Level>
+		<Description>With this belt, all the girls will want to drive your Dragoturkey. You will be famous, and maybe even in love.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310115<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9556<\ID>
+		<Name>Kapow Belt<\Name>
+		<Level>23<\Level>
+		<Description>This belt does everything. Well, almost. Kapow sock whack!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339556<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9571<\ID>
+		<Name>Prespic Belt<\Name>
+		<Level>25<\Level>
+		<Description>This belt, made from woven spikes, can withstand any amount of pressure. However, once you've got it on, it's quite delicate to remove. Don't say we didn't warn you...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339571<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10127<\ID>
+		<Name>Trembella Belt<\Name>
+		<Level>25<\Level>
+		<Description>This belt keeps you keep your feet on the ground during an earthquake. Some even say it controls the giants that cause them.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310127<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>135<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10194<\ID>
+		<Name>Shumba Belt<\Name>
+		<Level>25<\Level>
+		<Description>Cliffe Heath is known for being a tireless adventurer. Jumping from branch to branch, he quickly learned the secrets of the hunters of the World of Twelve.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>13310194<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2075<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10316<\ID>
+		<Name>Strawcrow Belt<\Name>
+		<Level>25<\Level>
+		<Description>Its hot yellow shine and luxurious finish make it look just like gold. Don't get too carried away, though, it's just woven straw.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310316<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>132<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10385<\ID>
+		<Name>Crabbelt<\Name>
+		<Level>25<\Level>
+		<Description>Holy Crab, my finger's caught in the pincer!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310385<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11807<\ID>
+		<Name>Atroashabelt<\Name>
+		<Level>25<\Level>
+		<Description>Thank god you can hide this belt under your clothes. Just hope it doesn't rear its ugly head - now that wouldn't be a sight for sore eyes!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311807<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>133<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10087<\ID>
+		<Name>Trutru<\Name>
+		<Level>26<\Level>
+		<Description>All little rats should have one of these in their wardrobe. It turns elegantly when you dance too close to a Bow Meow.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310087<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10137<\ID>
+		<Name>Belt O'Tune<\Name>
+		<Level>27<\Level>
+		<Description>The holes in this belt are shaped to \"sing\" (off-key) a little song whenever you cast a spell. Not sure whether your team-mates will appreciate it...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>13310137<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10110<\ID>
+		<Name>Trance Belt<\Name>
+		<Level>28<\Level>
+		<Description>This belt is highly sought-after because whoever equips it enters into a trance in which they see the galloooping haaands of tiiime slooowing dooown ooon the liiit diiiaaaaals.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>13310110<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>767<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10159<\ID>
+		<Name>Fan Belt<\Name>
+		<Level>28<\Level>
+		<Description>The general public don't know too much about the practices of belt fanatics, even if many of them do take place at home. You might be surprised!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>13310159<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>507<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>522<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12780<\ID>
+		<Name>Glowing Stalagtight<\Name>
+		<Level>28<\Level>
+		<Description>This belt is like an electric blanket... except it's around your waist.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312780<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10204<\ID>
+		<Name>Drhellt<\Name>
+		<Level>29<\Level>
+		<Description>Jess doesn't like the thought of aging. That's why he takes so much pleasure in his transformations, which take him straight back to his youth on a daily basis.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>13310204<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2038<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5993<\ID>
+		<Name>Sangroku's Belt<\Name>
+		<Level>30<\Level>
+		<Description>When Sangroku had eaten too many magic beans, he tied this belt hard around his waist to plug the winds of panic for which he was famous. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11005,11006,11007<\Children>
+		<Icon>1335993<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10077<\ID>
+		<Name>Doll Mistress Belt<\Name>
+		<Level>30<\Level>
+		<Description>Charm excels in the art of manipulation and is feared for his ability to tear apart any enemy and make them dance to his tune, dead or alive.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>13310077<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>911<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>933<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10108<\ID>
+		<Name>Yelo Belt<\Name>
+		<Level>30<\Level>
+		<Description>Will Yamtell was known for his ability to get things off to an explosive start. Far from being passionate about archery, though, he was just a pathetic coward who hid behind his fiery temper.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>13310108<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>617<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10135<\ID>
+		<Name>Master of Time Belt<\Name>
+		<Level>30<\Level>
+		<Description>Xunil the Megalomaniac wanted to become the best Xelor in the World. People made fun of him so much that he ended up making this \"Master of Time Belt\" so people would take him more seriously.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>13310135<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>785<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10141<\ID>
+		<Name>Dizzay Belt<\Name>
+		<Level>30<\Level>
+		<Description>This belt can really put some oomph into a fight. Keep an Eniripsa close at hand!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>13310141<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2121<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10197<\ID>
+		<Name>Dream Belt<\Name>
+		<Level>30<\Level>
+		<Description>Hermania was very friendly, especially with the gentlemen, and she often took advantage of her popularity to get her own way. Now you're the one wearing the trousers, she must be beside herself...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>13310197<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>781<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>627<\Value><\Stat>
+			<Stat><ID>176<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10574<\ID>
+		<Name>Vegebelt<\Name>
+		<Level>30<\Level>
+		<Description>Make sure you water this strip of greenery every day!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310574<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10575<\ID>
+		<Name>Truffelt<\Name>
+		<Level>30<\Level>
+		<Description>Wear this belt right and your sense of smell will become incredibly sensitive.\\nYou should consider plugging up your nose before you put it on.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310575<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10576<\ID>
+		<Name>Snapstrap<\Name>
+		<Level>30<\Level>
+		<Description>O snap!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310576<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10192<\ID>
+		<Name>Ace Belt<\Name>
+		<Level>31<\Level>
+		<Description>This belt might bring you some luck, if you can manage to keep it up your sleeve.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>13310192<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2068<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10213<\ID>
+		<Name>Piggy Belt<\Name>
+		<Level>31<\Level>
+		<Description>Alister Ling was great at sniffing out lucrative veins and making a huge profit out of them, thanks to this belt designed to carry kamas.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310213<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10142<\ID>
+		<Name>Hippo Lite's Belt<\Name>
+		<Level>32<\Level>
+		<Description>Lerakles stole this belt from the Anazome Queen, Hippo Lite. It'll improve some of your archery skills.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>13310142<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>599<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>619<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10181<\ID>
+		<Name>Coney Mistress Belt<\Name>
+		<Level>32<\Level>
+		<Description>Bluna Feelgood was never much of a fighter, sensitized to monsters' plight by her father's writings. When it came to healing, on the other hand, no one could hold a Cawwot to her.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>13310181<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>782<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10210<\ID>
+		<Name>Muddy Belt<\Name>
+		<Level>32<\Level>
+		<Description>This mucky belt will leave brown stains all over your clothes. You'll have a lot of awkward explaining to do, so you won't want to hang on to it for too long.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>13310210<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2064<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11066<\ID>
+		<Name>The Beltoad<\Name>
+		<Level>32<\Level>
+		<Description>If this belt doesn't feel tight enough, you can always pull the tongue a bit further. That's what it's made for.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311066<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15343<\ID>
+		<Name>Cloudy Tofu Belt<\Name>
+		<Level>32<\Level>
+		<Description>This belt won the World of Twelve's Most Comfortable Belt award this year. You bandwagon jumper, you.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315343<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9501<\ID>
+		<Name>Royal Tofu Belt<\Name>
+		<Level>34<\Level>
+		<Description>For once, you've got your hands on a really classy belt. It even has an integrated seed dispenser.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339501<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11071<\ID>
+		<Name>Boobelt<\Name>
+		<Level>34<\Level>
+		<Description>A luxury belt for any self-respecting boo!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311071<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9304<\ID>
+		<Name>The Resilient<\Name>
+		<Level>35<\Level>
+		<Description>This magnificent belt will make you look super sharp. Unless you're a Iop, of course.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11013,11014,11015<\Children>
+		<Icon>1339304<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10202<\ID>
+		<Name>Pyrotech Belt<\Name>
+		<Level>35<\Level>
+		<Description>A real hothead, Ardy will do anything to set sparks flying. Judging by the smell this belt gives off, a lot of his enemies' hopes of victory have already gone up in smoke.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>13310202<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2009<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10206<\ID>
+		<Name>Patapon Belt<\Name>
+		<Level>35<\Level>
+		<Description>Jodi Nar hates letting go of items. She keeps them for their sentimental value, of course. Like this belt, which used to be her late Drheller's collar.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310206<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10156<\ID>
+		<Name>Ur Belt<\Name>
+		<Level>36<\Level>
+		<Description>This belt, which was made by a group of Iops who preferred suffering to looking good, is armed with two big metal spikes which cut at your thighs with every step.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>13310156<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>1908<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10149<\ID>
+		<Name>Beloda Belt<\Name>
+		<Level>37<\Level>
+		<Description>You'd better not turn your back on enemies: this vicious belt will prevent you from keeping the upper hand if someone happens to attack you from behind.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>13310149<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>749<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10157<\ID>
+		<Name>Unduris Belt<\Name>
+		<Level>37<\Level>
+		<Description>You don't often come across an imaginative Iop... Feeling marginalized, Doof decided to wear this turquoise belt to poke fun at his destined path.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>13310157<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>1399<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10281<\ID>
+		<Name>Raya Bean's Nights<\Name>
+		<Level>37<\Level>
+		<Description>Raya Bean made friends easily and often invited them to costume parties. He used to give the guests jewelry as party favors to thank them for attending.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310281<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10051<\ID>
+		<Name>Renny Belt<\Name>
+		<Level>38<\Level>
+		<Description>This belt will keep your gas under wraps after a steaming bowl of cabbage soup.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310051<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10189<\ID>
+		<Name>Toxic Bandage<\Name>
+		<Level>38<\Level>
+		<Description>The universally-despised Hairy Rotter is known for poisoning the lives of other Eniripsas with his terrible, and highly contagious, mood swings.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>13310189<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>239<\ID><Value>624<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10053<\ID>
+		<Name>Golden Scarabelt<\Name>
+		<Level>39<\Level>
+		<Description>If you love running naked along beaches, you're sure to love this belt, which doubles up as a fig-leaf replacement. There's even a place to keep some self-tanning lotion behind the buckle.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310053<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10054<\ID>
+		<Name>Thread Belt<\Name>
+		<Level>39<\Level>
+		<Description>This belt, adapted to a depraved lifestyle, has a habit of undoing itself faster than its own shadow.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310054<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10143<\ID>
+		<Name>The Krylic<\Name>
+		<Level>40<\Level>
+		<Description>This attractive belt dissolves in water, so make sure you take it off when it rains!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310143<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10187<\ID>
+		<Name>Inda Belt<\Name>
+		<Level>40<\Level>
+		<Description>This rare and exceptional belt really did cost an arm and a leg. Its creator had to crawl inside a Dragoturkey to get it back.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>13310187<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10580<\ID>
+		<Name>Lil Challenger Belt<\Name>
+		<Level>40<\Level>
+		<Description>Wear your Lil Challenger Belt proudly!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310580<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10717<\ID>
+		<Name>Ekseksell Belt<\Name>
+		<Level>40<\Level>
+		<Description>This is the belt you need if you love being wrapped up in extra-large affection!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310717<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10996<\ID>
+		<Name>Leafy Belt<\Name>
+		<Level>40<\Level>
+		<Description>If you want to blend perfectly into the background and be at one with nature, why not try adopting the Koko attitude and wearing nothing but this belt?<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310996<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9502<\ID>
+		<Name>Arachnee Belt<\Name>
+		<Level>41<\Level>
+		<Description>The little Arachnee on the front of this belt will protect you from any low blows.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339502<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10106<\ID>
+		<Name>Magnolia's Pink Panties<\Name>
+		<Level>42<\Level>
+		<Description>These are definitely the nicest panties you'll ever see! They're so light and comfortable that your movements will become more graceful when you wear them.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>13310106<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>928<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>938<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14046<\ID>
+		<Name>Crocobelt<\Name>
+		<Level>42<\Level>
+		<Description>This belt's buckle is as hard and scaly as a crocodile's snout. Once you snap it closed, there's no way you're getting it open again. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314046<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6783<\ID>
+		<Name>Pacific Belt<\Name>
+		<Level>43<\Level>
+		<Description>This belt is so called because of the impulses of peace it provokes. Lots of peace. But where's the love?<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1336783<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14706<\ID>
+		<Name>Prinssly Belt<\Name>
+		<Level>43<\Level>
+		<Description>An uncompromising belt to protect your regal back.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314706<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15345<\ID>
+		<Name>Celestial Tofu Belt<\Name>
+		<Level>44<\Level>
+		<Description>Don't forget to belt up before you take off for the celestial promised land.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315345<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7576<\ID>
+		<Name>Pandawan Belt<\Name>
+		<Level>45<\Level>
+		<Description>This is the famous belt that Pandawans tend to take off when they've drunk too much. Let's just say they don't wear it too often. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1337576<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10338<\ID>
+		<Name>Taurbelt<\Name>
+		<Level>45<\Level>
+		<Description>The Taurs aren't normally know for tightening their belts. This one is very elastic.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310338<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11017<\ID>
+		<Name>Brambelt<\Name>
+		<Level>45<\Level>
+		<Description>It looks like it was nicked while it was asleep in the woods.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311017<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11584<\ID>
+		<Name>Royal Bonebelt<\Name>
+		<Level>45<\Level>
+		<Description>Too tight and badly-designed, the Chafer King's belt has some trouble adapting to Iop use. For Srams, however, it should be a perfect fit.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311584<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11594<\ID>
+		<Name>Kokobelt<\Name>
+		<Level>45<\Level>
+		<Description>Go ahead and tighten this belt a few notches. The previous owner was a bit too roly-poly.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311594<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14045<\ID>
+		<Name>Magic Roundabelt<\Name>
+		<Level>45<\Level>
+		<Description>Boiiing! Time for bed!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314045<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10052<\ID>
+		<Name>Adelus<\Name>
+		<Level>46<\Level>
+		<Description>This belt has a really nice massaging effect on its wearer's skin. The lucky owner ends up less stressed and is thus more ready to react in battle.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310052<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10979<\ID>
+		<Name>Stalagtight<\Name>
+		<Level>48<\Level>
+		<Description>This original belt won't stand for any weight gain when you're wearing it. If you're not careful, you might find yourself stuck in it...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310979<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11600<\ID>
+		<Name>Shorts Belt<\Name>
+		<Level>49<\Level>
+		<Description>Highly practical for sunbathing on the beach, this belt offers unbeatable support in stormy battles.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311600<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12056<\ID>
+		<Name>Union Belt<\Name>
+		<Level>49<\Level>
+		<Description>This multi-functional belt helps hold you and all of your friends together in a cozy little group, and also prevents incontinence. Just make sure you don't slip out of the loop or you might find yourself all on your own in a puddle.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12076,12077,12078<\Children>
+		<Icon>13312056<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4230<\ID>
+		<Name>Riktus Belt<\Name>
+		<Level>50<\Level>
+		<Description>The Riktus have reinforced the purse attachment to make sure they don't get beaten at their own game.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1334230<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9305<\ID>
+		<Name>Treebelt<\Name>
+		<Level>50<\Level>
+		<Description>This wooden belt was designed to double up as a lifebelt during the summer holidays.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339305<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11075<\ID>
+		<Name>Kralabelt<\Name>
+		<Level>50<\Level>
+		<Description>If you're using this tentacle as a belt, you're going to have to be nice to it. If you annoy it, it won't waste any time untying itself and you'll be caught with your trousers down before you know it.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13311075<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>72<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12802<\ID>
+		<Name>Garter Belt<\Name>
+		<Level>50<\Level>
+		<Description>This belt will hold in all that excess weight!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>13312802<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13580<\ID>
+		<Name>Old Belt<\Name>
+		<Level>50<\Level>
+		<Description>Even if this belt is slightly too large for your muscular torso, we recommend you hold on to it. Its value will become clear...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13313580<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14853<\ID>
+		<Name>Treechnid Belt<\Name>
+		<Level>50<\Level>
+		<Description>The original version of this belt wasn't very solid. It's been remade with Treechnid branches so its wearer won't end up with his pants around his ankles.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314853<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15988<\ID>
+		<Name>Luthuthu Belt<\Name>
+		<Level>50<\Level>
+		<Description>This belt bears the ridiculous name of its creator, Luthuthu, a shoemaker much less well known than Bowisse, yet still very creative despite his advanced age.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>55115988<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>135<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14619<\ID>
+		<Name>Infernal Belt<\Name>
+		<Level>53<\Level>
+		<Description>Beware of careless flatulence; if you play with fire, you'll get burned.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314619<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14613<\ID>
+		<Name>Imperial Tofu Belt<\Name>
+		<Level>54<\Level>
+		<Description>How ironic that the only time you feel as free as a bird is when you're strapped tightly into a belt that's obviously too small for you.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314613<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4237<\ID>
+		<Name>Lututu<\Name>
+		<Level>55<\Level>
+		<Description>There are plenty of theories about the conception of this belt, but everyone knows they're all pipe dreams!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1334237<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>14617<\ID>
+		<Name>Immunity Belt<\Name>
+		<Level>55<\Level>
+		<Description>This belt should guarantee one thing at least: you won't be knocked out by disease.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314617<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10703<\ID>
+		<Name>Rascal Belt<\Name>
+		<Level>56<\Level>
+		<Description>This belt's hooks will prevent enemies from escaping your unending tomfoolery. Mwa ha ha ha!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310703<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15030<\ID>
+		<Name>Privateer Belt<\Name>
+		<Level>56<\Level>
+		<Description>This belt offers a handy spot for pirates to store their aces when playing cards (everyone knows their sleeves were long ago ripped off by raging captains, crocodiles, or the wear and tear of sea life).<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315030<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17816<\ID>
+		<Name>Bworcine Pedalian Cincture<\Name>
+		<Level>56<\Level>
+		<Description>Don't be fooled by the highfalutin name. It's said this \"cincture\" is actually the repurposed toe ring of what must be the biggest Bwork in history. As we all know, as the dimensions of a Bwork increase by a factor of n, Bwork surface area increases by n <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317816<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9654<\ID>
+		<Name>Lute Belt<\Name>
+		<Level>57<\Level>
+		<Description>At the crack of dawn, there's no sweeter sound than a lute ditty.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339654<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14883<\ID>
+		<Name>Deckhand Belt<\Name>
+		<Level>58<\Level>
+		<Description>A sailor belt made from a length of old rope. It's not fancy, but it'll do the job.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314883<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14615<\ID>
+		<Name>Ebony Scarabelt<\Name>
+		<Level>59<\Level>
+		<Description>Everyone wonders what those little wings are all over it.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314615<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15172<\ID>
+		<Name>Wounded Belt<\Name>
+		<Level>59<\Level>
+		<Description>If that belt is anywhere near as sharp as it looks, some of the blood dripping off it is definitely yours. Call a medic!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315172<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17759<\ID>
+		<Name>Wild Belt <\Name>
+		<Level>59<\Level>
+		<Description>This belt is as warm as it is odorous.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317759<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8379<\ID>
+		<Name>Beltrool<\Name>
+		<Level>60<\Level>
+		<Description>Trool slayers normally wear their belts as a trophy. Well, the biggest ones do.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1338379<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10277<\ID>
+		<Name>Tot' Belt<\Name>
+		<Level>60<\Level>
+		<Description>If you happen to have this belt on your hips, you're in luck: it used to belong to the strongest and most seductive bearded hero of all time.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310277<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12578<\ID>
+		<Name>Shepherdess Ribbon<\Name>
+		<Level>60<\Level>
+		<Description>There's no reason why you can't look after Gobballs and be the height of fashion at the same time.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312578<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14614<\ID>
+		<Name>Alpha Predator Belt<\Name>
+		<Level>60<\Level>
+		<Description>For once, if you hear gurgling, it's probably not coming from your stomach. <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314614<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14728<\ID>
+		<Name>Father Belt<\Name>
+		<Level>60<\Level>
+		<Description>Leia, I am your...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314728<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15160<\ID>
+		<Name>Marboulder Belt<\Name>
+		<Level>61<\Level>
+		<Description>Once you get back from your adventures, you've sworn to SOMEHOW add this piece to the epic marble run leading from your bedroom to the garage, passing through all the rooms in the house. But now, brave Ulysses, is not the time for play. It is the time for<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315160<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15328<\ID>
+		<Name>Whirly Belt<\Name>
+		<Level>61<\Level>
+		<Description>With this belt around your hips, you can twist and shout all night long! Why not change your name to Russell? Go wild!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315328<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12570<\ID>
+		<Name>Woolly Belt<\Name>
+		<Level>62<\Level>
+		<Description>This belt will keep your lumbar region nice and warm, which should soothe that dodgy disk of yours.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312570<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10096<\ID>
+		<Name>Boowish Belt<\Name>
+		<Level>63<\Level>
+		<Description>The hairs on this very soft belt become strangely clingy when the sun goes down.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13310096<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12361<\ID>
+		<Name>Miliboowolf Belt<\Name>
+		<Level>63<\Level>
+		<Description>This belt is made from the softest Boowolf hairs around.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312361<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14618<\ID>
+		<Name>Ugly Queen Belt<\Name>
+		<Level>63<\Level>
+		<Description>A belt that will make you look fat. There, I said it.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314618<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15117<\ID>
+		<Name>Crustastrap<\Name>
+		<Level>63<\Level>
+		<Description>Make sure you don't stick the two ends of this belt together. You don't want irritant bits near your... irritable bits.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315117<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9310<\ID>
+		<Name>Kama Belt<\Name>
+		<Level>64<\Level>
+		<Description>Anyone ever told you that you've got a heart of gold?<\Description>
+		<Slot>Belt<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339310<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14616<\ID>
+		<Name>Imperial Bonebelt<\Name>
+		<Level>65<\Level>
+		<Description>At least with this belt, you can be sure you'll never get fat.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314616<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14852<\ID>
+		<Name>Ancestral Treechnid Belt<\Name>
+		<Level>65<\Level>
+		<Description>This belt is available in one size only. Skinny malinkeys will have to hold it up, whilst fatties can... well, lose some weight.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314852<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14862<\ID>
+		<Name>Exotic Loincloth<\Name>
+		<Level>65<\Level>
+		<Description>Wow. When you said you wanted to be king of the swingers now, the island VIP, nobody expected it to be so... graphic.  <\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314862<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15569<\ID>
+		<Name>Strichy Belt<\Name>
+		<Level>66<\Level>
+		<Description>This belt will have you well and truly in Striches.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315569<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15486<\ID>
+		<Name>Royal Crab Belt<\Name>
+		<Level>67<\Level>
+		<Description>You could work for the tourist board with that seaside smell following you everywhere you go.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315486<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15496<\ID>
+		<Name>Crabbelt<\Name>
+		<Level>67<\Level>
+		<Description>This belt would look better down where it's wetter - take it from me.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315496<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15504<\ID>
+		<Name>Royal Puddly Belt<\Name>
+		<Level>67<\Level>
+		<Description>A kingly belt for the daytime; a hula skirt for the evening. Perfect!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315504<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15506<\ID>
+		<Name>Moist Belt<\Name>
+		<Level>67<\Level>
+		<Description>It's said that this belt used to belong to a famous Puddly... but everyone's forgotten his name.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315506<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15547<\ID>
+		<Name>Royal Moogrr Belt<\Name>
+		<Level>67<\Level>
+		<Description>Too skinny! Not good for bearing Moogrroons.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315547<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5971<\ID>
+		<Name>Boowolf String<\Name>
+		<Level>68<\Level>
+		<Description>Yes, Boowolwes also wear Strings, so what? Everyone is entitled to their share of femininity!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1335971<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15353<\ID>
+		<Name>Divine Tofu Belt<\Name>
+		<Level>68<\Level>
+		<Description>Doubles up as a halo if ever you have to fake your own death.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315353<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15176<\ID>
+		<Name>Blood-Stained Belt<\Name>
+		<Level>69<\Level>
+		<Description>Are those pin-striped legs you've got there? Oh... Sorry... It's just the blood from your belt. That's embarrassing.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315176<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12456<\ID>
+		<Name>Black Belt<\Name>
+		<Level>72<\Level>
+		<Description>No... This belt does NOT mean that you are a master in martial arts... it might make you feel like one, though!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312456<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>74<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15796<\ID>
+		<Name>Cap'n Nebo's Belt<\Name>
+		<Level>72<\Level>
+		<Description>Cap'n Nebo didn't have an easy childhood... He lost his mother very early on, was kidnapped during a school field trip, and was locked up in a glass prison.<\Description>
+		<Slot>Belt<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315796<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15797<\ID>
+		<Name>Cap'n Gluglug's Belt<\Name>
+		<Level>72<\Level>
+		<Description>This belt used to belong to a Sadida. I mean, who else would wear a belt lined with Reinette fur on the inside and Strichon down on the outside?<\Description>
+		<Slot>Belt<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315797<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15798<\ID>
+		<Name>Cap'n Flex's Belt<\Name>
+		<Level>72<\Level>
+		<Description>Smooth, suave and traditional, this belt is all you need to groove to the vibe and be stylish all aerobics class long. Probably.<\Description>
+		<Slot>Belt<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315798<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15799<\ID>
+		<Name>Captain Hairnet's Belt<\Name>
+		<Level>72<\Level>
+		<Description>Captain Hairnet was always interested in promoting clean hair; he believed that this fight was the key to controlling the chaos and disorder that plagued the waters of the World of Twelve.<\Description>
+		<Slot>Belt<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315799<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8259<\ID>
+		<Name>Crobelt<\Name>
+		<Level>73<\Level>
+		<Description>This belt is supposed to improve back trouble. Or is that the other way round? You won't know until you try it on!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1335749<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15206<\ID>
+		<Name>The Phosphorescent<\Name>
+		<Level>73<\Level>
+		<Description>This belt can also be used as a hi-vis band to make your Dragoturkey visible to other path users on dark nights.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315206<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17813<\ID>
+		<Name>Thork Belt<\Name>
+		<Level>73<\Level>
+		<Description>Thork's belt keeps his pants from falling down. Which almost never happens now that he's \"borrowed\" Kiki, the Bwoggall mount of the Explorer leader.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317813<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12605<\ID>
+		<Name>Clergyman Belt<\Name>
+		<Level>75<\Level>
+		<Description>It's hard to tell how many clergyman actually wear this belt, but it's supposed to help hold up your trousers.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312605<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15023<\ID>
+		<Name>Hurl Belt<\Name>
+		<Level>75<\Level>
+		<Description>A belt so tight that it might just make you want to heave...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315023<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15491<\ID>
+		<Name>Imperial Crab Belt<\Name>
+		<Level>76<\Level>
+		<Description>My friend used to have one of these. He was constantly chewing on pieces of Crab Stick and breathing down my neck. We're not friends any more.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315491<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15505<\ID>
+		<Name>Imperial Puddly Belt<\Name>
+		<Level>76<\Level>
+		<Description>It may not provide water when it gets really hot, but it does let the air circulate freely around your undercarriage.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315505<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12636<\ID>
+		<Name>Hairy Rat Belt<\Name>
+		<Level>77<\Level>
+		<Description>Smell a rat...? Oh...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312636<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13566<\ID>
+		<Name>Gladiatrool Box<\Name>
+		<Level>80<\Level>
+		<Description>This protects what needs to be protected!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13313566<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14734<\ID>
+		<Name>Sen Souali Belt<\Name>
+		<Level>80<\Level>
+		<Description>This belt is highly prized by Rats and wannabe Rats.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314734<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>92<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15407<\ID>
+		<Name>The Laughing Rat<\Name>
+		<Level>80<\Level>
+		<Description>The tighter you pull this belt, the wider it will smile. It serves no purpose whatsoever, but it's pretty funny.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315407<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15123<\ID>
+		<Name>Kraken Belt<\Name>
+		<Level>81<\Level>
+		<Description>A belt that really is one-size-fits-all. Pretty useful if you've gone overboard on the Artichoke Chips!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315123<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16893<\ID>
+		<Name>Beltolier<\Name>
+		<Level>81<\Level>
+		<Description>This belt used to be used to store snacks for those anxious moments.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316893<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12818<\ID>
+		<Name>Waistfut<\Name>
+		<Level>82<\Level>
+		<Description>If you thought gaining a few inches around the middle was bad, try a whole fut!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312818<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15955<\ID>
+		<Name>Brrrbli Belt<\Name>
+		<Level>82<\Level>
+		<Description>It's not a good idea to tighten your belt in such freezing conditions! Better go out on a full stomach: after all, you're not endowed with an extra layer of fat like a Brrrbli.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315955<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15611<\ID>
+		<Name>Cloudy Strich Belt<\Name>
+		<Level>84<\Level>
+		<Description>You had always thought there'd be more to your life than the whole \"bridle and groom\" story.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315611<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16901<\ID>
+		<Name>El Pochito Thong<\Name>
+		<Level>84<\Level>
+		<Description>A Moogrr leash? Nope, a Trool's underpants. Try them on!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316901<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15024<\ID>
+		<Name>Admiral Hurl Belt<\Name>
+		<Level>85<\Level>
+		<Description>Nobody knows who Admiral Hurl was, but to have a belt like this named after him, he must have been a pretty cool guy.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315024<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12622<\ID>
+		<Name>Nunnish Doily<\Name>
+		<Level>86<\Level>
+		<Description>When you take this off, you can use it to protect the table from nasty stains.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312622<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14415<\ID>
+		<Name>Whispered Belt<\Name>
+		<Level>89<\Level>
+		<Description>If nobody else will whisper sweet nothings to you, at least your belt will.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314415<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12382<\ID>
+		<Name>Hurdy Girdle<\Name>
+		<Level>91<\Level>
+		<Description>The little bells that adorn this belt jingle so violently that they make it impossible to sneak up on anyone. Look, it was either style or surprise. You can't have both!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312382<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16802<\ID>
+		<Name>Oyster Belt<\Name>
+		<Level>91<\Level>
+		<Description>This belt has room for you to store your important documents, as long as you don't mind them getting all salty and wet.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316802<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16904<\ID>
+		<Name>Imperial Trool Belt<\Name>
+		<Level>92<\Level>
+		<Description>A good workman never blames his Trools.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316904<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13546<\ID>
+		<Name>Vampyro's Belt<\Name>
+		<Level>93<\Level>
+		<Description>It almost looks as though this belt is sticking its tongue out to taunt you.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13312884<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16817<\ID>
+		<Name>Trunks <\Name>
+		<Level>94<\Level>
+		<Description>All the cool kids are wearing them... Honest!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316817<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16820<\ID>
+		<Name>Emergency Buoy<\Name>
+		<Level>94<\Level>
+		<Description>Oh buoy... What did I tell you? Only pull the cord in an emergency... or a particularly sticky encounter!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316820<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17627<\ID>
+		<Name>M.A.R.C. 3 Belt<\Name>
+		<Level>95<\Level>
+		<Description>This amazing belt can scan all the grains of sand in any particular underwater area, but it no longer keeps a total of grains scanned. So... not very useful.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317627<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14635<\ID>
+		<Name>Imperial Pyrotech Belt <\Name>
+		<Level>100<\Level>
+		<Description>This belt is a wonder of modern engineering and has enough room for plenty of snaps, crackles, and pops.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314635<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16831<\ID>
+		<Name>Blow-Up Shorts<\Name>
+		<Level>100<\Level>
+		<Description>These shorts will keep a respectable distance between you and your partner on the dancefloor.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316831<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17165<\ID>
+		<Name>Apprentice Belt<\Name>
+		<Level>100<\Level>
+		<Description>A man cannot learn wisdom by surrounding himself with ignorance.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317165<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>86<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18693<\ID>
+		<Name>Sanefty Belt<\Name>
+		<Level>100<\Level>
+		<Description>This belt can ensure your own safety, though perhaps not that of those around you.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1339306<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15623<\ID>
+		<Name>Divine Strich Miniskirt<\Name>
+		<Level>104<\Level>
+		<Description>Crazy little party Strich, how I love her! Party party, always ready to dance.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315623<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14118<\ID>
+		<Name>Gobbalrog Belt<\Name>
+		<Level>105<\Level>
+		<Description>With this belt, you're sure to be full of beans! Not suitable for those with sensitive skin. Beware of backfire.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314118<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14143<\ID>
+		<Name>White Crow Belt<\Name>
+		<Level>105<\Level>
+		<Description>A very trendy belt, ideal for clubbing. Thanks to its high visibility, this belt can be spotted from a distance, even when it's pitch black.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314143<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16772<\ID>
+		<Name>Jelt<\Name>
+		<Level>105<\Level>
+		<Description>This social outcast of a belt decided to try to become cool by imitating the Gelano. Now, you too can try to be cool by pretending your Gelano fits around your waist.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316772<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14433<\ID>
+		<Name>Rampart Belt<\Name>
+		<Level>106<\Level>
+		<Description>Protects against: cannonballs. Does not protect against: groin strains.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314433<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15963<\ID>
+		<Name>Polar Belt<\Name>
+		<Level>109<\Level>
+		<Description>The frost that covers this belt lends it a certain refinement. Any self-respecting adventurer owes it to himself to wear it at least once a week when on Frigost Island!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315963<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16019<\ID>
+		<Name>YeCh'Ti'Wawa's Belt<\Name>
+		<Level>109<\Level>
+		<Description>This belt can be used as a leash, which is no reason to use it as a necklace.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316019<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16050<\ID>
+		<Name>Warmabones Belt<\Name>
+		<Level>112<\Level>
+		<Description>The Warmabones Belt is an original design by Klime the Shoemaker. We all have our own little ways of keeping warm.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316050<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>33<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16061<\ID>
+		<Name>Big Drive Belt<\Name>
+		<Level>112<\Level>
+		<Description>This drive belt, developed by Sylargh, multiplies the capabilities of any mechanical system.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316061<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16047<\ID>
+		<Name>Necroforged Belt<\Name>
+		<Level>115<\Level>
+		<Description>This belt was one of Jiva's gifts to Missiz Freezz. It earned her the nickname \"Buns of Ice\"!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316047<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14455<\ID>
+		<Name>Worn Hushed Belt<\Name>
+		<Level>117<\Level>
+		<Description>It's just (hush!) a little crush (hush!)...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314472<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14472<\ID>
+		<Name>Battered Hushed Belt<\Name>
+		<Level>117<\Level>
+		<Description>It's just (hush!) a little crush (hush!)...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314472<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14473<\ID>
+		<Name>Hushed Belt<\Name>
+		<Level>117<\Level>
+		<Description>It's just (hush!) a little crush (hush!)...<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13314472<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>112<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17161<\ID>
+		<Name>Initiate Belt<\Name>
+		<Level>120<\Level>
+		<Description>Wisdom is the supreme part of happiness.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317161<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18094<\ID>
+		<Name>Ocushu Link<\Name>
+		<Level>120<\Level>
+		<Description>Strengthening the ties can only help you do more evil.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318094<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>304<\ID><Value>2514<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16975<\ID>
+		<Name>Turq Tutu<\Name>
+		<Level>121<\Level>
+		<Description>Unfortunately, this one can't boast +20, but they say it's a relic handed down for generations, which has to count for something.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316975<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>122<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17253<\ID>
+		<Name>Black Wabbit Undewweaw<\Name>
+		<Level>122<\Level>
+		<Description>Little-known fact: Black Wabbits only change their underwear on holidays.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317253<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17546<\ID>
+		<Name>The Powerful Dazzling Belt<\Name>
+		<Level>125<\Level>
+		<Description>This dazzling belt is the result of a mad bet to restore one of the most dazzling belts ever created in Amakna: it's the Powerful Dazzling Belt! Pakape Promethe won the contest.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317546<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16056<\ID>
+		<Name>Sylargh's Belt<\Name>
+		<Level>127<\Level>
+		<Description>Each one of this belt's slots is dedicated to a particular tool. With a waistline like that, no machine will be able to resist you!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13316056<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17231<\ID>
+		<Name>Lenald Maltial Alt Belt<\Name>
+		<Level>129<\Level>
+		<Description>This belt allows you to keep any garment in place so that it doesn't constantly shift.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317231<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18182<\ID>
+		<Name>Spore Black Belt<\Name>
+		<Level>133<\Level>
+		<Description>Do spores really need to wear belts?<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318182<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>137<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>32<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17157<\ID>
+		<Name>Sage Belt<\Name>
+		<Level>135<\Level>
+		<Description>Memory is the mother of all wisdom. Remember to buckle your belt.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317157<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18641<\ID>
+		<Name>Lenald Walm Pelt<\Name>
+		<Level>135<\Level>
+		<Description>The Lenald Walm Pelt is made completely of Cawotte, it keeps you warm in the winter and is still delicious when next summer comes around.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318641<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18167<\ID>
+		<Name>Sugnuf's Pearls<\Name>
+		<Level>137<\Level>
+		<Description>This belt is made of braided roots and water droplets straight from the Amybian depths.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318167<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>122<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18155<\ID>
+		<Name>Ponktius Belt<\Name>
+		<Level>138<\Level>
+		<Description>This belt keeps your body balanced for a perfect stab, every time.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318155<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>153<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18095<\ID>
+		<Name>Tormented Belt<\Name>
+		<Level>140<\Level>
+		<Description>A stomach ache beats eternal torment any day.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318095<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>120<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2571<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2569<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18640<\ID>
+		<Name>The Zwombbelt<\Name>
+		<Level>140<\Level>
+		<Description>A belt worn by Wo Zwombbits during puwification rituals. It's no surprise that they never became popular.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318640<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>164<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17313<\ID>
+		<Name>Beltstwap<\Name>
+		<Level>142<\Level>
+		<Description>This belt is adorned with only the best hardware.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317313<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17346<\ID>
+		<Name>Belt of Contagion<\Name>
+		<Level>142<\Level>
+		<Description>To avoid Viwus contamination, you need to know how to protect yourself and avoid getting too close to Zwombbits.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317346<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18545<\ID>
+		<Name>Trickree Belt<\Name>
+		<Level>145<\Level>
+		<Description>A famous thief, whose name we don't know, was allegedly accidentally stranged by a belt. Right before the end, he is said to have started laughing like a madman.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318545<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>126<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17290<\ID>
+		<Name>Pompom Belt<\Name>
+		<Level>148<\Level>
+		<Description>This belt has been pampered its entire life. As soon as the buckle was in place, it knew it was the prettiest.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317290<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17321<\ID>
+		<Name>Wobotic Back-up Undewweaw<\Name>
+		<Level>150<\Level>
+		<Description>In case of sudden terrors, you'll be thankful to have a back-up plan.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317321<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>123<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17355<\ID>
+		<Name>Genetically Modified Belt<\Name>
+		<Level>150<\Level>
+		<Description>This belt might modify your genetic code if you wear it too often.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317355<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>151<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18548<\ID>
+		<Name>The Shock Absorber<\Name>
+		<Level>152<\Level>
+		<Description>The Schock Absorber can spread out damage over time, or can result in a premature termination of the contract, which results in the immediate loss of all means.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318548<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>174<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18547<\ID>
+		<Name>Enurado Belt<\Name>
+		<Level>153<\Level>
+		<Description>\"Credit is only the apparent wealth of those who tighten their belts to meet their needs.\"<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318547<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17329<\ID>
+		<Name>Wa Wabbit's Corset<\Name>
+		<Level>156<\Level>
+		<Description>In order to quickly look very svelte and seductive, the Wa doesn't hesitate to reach for his corset. In any case, it's pretty painful to wear.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13317329<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>119<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18546<\ID>
+		<Name>The tight shadow<\Name>
+		<Level>160<\Level>
+		<Description>This belt squeezes your waist so much that it shrinks it.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318546<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>187<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18699<\ID>
+		<Name>Golden Belt<\Name>
+		<Level>165<\Level>
+		<Description>With such a showy belt around your middle, it shouldn't be a mystery to you why others aim so low.<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13315424<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>234<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18549<\ID>
+		<Name>Beltinterest<\Name>
+		<Level>170<\Level>
+		<Description>If you don't wear this belt regularly, it will let you know about it with interest!<\Description>
+		<Slot>Luthuthu<\Slot>
+		<SlotID>133<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13318549<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>160<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>27<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

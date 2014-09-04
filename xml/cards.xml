@@ -1,0 +1,839 @@
+
+<Items>
+	<Item>
+		<ID>3941<\ID>
+		<Name>Twiggy Cards<\Name>
+		<Level>8<\Level>
+		<Description>Beautiful cards engraved in wood, enough to make a Tofu tremble in fear! <\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2543941<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12836<\ID>
+		<Name>Fuzzy Cards<\Name>
+		<Level>8<\Level>
+		<Description>Fuzzy-wuzzy are these cards, these cards are fuzzy-wuzzy... Played correctly against an enemy you could make them quite muzzy.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412836<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3812<\ID>
+		<Name>Gobbcards<\Name>
+		<Level>12<\Level>
+		<Description>To guarantee a more comfortable grip, the edges of these cards have been covered with Gobball wool. It's sweet, but unbelievably smelly.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2543812<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7575<\ID>
+		<Name>Shurikards<\Name>
+		<Level>15<\Level>
+		<Description>These cards are so precise they could cut a Iop's brain clean in half. And that's saying something! <\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2547575<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3833<\ID>
+		<Name>Loyalty Cards<\Name>
+		<Level>25<\Level>
+		<Description>The female Ecaflips use these cards to avenge the infidelity of their partner... by cutting off a body part...  the hands, I'm sure. <\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2543833<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9637<\ID>
+		<Name>Loray Al Cards<\Name>
+		<Level>25<\Level>
+		<Description>Because you're worth... something. Maybe.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2549637<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12247<\ID>
+		<Name>Loray Al Cards<\Name>
+		<Level>25<\Level>
+		<Description>Because you're worth... something. Maybe.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>25412247<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9243<\ID>
+		<Name>Poke Cards<\Name>
+		<Level>30<\Level>
+		<Description>In the past, these cards were part of a much loved game in the World of Twelve. Nowadays, they're fearful weapons.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11246,11247,11248<\Children>
+		<Icon>2549243<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12798<\ID>
+		<Name>Slithereens<\Name>
+		<Level>36<\Level>
+		<Description>If you play these cards right you could really hurt an enemy when they're least expecting it.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412798<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6485<\ID>
+		<Name>Precision Cards<\Name>
+		<Level>40<\Level>
+		<Description>Extra flat and ergonomic, these cards always split in half exactly at the right place.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11252,11253,11254<\Children>
+		<Icon>2546485<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9963<\ID>
+		<Name>Katastro Cards<\Name>
+		<Level>40<\Level>
+		<Description>These cards are disasters on legs. Send a few into enemy ranks to wreak havoc!<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 40,<\Conditions>
+		<Children>11249,11250,11251<\Children>
+		<Icon>2549963<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11034<\ID>
+		<Name>Lafitafi Cards<\Name>
+		<Level>45<\Level>
+		<Description>Cards with jokes printed on them for humorless people to carry around.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25411034<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12442<\ID>
+		<Name>Stone Cards<\Name>
+		<Level>45<\Level>
+		<Description>They're not exactly light and they're kind of difficult to carry around, but these cards are still practical for knocking somebody senseless.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412442<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15331<\ID>
+		<Name>Whirly Cards<\Name>
+		<Level>47<\Level>
+		<Description>These cards look so pretty and whimsical when you drop them from a height that some people refuse to play anything but 52-Card Pickup with them.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25415331<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11643<\ID>
+		<Name>Gold Cards<\Name>
+		<Level>49<\Level>
+		<Description>If your goal is to look elegant whilst making people believe you have a handful of delicious crackers, you NEED these cards.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11645,11646,11647<\Children>
+		<Icon>25411643<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11601<\ID>
+		<Name>Friday's Page<\Name>
+		<Level>50<\Level>
+		<Description>These cards are actually pieces of a treasure map. \\nUnfortunately, Monday's page is missing.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25411601<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12230<\ID>
+		<Name>Bone Cards<\Name>
+		<Level>50<\Level>
+		<Description>Scraping these cards against one another creates a high, grinding sound, piercing enough to wake a Chafer. <\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412230<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15277<\ID>
+		<Name>Quentin Flush's Cards<\Name>
+		<Level>50<\Level>
+		<Description>These cards are legendary for their disproportionately high number of aces. There are 32 in all. It goes without saying that most Ecaflip card games end in brawls.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>25415277<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6556<\ID>
+		<Name>A La Cards<\Name>
+		<Level>51<\Level>
+		<Description>These cards allow you to choose exactly which parts of your enemy you'd like to have for dinner.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11255,11256,11257,11258<\Children>
+		<Icon>2546556<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15031<\ID>
+		<Name>Chaos Cards<\Name>
+		<Level>55<\Level>
+		<Description>All the pirates idle much of their time away playing cards. This pack was THE lucky pack, which might have something to do with the fact that it contains no fewer than 9 aces.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25415031<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12572<\ID>
+		<Name>Wild Gobbcards<\Name>
+		<Level>57<\Level>
+		<Description>Stroke these Gobbcards in the direction of the wool, or they'll turn around and bite you.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412572<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9244<\ID>
+		<Name>Card-Avars<\Name>
+		<Level>60<\Level>
+		<Description>These cards are made from the remains of corpses, which makes them particularly supple.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11259,11260,11261,11262<\Children>
+		<Icon>2549244<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15179<\ID>
+		<Name>Blood-Drenched Cards<\Name>
+		<Level>63<\Level>
+		<Description>The messiest cards ever. Period.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25415179<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14881<\ID>
+		<Name>Algar Cards<\Name>
+		<Level>65<\Level>
+		<Description>A set of cards made of stray shells. Perfect for playing on the beach, and slitting a throat or two when you lose.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25414881<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15565<\ID>
+		<Name>Strichy Cards<\Name>
+		<Level>68<\Level>
+		<Description>Why is it that you hate being criticized by others, but the moment you get the chance, you're the most critical of the lot?<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25415565<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12376<\ID>
+		<Name>Boowolf Slicers<\Name>
+		<Level>72<\Level>
+		<Description>These little blades only slice up Boowolves when there is a full moon. The rest of the time they're completely and utterly useless.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12414,12415,12416,12417<\Children>
+		<Icon>25412376<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17734<\ID>
+		<Name>Boowolf Slicers<\Name>
+		<Level>72<\Level>
+		<Description>These little blades only slice up Boowolves when there is a full moon. The rest of the time they're completely and utterly useless.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412376<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12611<\ID>
+		<Name>Effigy Cards<\Name>
+		<Level>75<\Level>
+		<Description>These cards are highly regarded by the monks that collect them in the monastery.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12710,12711,12712,12713<\Children>
+		<Icon>25412611<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17733<\ID>
+		<Name>Effigy Cards<\Name>
+		<Level>75<\Level>
+		<Description>These cards are highly regarded by the monks that collect them in the monastery.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25412611<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14655<\ID>
+		<Name>Essessen Cards<\Name>
+		<Level>90<\Level>
+		<Description>Keep them in your wallet at all times.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25414655<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16821<\ID>
+		<Name>Beach Cards<\Name>
+		<Level>95<\Level>
+		<Description>Your buddies will be so impressed by the beautiful design on these cards that they won't even notice you swiping their chips.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25416821<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14279<\ID>
+		<Name>Lightning<\Name>
+		<Level>100<\Level>
+		<Description>This lightning won't strike the same place twice.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25414279<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14656<\ID>
+		<Name>Ush's Cards<\Name>
+		<Level>100<\Level>
+		<Description>It's said that powerful Bontarian nobleman Ush Galesh put a curse on these cards so that whoever used them would become a gambling addict.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:not #HasEquipmentId(18638)# and not #HasEquipmentId(18641)# and not #HasEquipmentId(18645)# and not #HasEquipmentId(17332)# and not #HasEquipmentId(17357)# and not #HasEquipmentId(37322)#,<\Conditions>
+		<Icon>25414656<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>168<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16119<\ID>
+		<Name>Freezewell Cards<\Name>
+		<Level>115<\Level>
+		<Description>You'll doubtless create stacks of two different colors, running from the highest card to the lowest... and win the game!<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25416119<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17347<\ID>
+		<Name>Wotten Cawds<\Name>
+		<Level>135<\Level>
+		<Description>We'we not cheating you - you just have wotten luck.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25417347<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>33<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17243<\ID>
+		<Name>Kunalds<\Name>
+		<Level>140<\Level>
+		<Description>With the thick fur on their tops, no one will expect the unquestionable cutting power of these cards.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25417243<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>34<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18561<\ID>
+		<Name>Credit Card<\Name>
+		<Level>150<\Level>
+		<Description>Having only recently made its appearance in the World of Twelve, it is now widely in use. Now you can get Kamas out of just about anyone, without having to go to the bank.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25418561<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18448<\ID>
+		<Name>Cartus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>When these cards are cast, new ones will immediately appear in the hands of their owner. With practice, you will also be able to use them to slice your enemies into little slivers.<\Description>
+		<Slot>Cards<\Slot>
+		<SlotID>254<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>25418448<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

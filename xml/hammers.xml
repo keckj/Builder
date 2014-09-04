@@ -1,0 +1,1091 @@
+
+<Items>
+	<Item>
+		<ID>16883<\ID>
+		<Name>The Spike<\Name>
+		<Level>1<\Level>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11416883<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>7048<\ID>
+		<Name>Piwi Hammer<\Name>
+		<Level>5<\Level>
+		<Description>Those who don't like violence can use it to hammer nails. Those who love violence will use it to hammer nails into the skulls of their opponents. <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1147048<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9419<\ID>
+		<Name>Twiggy Hammer<\Name>
+		<Level>8<\Level>
+		<Description>This is just a basic hammer, not the stuff of legends.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1149419<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2676<\ID>
+		<Name>Mad Hammer<\Name>
+		<Level>10<\Level>
+		<Description>Who would have thought that a Tofu trapped in his own guano could make such a strong hammer? Who would have thought it could make a hammer at all? <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1142676<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10023<\ID>
+		<Name>Great Water Hammer<\Name>
+		<Level>10<\Level>
+		<Description>Legend says that Great Water offered this hammer to a sad, little Puddly passing by. She seemed pretty convinced that all her problems would come out in the wash. Will it work for you?<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11410023<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2027<\ID>
+		<Name>Gobbhammer<\Name>
+		<Level>14<\Level>
+		<Description>This hammer doesn't just like to smash things, it likes to bite them, too. And, if you believe that, you must need your head looking at...<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1142027<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3953<\ID>
+		<Name>Knocker<\Name>
+		<Level>15<\Level>
+		<Description>A hammer that preys on the youngest warriors...  <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1143953<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9420<\ID>
+		<Name>Cerberus<\Name>
+		<Level>16<\Level>
+		<Description>This mace will allow you to jump into things head first, without even thinking about it. A bit like before, really.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1149420<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9421<\ID>
+		<Name>Mace Lipawey<\Name>
+		<Level>25<\Level>
+		<Description>Legend has it that this mace has a tendency to wander. We would, therefore, advise you to keep it firmly attached to your fist at all times to make sure you don't lose it.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1149421<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10265<\ID>
+		<Name>Sargasse  <\Name>
+		<Level>27<\Level>
+		<Description>Sargasse used to belong to a child with terrible powers. No one knows what has become of this weapon since it was exchanged for a bag of marbles.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11410265<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9422<\ID>
+		<Name>Ibo-Nanga Mace<\Name>
+		<Level>30<\Level>
+		<Description>If you listen closely, you might notice that this mace is permanently whistling a little tune that gets stuck in your head.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11197,11198,11199<\Children>
+		<Icon>1149422<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9253<\ID>
+		<Name>Royal Gobbhammer<\Name>
+		<Level>35<\Level>
+		<Description>You'd never have believed it, but it hurts as bad as it smells!<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1149253<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10337<\ID>
+		<Name>Taur-Tapper<\Name>
+		<Level>40<\Level>
+		<Description>This hammer is a Taur's answer to two things: putting an end to long debates and being right.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11410337<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>239<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11063<\ID>
+		<Name>Shark Hammer<\Name>
+		<Level>44<\Level>
+		<Description>A weapon inspired by a real ninnyhammer of a shark.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11411063<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9423<\ID>
+		<Name>Toh'Lo Hammer<\Name>
+		<Level>45<\Level>
+		<Description>So you like animals? So did Toh'Lo. He devoted his whole life to them. This hammer kind of represents his relationship with animals, a communion as shaky as a lame Gobball on a freshly graveled driveway.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11200,11201,11202<\Children>
+		<Icon>1149423<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12445<\ID>
+		<Name>Roc Hammer<\Name>
+		<Level>48<\Level>
+		<Description>This hammer hits hard, if you can pick it up.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412445<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10290<\ID>
+		<Name>Knuckle Rapper<\Name>
+		<Level>49<\Level>
+		<Description>In Amakna, they rap the knuckles of naughty children with this hammer. Iops fingers, you may have noticed, are particularly flat.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>10810290<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>180<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9424<\ID>
+		<Name>Outar Hammer<\Name>
+		<Level>50<\Level>
+		<Description>Outar Great Bwork ordered these fearsome hammers from a village of Xelors with the promise of sparing the townspeople if the hammers were well made. When he received the hammers, he destroyed the village. He needed to try his new weapons after all.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11206,11207,11208<\Children>
+		<Icon>1149424<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9974<\ID>
+		<Name>Smash Hammer<\Name>
+		<Level>50<\Level>
+		<Description>A hammer created by Ms. Dinah Mitee, who used it to smash her enemies' smiles off their faces.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 50,<\Conditions>
+		<Children>11203,11204,11205<\Children>
+		<Icon>1149974<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9645<\ID>
+		<Name>Authority Hammer<\Name>
+		<Level>53<\Level>
+		<Description>A hammer for a real leader.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1149645<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17617<\ID>
+		<Name>Slim's Stick <\Name>
+		<Level>55<\Level>
+		<Description> Do you find yourself needing a little excitement? Smack Slim's Stick into someone's head! That oughta fix things.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11417617<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17758<\ID>
+		<Name>Hammer of Savagery<\Name>
+		<Level>58<\Level>
+		<Description>With this hammer you have one and only one desire: smash, smash and SMASH!<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11417758<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>140<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9425<\ID>
+		<Name>Pospodrol Hammer<\Name>
+		<Level>60<\Level>
+		<Description>This hammer is so ridiculous that your enemy will burst out laughing the minute he sets eyes on you. The time gained by this diversion should let you have the last laugh though. <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11209,11210,11211,11212<\Children>
+		<Icon>1149425<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12574<\ID>
+		<Name>Wild Gobbhammer<\Name>
+		<Level>61<\Level>
+		<Description>Not happy with being banged, this hammer bites and scratches too.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412574<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15128<\ID>
+		<Name>Defribulammer<\Name>
+		<Level>63<\Level>
+		<Description>If you manage to knock your target out with this hammer, whatever you do, don't hit it again! It might just come back to life, madder and badder than ever!<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11415128<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>102<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15556<\ID>
+		<Name>Moogrr Bat<\Name>
+		<Level>65<\Level>
+		<Description>This bat was named by a band of Iops, who were amused by the sound their enemies emitted as the weapon struck them in the stomach.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11415556<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>128<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12366<\ID>
+		<Name>Canine Club<\Name>
+		<Level>66<\Level>
+		<Description>You lucky dog! This club sets your adversaries' teeth on edge and puts you in good stead for a beastly battle.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412366<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16891<\ID>
+		<Name>Trool Mace<\Name>
+		<Level>72<\Level>
+		<Description>As heavy as an adult Trool's leg, this mace should get you sweating if nothing else.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11416891<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>128<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17815<\ID>
+		<Name>Thork's Hammer<\Name>
+		<Level>75<\Level>
+		<Description>A symbol of power and Bwork pride, this hammer is infused with an ancestral power more ancient than Ogrest's Chaos. Called the Boomhammer, this weapon is capable of shooting sparks around its user, and sometimes ON the user, if it's handled improperly. Th<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11417815<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12606<\ID>
+		<Name>Monk Hammer<\Name>
+		<Level>79<\Level>
+		<Description>This hammer can be used to ring church bells, or the heads of your enemies.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412606<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15401<\ID>
+		<Name>Belly Clencher<\Name>
+		<Level>80<\Level>
+		<Description>The instructions on the packet say that, if you hit your enemy in just the right spot, some of his body parts will pop right out! But where...? Now, that's the question. <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11415401<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>74<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12477<\ID>
+		<Name>Osamodas's Hammer<\Name>
+		<Level>81<\Level>
+		<Description>Very useful for Osamodas, among others... Just watch your fingers.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412477<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>96<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12881<\ID>
+		<Name>Hammer of Death<\Name>
+		<Level>81<\Level>
+		<Description>They say that this hammer can kill dead people a second time over.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>13121,13122,13123,13124<\Children>
+		<Icon>11412881<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17740<\ID>
+		<Name>Hammer of Death<\Name>
+		<Level>81<\Level>
+		<Description>They say that this hammer can kill dead people a second time over.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412881<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16010<\ID>
+		<Name>Horned Hammer<\Name>
+		<Level>84<\Level>
+		<Description>This hammer would be the ultimate ice-breaker, if it weren't so cold to handle.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11416010<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>141<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10022<\ID>
+		<Name>Torpammo Hammer<\Name>
+		<Level>87<\Level>
+		<Description>When you throw this hammer with all your might, it takes a pretty strange trajectory. It spirals around violently, but still manages to hit its target.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11410022<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>838<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15034<\ID>
+		<Name>Tauxik Hammer<\Name>
+		<Level>87<\Level>
+		<Description>When this hammer hits the ground, a nauseating stench fills the vicinity. It's in your best interests to learn how to fight from a distance, and fast!<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11415034<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>111<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12862<\ID>
+		<Name>Gravey Hammer<\Name>
+		<Level>88<\Level>
+		<Description>When they said this hammer was all gravey, you didn't realize it felt most at home in a cemetery.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412862<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14664<\ID>
+		<Name>Ancient Guardian Mace<\Name>
+		<Level>90<\Level>
+		<Description>The scriptures say that only the World of Twelve's greatest guardian would earn the right to bear this arm.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11414664<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>150<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12381<\ID>
+		<Name>Demented Club<\Name>
+		<Level>93<\Level>
+		<Description>One blow of this club is enough to decapitate a Trool. The question is, are you strong enough to pick it up?<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11412381<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14480<\ID>
+		<Name>Gravel Gavel<\Name>
+		<Level>93<\Level>
+		<Description>One call for order with this hammer and you'll be out stone cold.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11414480<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>89<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14286<\ID>
+		<Name>Ten Ton Hammer<\Name>
+		<Level>100<\Level>
+		<Description>This hammer symbolizes all the power of Menalt, the centaur warrior and first protector of Martalo.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11414286<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14665<\ID>
+		<Name>Eskarina's Hammer<\Name>
+		<Level>100<\Level>
+		<Description>A hammer capable of whacking its target into another dimension.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11414665<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>194<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15274<\ID>
+		<Name>Percimol's Hammer<\Name>
+		<Level>100<\Level>
+		<Description>This hammer used to belong to a Puddly named Percimol. How he carried a hammer 50 times his weight, we'll probably never know. <\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11415274<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>152<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18177<\ID>
+		<Name>Chop-Chop<\Name>
+		<Level>122<\Level>
+		<Description>In order to keep all their limbs, your enemies will rush to get out of your sight, chop chop!<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11418177<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>349<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17315<\ID>
+		<Name>Gauwd Mowning Staw<\Name>
+		<Level>150<\Level>
+		<Description>This club is very dangerous, even for the one carrying it. You should keep your distance so you don't crush your tender parts.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11417315<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>201<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18454<\ID>
+		<Name>Martus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Those who have noticed the shock wave that is emitted with each hit don't tend to live long enough to tell the tale. But some of the cleverer observers also use it for collecting fruit from trees and fishing.<\Description>
+		<Slot>Hammer<\Slot>
+		<SlotID>114<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11418454<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>220<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

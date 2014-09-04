@@ -1,0 +1,793 @@
+
+<Items>
+	<Item>
+		<ID>7056<\ID>
+		<Name>Piwi Hand<\Name>
+		<Level>5<\Level>
+		<Description>This clock hand will give your opponents the rope to hang themselves with...  <\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1157056<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6663<\ID>
+		<Name>Twiggy Needle<\Name>
+		<Level>8<\Level>
+		<Description>This clock hand will give your opponents the rope to hang themselves with...  <\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1156663<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2198<\ID>
+		<Name>Little Tofu Hand<\Name>
+		<Level>14<\Level>
+		<Description>This small, pointy clock hand was carved in Tofu bone. Please don't confuse it with actual Tofu on the Bone, which is a culinary specialty.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1152198<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9338<\ID>
+		<Name>Smithy Needle<\Name>
+		<Level>15<\Level>
+		<Description>A well-forged clock hand, particularly suitable for novices.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1159338<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9339<\ID>
+		<Name>Midnight Hand<\Name>
+		<Level>20<\Level>
+		<Description>Legend has it that this hand also has the power to turn Dragoturkeys into pumpkins if the bearer sits on one after the twelfth strike of midnight.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1159339<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9638<\ID>
+		<Name>Age Hand<\Name>
+		<Level>29<\Level>
+		<Description>The age-old wisdom of this clock hand will guide you to your destiny.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1159638<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9965<\ID>
+		<Name>Necrogrine Hand<\Name>
+		<Level>30<\Level>
+		<Description>Despite what you might think, this clock hand isn't actually dead. It just likes killing others.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 30,<\Conditions>
+		<Children>11119,11120,11121<\Children>
+		<Icon>1159965<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14338<\ID>
+		<Name>Kremey Krisp Hand<\Name>
+		<Level>30<\Level>
+		<Description>Well, you're used to having fingers in all the pies.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>11514338<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.06<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>151<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14716<\ID>
+		<Name>Whybeard Hand<\Name>
+		<Level>30<\Level>
+		<Description>Whybeard is a punctual pirate who never misses a convoy of kamas.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514716<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>17792<\ID>
+		<Name>Necrogrine Hand<\Name>
+		<Level>30<\Level>
+		<Description>Despite what you might think, this clock hand isn't actually dead. It just likes killing others.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 30,<\Conditions>
+		<Icon>1159965<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3945<\ID>
+		<Name>Ticlock Hand<\Name>
+		<Level>35<\Level>
+		<Description>This clock hand has the annoying tendency of tickling its bearer's hand, which adds an extra element of challenge in battle for the more blas\u00e9 adventurer.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8418,8419,8420<\Children>
+		<Icon>1153945<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11627<\ID>
+		<Name>Javelhand<\Name>
+		<Level>35<\Level>
+		<Description>This skewer was the official weapon used for a certain event in the Amaknian Olympics.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11628,11629,11630<\Children>
+		<Icon>11511627<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4615<\ID>
+		<Name>Raysting Hand<\Name>
+		<Level>45<\Level>
+		<Description>This clock hand can burrow its own way into your enemy's orifices.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11232,11233,11234<\Children>
+		<Icon>1154615<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9343<\ID>
+		<Name>Acu Punctur's Hand<\Name>
+		<Level>55<\Level>
+		<Description>Acu the Xelor knew how to use his clock hands to awaken his friends' senses as well as make his enemies suffer excruciating pain.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9605,9606,9607,9608<\Children>
+		<Icon>1159343<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11632<\ID>
+		<Name>Stetler Spike<\Name>
+		<Level>55<\Level>
+		<Description>Sharpened by a pro so your enemies can't possibly miss the point.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11633,11634,11635,11636<\Children>
+		<Icon>11511632<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17793<\ID>
+		<Name>Acu Punctur's Hand<\Name>
+		<Level>55<\Level>
+		<Description>Acu the Xelor knew how to use his clock hands to awaken his friends' senses as well as make his enemies suffer excruciating pain.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1159343<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14889<\ID>
+		<Name>Feathered Hand<\Name>
+		<Level>61<\Level>
+		<Description>It'll take a fair bit of training before you can chuck this hand further than a meter or so, especially if the wind's not in your favor.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514889<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11638<\ID>
+		<Name>Poisonous Point<\Name>
+		<Level>65<\Level>
+		<Description>Keep this out of your mouth and wash your hands after use.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11639,11640,11641,11642<\Children>
+		<Icon>11511638<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17790<\ID>
+		<Name>Poisonous Point<\Name>
+		<Level>65<\Level>
+		<Description>Keep this out of your mouth and wash your hands after use.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11511638<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15395<\ID>
+		<Name>Rascal Tusk<\Name>
+		<Level>66<\Level>
+		<Description>The craftsman who made this weapon had to work for nine days and nine nights to turn a Rascal Tusk into a hand.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11515395<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15492<\ID>
+		<Name>Royal Crab Hand<\Name>
+		<Level>68<\Level>
+		<Description>This sharp little thing definitely has demons to lay to rest, as it pricks anything it can at the slightest opportunity. I'd keep it stuck in a pin cushion if I were you.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11515492<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12462<\ID>
+		<Name>Bad Omen<\Name>
+		<Level>78<\Level>
+		<Description>This hand will make all your superstitious adversaries wince in fear.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11512462<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12482<\ID>
+		<Name>Constellation Key<\Name>
+		<Level>78<\Level>
+		<Description>Hitch your Dragoturkey to a star and open every door of opportunity with this key.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11512482<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12859<\ID>
+		<Name>The Hotty<\Name>
+		<Level>82<\Level>
+		<Description>The Hotty will give you a burning desire to knock out your enemies... as if you didn't want to already!<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11512859<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14642<\ID>
+		<Name>Scarlet Hand<\Name>
+		<Level>85<\Level>
+		<Description>The damage it does may appear pitiful, but a decent combo with this hand can prove fatal. A bit like murder by teaspoon.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514642<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16139<\ID>
+		<Name>Count Harebourg's Clock Hand<\Name>
+		<Level>85<\Level>
+		<Description>Count Harebourg can tell the time with pinpoint accuracy using this instrument.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>11516139<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>15215<\ID>
+		<Name>The Toxispike<\Name>
+		<Level>88<\Level>
+		<Description>The Black Widow bamboozled an Arachnee Embroiderer and nabbed one of its hands for her own dastardly designs.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11515215<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14361<\ID>
+		<Name>Whispered Hand<\Name>
+		<Level>90<\Level>
+		<Description>This hand has been trained to jab people in sensitive areas.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514361<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16764<\ID>
+		<Name>Toothpick<\Name>
+		<Level>99<\Level>
+		<Description>There's no better way to get a Jelly out of your grill.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11516764<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14644<\ID>
+		<Name>Kam's Hand<\Name>
+		<Level>100<\Level>
+		<Description>This weapon used to belong to one of the World's most powerful Xelors. They say he drew out his own life so long that all that remained under his bandages was a brittle skeleton.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514644<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14485<\ID>
+		<Name>Whispery Hand<\Name>
+		<Level>109<\Level>
+		<Description>Apparently this hand has picked hundreds of locks without ever saying a word.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11514485<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17488<\ID>
+		<Name>The Dedpiksel Spear<\Name>
+		<Level>125<\Level>
+		<Description>It used to belong to the Wabbits before it was permanently \"borrowed\" by the Lenalds... Not to put too fine a point on it, but it's got quite a fine point on it. It's deadly, is what we're saying here.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11517488<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17533<\ID>
+		<Name>The Dedpiksel Pike<\Name>
+		<Level>125<\Level>
+		<Description>It's been entirely redesigned by the Lenalds! Not to put too fine a point on it, but it's got quite a fine point on it. It's deadly, is what we're saying here.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11517533<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17350<\ID>
+		<Name>Twin-Pwonged Cawwot<\Name>
+		<Level>150<\Level>
+		<Description>Perfect for cutting triangles out of Zwombbit necks (which will allow you to complete your collection of geometrically shaped Zwombbit flesh)!<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11517350<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>46<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18563<\ID>
+		<Name>Withdrawal Hand<\Name>
+		<Level>150<\Level>
+		<Description>The penalties caused by this hand are not always the same, depending on whether or not the withdrawal is made from an opponent other than your own.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11518563<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18445<\ID>
+		<Name>Picus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Despite its mortal qualities, a simple flourish of this needle is all it takes to scare your target stiff. Only its owner is immune to its portal.<\Description>
+		<Slot>Hand<\Slot>
+		<SlotID>115<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11518445<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

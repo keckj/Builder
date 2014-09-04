@@ -1,0 +1,6140 @@
+
+<Items>
+	<Item>
+		<ID>11609<\ID>
+		<Name>Big Fat Lela Ring<\Name>
+		<Level>0<\Level>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311609<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13598<\ID>
+		<Name>Dash Band<\Name>
+		<Level>1<\Level>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>1032542<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16094<\ID>
+		<Name>Cold Hunter Gloves<\Name>
+		<Level>1<\Level>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316094<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16099<\ID>
+		<Name>Smisse Pirate's Glove<\Name>
+		<Level>1<\Level>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316099<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16937<\ID>
+		<Name>Hunter Gloves<\Name>
+		<Level>1<\Level>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316937<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>6816<\ID>
+		<Name>Wodent Ring<\Name>
+		<Level>2<\Level>
+		<Description>Who hasn't dreamed of having a Wodent ring on their finger?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1036816<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14742<\ID>
+		<Name>Dark Ring<\Name>
+		<Level>2<\Level>
+		<Description>Who hasn't dreamed of having a Wodent ring on their finger?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314742<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9620<\ID>
+		<Name>Amaknian Ring<\Name>
+		<Level>5<\Level>
+		<Description>When used alongside other items, the Amaknian Ring will make you into an 'honest' citizen of the Nation of Amakna.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039620<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9661<\ID>
+		<Name>Bontarian Ring<\Name>
+		<Level>5<\Level>
+		<Description>When used alongside other items, the Bontarian Ring will make you into an 'honest' citizen of the Nation of Bonta.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039661<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9669<\ID>
+		<Name>Brakmarian Ring<\Name>
+		<Level>5<\Level>
+		<Description>When used alongside other items, this Brakmarian Ring will make you into an 'honest' citizen of the Nation of Brakmar.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039669<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10300<\ID>
+		<Name>Sufokian Ring<\Name>
+		<Level>5<\Level>
+		<Description>When used alongside other items, the Sufokian Amulet will make you into an 'honest' citizen of the Nation of Sufokia.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310300<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9509<\ID>
+		<Name>Adventurer Ring<\Name>
+		<Level>6<\Level>
+		<Description>This is a lovely little ring for beginners which will be cherished by kids and Ecaflips alike.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039509<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9821<\ID>
+		<Name>Blue Gooring<\Name>
+		<Level>6<\Level>
+		<Description>Made from braided Googoo feathers, this mysterious but effective ring will protect you from all sorts of hazards.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039821<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9822<\ID>
+		<Name>Red Gooring<\Name>
+		<Level>6<\Level>
+		<Description>Made from braided Googoo feathers, this mysterious but effective ring will protect you from all sorts of hazards.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039822<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9823<\ID>
+		<Name>Green Gooring<\Name>
+		<Level>6<\Level>
+		<Description>Made from braided Googoo feathers, this mysterious but effective ring will protect you from all sorts of hazards.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039823<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9824<\ID>
+		<Name>Purple Gooring<\Name>
+		<Level>6<\Level>
+		<Description>Made from braided Googoo feathers, this mysterious but effective ring will protect you from all sorts of hazards.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039824<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9825<\ID>
+		<Name>Blue Ringoo<\Name>
+		<Level>8<\Level>
+		<Description>A ring made of Googoo poop. It's totally goopy, thoroughly poopy, and truly googloopy.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039825<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9826<\ID>
+		<Name>Red Ringoo<\Name>
+		<Level>8<\Level>
+		<Description>A ring made of Googoo poop. It's totally goopy, thoroughly poopy, and truly googloopy.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039826<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9827<\ID>
+		<Name>Green Ringoo<\Name>
+		<Level>8<\Level>
+		<Description>A ring made of Googoo poop. It's totally goopy, thoroughly poopy, and truly googloopy.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039827<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9828<\ID>
+		<Name>Purple Ringoo<\Name>
+		<Level>8<\Level>
+		<Description>A ring made of Googoo poop. It's totally goopy, thoroughly poopy, and truly googloopy.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039828<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10775<\ID>
+		<Name>Ring of Destiny<\Name>
+		<Level>8<\Level>
+		<Description>Your destiny is engraved in this ring!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310775<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10031<\ID>
+		<Name>Howto Ring<\Name>
+		<Level>10<\Level>
+		<Description>Apparently the craftsman who made this ring thought it was important to inscribe instructions for use along the inside. You know, in case the wearer had forgotten where his fingers were...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310031<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10331<\ID>
+		<Name>Itslite Ring<\Name>
+		<Level>10<\Level>
+		<Description>It really is light!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310331<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10776<\ID>
+		<Name>Michelangecrow Ring<\Name>
+		<Level>10<\Level>
+		<Description>With this, you'll have a head start in any construction yard!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310776<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10787<\ID>
+		<Name>Ring of Trouble<\Name>
+		<Level>11<\Level>
+		<Description>Anyone who wears this ring will become crazy and aggressive.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310787<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12831<\ID>
+		<Name>Zora's Glove<\Name>
+		<Level>11<\Level>
+		<Description>This glove protects your hands from those capricious Tofu pecks.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312831<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2022<\ID>
+		<Name>Bouze Lite Yeah's Ring<\Name>
+		<Level>12<\Level>
+		<Description>This ring once belonged to the renowned Bouze Lite Yeah, the savior of the ancient World. His favorite sentence was about some Inn or another called the \"Finity and Beyond.\"<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1032022<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2036<\ID>
+		<Name>Tofu Ring<\Name>
+		<Level>12<\Level>
+		<Description>The height of class for the Tofoones. But are you a Tofoone, though?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1032036<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11795<\ID>
+		<Name>Rat Ring<\Name>
+		<Level>12<\Level>
+		<Description>Smell a rat? Oh... It's just your ring.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311795<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>152<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10788<\ID>
+		<Name>Baron Ring<\Name>
+		<Level>14<\Level>
+		<Description>You stole this ring from the Baron. Whatever you do, don't wear it in his presence or he'll go bananas.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310788<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3026<\ID>
+		<Name>Agilish Ring<\Name>
+		<Level>15<\Level>
+		<Description>Amaknian collectors would and do kill for this ring, though it isn't worth a brass farthing.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1033026<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11001<\ID>
+		<Name>Orringade<\Name>
+		<Level>15<\Level>
+		<Description>If you wear this fizzy ring too much, you may find your cup runneth over!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311001<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11002<\ID>
+		<Name>Hop Ring<\Name>
+		<Level>15<\Level>
+		<Description>Hop to it!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311002<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3018<\ID>
+		<Name>Shrink Ring<\Name>
+		<Level>17<\Level>
+		<Description>This ring makes the finger wearing it much smaller and daintier.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1033018<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7026<\ID>
+		<Name>Idodelion<\Name>
+		<Level>20<\Level>
+		<Description>Aaaah! So you've finally decided to put a ring on her finger!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1037026<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9934<\ID>
+		<Name>Homa Ring<\Name>
+		<Level>20<\Level>
+		<Description>With such an appetizing ring on your finger, you'll need to be careful you don't bite it clean off. Dough!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>1039934<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>213<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10092<\ID>
+		<Name>Black Hole<\Name>
+		<Level>20<\Level>
+		<Description>This ring is much heavier than you'd expect and it looks like it could swallow the whole universe. But it's so pretty you'd forgive it anything.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310092<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10252<\ID>
+		<Name>Ecaflip's Luck<\Name>
+		<Level>20<\Level>
+		<Description>This ring was created to increase its bearers luck during card games.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310252<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>213<\ID><Value>555<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14707<\ID>
+		<Name>Honna Ring<\Name>
+		<Level>20<\Level>
+		<Description>Made for wannabe noblemen.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314707<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10325<\ID>
+		<Name>Moogrring<\Name>
+		<Level>21<\Level>
+		<Description>A famous Bontarian joke involves wearing the Moogrr ring and asking people to pull on your finger, as if to extract milk, and see what comes out.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310325<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9554<\ID>
+		<Name>Kapow Ring<\Name>
+		<Level>22<\Level>
+		<Description>\"One ring, biff kapow. Two rings, biff bang kablooey!\"\\nNostralanus - Thoughts<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039554<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10125<\ID>
+		<Name>Belle Ring<\Name>
+		<Level>22<\Level>
+		<Description>When worn, this ring can make you the belle of the ball. Or, if you prefer a more gentle game, you can use it to play hopscotch.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310125<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10366<\ID>
+		<Name>Snapper Ring<\Name>
+		<Level>22<\Level>
+		<Description>This is the type of ring you should never offer to your partner - it smells so bad that they're likely to pass out if they put it on.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310366<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4164<\ID>
+		<Name>Alms<\Name>
+		<Level>24<\Level>
+		<Description>This ring doesn't look like much, but you'll be glad to have the option to sell it if you ever go bust! If you manage to find a buyer, that is!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1224164<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9367<\ID>
+		<Name>Satisfaction Ring<\Name>
+		<Level>25<\Level>
+		<Description>With this formidable ring, you'll be happy to be happy! It's the little things that count.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCharacteristicMax(\"AP\<\Conditions>
+		<Icon>1039367<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10076<\ID>
+		<Name>Bramble Ring<\Name>
+		<Level>25<\Level>
+		<Description>This ring represents Sylvester's bitterness perfectly: known for being a really spiny customer, with a manner as coarse and dry as kindlewood, the only thing he has any time for is his dolls...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>10310076<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10082<\ID>
+		<Name>Greedy Ring<\Name>
+		<Level>25<\Level>
+		<Description>Aralia loved her dolls... to the point of obsession. She used some of their remains to make this unconventional ring.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310082<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10083<\ID>
+		<Name>Mud-Pied Piper Ring<\Name>
+		<Level>25<\Level>
+		<Description>Aralia Spinosa's favorite jewel, this magnificent blue ring (which is a bit on the grotty side) will allow you to lead your enemies into the mud with ease.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>10310083<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10107<\ID>
+		<Name>Ardent Ring<\Name>
+		<Level>25<\Level>
+		<Description>Will was neither strong nor intelligent, but he did love gambling. This brand new ring, made from rare metals, is incontestable proof of that.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>10310107<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10111<\ID>
+		<Name>White Hot Ring<\Name>
+		<Level>25<\Level>
+		<Description>This ring symbolizes the flame Xulf bestowed upon his Hydrand. It represents his heart, which withered over time as he came to understand impossibility of their love.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>10310111<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10113<\ID>
+		<Name>Scararing<\Name>
+		<Level>25<\Level>
+		<Description>This beautiful ring is set with a little Scarafly heart. It's still warm.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310113<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10132<\ID>
+		<Name>Flusta Ring<\Name>
+		<Level>25<\Level>
+		<Description>Al used this golden ring to reflect light towards his enemies, causing them to make mistakes. You can start by making sure you don't blind yourself with it...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>10310132<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10136<\ID>
+		<Name>Ode Issey Ring<\Name>
+		<Level>25<\Level>
+		<Description>If you dream of visiting far off lands, Siksak the Transporter's ring is just what you need to go places.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>10310136<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2119<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10205<\ID>
+		<Name>Earth Ring<\Name>
+		<Level>25<\Level>
+		<Description>This ring is as grumpy and stubborn as a penniless Enutrof. With a piece like this on your finger, you can be sure your enemies are going to bite the dust!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310205<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10321<\ID>
+		<Name>Puddly Ring<\Name>
+		<Level>25<\Level>
+		<Description>Sometimes, if you look deep into the pearl on this mystical ring, you will see a greenish light glowing at the bottom, followed by some frantic movements and a few bubbles.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310321<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10151<\ID>
+		<Name>Second Whelp Ring<\Name>
+		<Level>26<\Level>
+		<Description>Judging by the look on Robbyn's face when she loses a fight, it's probably a good idea to quit while you're ahead.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>10310151<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>594<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10186<\ID>
+		<Name>Sinistring<\Name>
+		<Level>26<\Level>
+		<Description>Actually, it's not all that Sinister in the end. This little ring contains a funny mini-Sinistro who cheer you up any time by fluttering its little wings.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>10310186<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>1417<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10260<\ID>
+		<Name>Silimelle's Wedding Ring<\Name>
+		<Level>26<\Level>
+		<Description>This magnificent wedding ring was stolen during a wild night out. That's what happens when you put too much trust in strangers...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>1039935<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10387<\ID>
+		<Name>Crabring<\Name>
+		<Level>26<\Level>
+		<Description>Say this ring's name three times, and you'll get to see a crab remove his shell.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310387<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12777<\ID>
+		<Name>Glowing Ringmote<\Name>
+		<Level>26<\Level>
+		<Description>Even the driest of hands will get all hot and sweaty once this radiant ring is popped onto one of their fingers.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312777<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10178<\ID>
+		<Name>Suffa Ring<\Name>
+		<Level>27<\Level>
+		<Description>One thing's for sure, your health is not Snivel's concern, and if you need proof, just have a look at that black eye he gave you. Best forget about the whole thing... <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>10310178<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>1533<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11037<\ID>
+		<Name>Lavaring<\Name>
+		<Level>27<\Level>
+		<Description>A ring made of cooled lava.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311037<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11020<\ID>
+		<Name>Vegetaring<\Name>
+		<Level>28<\Level>
+		<Description>In case of emergency, use the oil given off by this ring to fry your enemies!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311020<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14830<\ID>
+		<Name>Gluhu Ring<\Name>
+		<Level>28<\Level>
+		<Description>This could be just the thing to keep your dearly beloved by your side forever... and ever... and ever...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314830<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15518<\ID>
+		<Name>Piwipiki<\Name>
+		<Level>28<\Level>
+		<Description>This ring emits an odor so strong that it could send a Sadida into hibernation six months early.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315518<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2396<\ID>
+		<Name>The Rak<\Name>
+		<Level>30<\Level>
+		<Description>According to some legends, this ring can protect its wearer from bad weather. Unfortunately, it can't protect you from Ogrest's Chaos!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10521,10522,10523<\Children>
+		<Icon>1032396<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10140<\ID>
+		<Name>Loktite Ring<\Name>
+		<Level>30<\Level>
+		<Description>Just like Skorch, this ring is a pain in the butt: once you've touched it, you won't be able to get rid of it! It'll stick to you like a Moofly to a pile of dung.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>10310140<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2106<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10179<\ID>
+		<Name>Alamood Ring<\Name>
+		<Level>30<\Level>
+		<Description>This fun ring starts off yellow, but changes color to match your mood. It can keep Iops and young Eniripsas amused for hours...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310179<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10198<\ID>
+		<Name>Aristock Ring<\Name>
+		<Level>30<\Level>
+		<Description>Lovely when worn by well-bred Ecaflips, this ring will prove that you belong to high society and are not in any way associated with those mangy Bow Meows.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>10310198<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10270<\ID>
+		<Name>Enutrof Memento<\Name>
+		<Level>30<\Level>
+		<Description>These rings were created from the tears of an Enutrof who had lost his shovel. This memento shows you how terribly hopeless he must have felt.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>10310270<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11069<\ID>
+		<Name>Booster<\Name>
+		<Level>30<\Level>
+		<Description>This ring was sculpted from dried Mushd droppings. We don't recommend you use it for marriage proposals.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311069<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11812<\ID>
+		<Name>Fake Shadofang<\Name>
+		<Level>30<\Level>
+		<Description>You might find this ring quite annoying and rude, just like the real Shadofang...! If the thought of her wasn't enough to offend, the shade of pink certainly is!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11813,11814,11815<\Children>
+		<Icon>10311812<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13425<\ID>
+		<Name>Cassini Ring<\Name>
+		<Level>30<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10161<\ID>
+		<Name>Drown Ring<\Name>
+		<Level>31<\Level>
+		<Description>This ring is jinxed. They say it led to the deaths of many sailors when their captain, remembering all the old wives' tales, slipped it onto his finger when far out at sea.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310161<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10130<\ID>
+		<Name>Pilfer Ring<\Name>
+		<Level>32<\Level>
+		<Description>This ring won't be yours for very long. It brings out the green-eyed monster in others, who will want to steal it from you so that they, one day, can also have it snatched from them. Enjoy it while you can...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>10310130<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>883<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10146<\ID>
+		<Name>Pepperah Ring<\Name>
+		<Level>32<\Level>
+		<Description>If you wear this ring, you're going to have to be prepared to make a few sacrifices. The first is your finger itself, as the ring is so tight that it will turn into a hard little sausage.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>10310146<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2117<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10153<\ID>
+		<Name>Torch Ring<\Name>
+		<Level>32<\Level>
+		<Description>This ring is capable of shedding light on bleak situations, making it very useful. Starting to see Iop inventors in a new light now, aren't you?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310153<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10207<\ID>
+		<Name>Wither Ring<\Name>
+		<Level>32<\Level>
+		<Description>Ah, where to start with Jodi Narr? She's lived through so much that they say she has a story to tell for every wrinkle. Which is really saying something...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2028<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>29<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10209<\ID>
+		<Name>Wax-Ring<\Name>
+		<Level>32<\Level>
+		<Description>Lucy Fur is known to have two sides to her personality. On the one hand, she is a fearsome warrior, on the other, she's a hopeless romantic... which could lead to critical situations!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>10310209<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2062<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>151<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10271<\ID>
+		<Name>Xelor's Past<\Name>
+		<Level>32<\Level>
+		<Description>These rings were created during Xelor's many time travels.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>10310271<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9935<\ID>
+		<Name>Silimelle's Bejeweled Wedding Ring<\Name>
+		<Level>33<\Level>
+		<Description>Ora the Eniripsette, a goldsmith by trade, found this pretty wedding ring by chance in a tavern one night. She decided to set a jewel in it and sell it at the Amakna auction.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039935<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10160<\ID>
+		<Name>Kikbox Ring<\Name>
+		<Level>33<\Level>
+		<Description>Communication isn't exactly Jo-Chlo Vandam's forte. It took a whole fall for the Iopette to figure out how to put this ring on.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>10310160<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>1906<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10180<\ID>
+		<Name>Alcaseltz Ring<\Name>
+		<Level>33<\Level>
+		<Description>The custom is to pass this ring from hand to hand just before dessert at banquets. Apparently, it eases digestion...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>10310180<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10154<\ID>
+		<Name>Notor Ring<\Name>
+		<Level>34<\Level>
+		<Description>Everyone knows that whoever gets their hands on this ring immediately becomes a super tough fighter, unfortunately for whatever little bit of brain he has left.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>10310154<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>1399<\Value><\Stat>
+			<Stat><ID>181<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10208<\ID>
+		<Name>P-penguin Ring<\Name>
+		<Level>34<\Level>
+		<Description>This blubbery ring is desperate to make you laugh. Seriously, who came up with this?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310208<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15536<\ID>
+		<Name>Divine Gooano<\Name>
+		<Level>34<\Level>
+		<Description>Yes, you did just stuff your finger into a ring of bird poop, but it's fine, because it's organic.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315536<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15537<\ID>
+		<Name>Divine Bangool<\Name>
+		<Level>35<\Level>
+		<Description>All the Piwis lined up to have their names engraved on this bangle, but since they're all called \"Piwi\<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315537<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12789<\ID>
+		<Name>Chain Bracelet<\Name>
+		<Level>36<\Level>
+		<Description>Wearing this bracelet might mean that your hands are out of action but you can still use your feet... and your head!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>10312789<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11590<\ID>
+		<Name>Unique Ring<\Name>
+		<Level>37<\Level>
+		<Description>Look! There's an inscription! Oh wait, it's just a bit of dirt.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311590<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10164<\ID>
+		<Name>Contact Ring<\Name>
+		<Level>38<\Level>
+		<Description>Aspidon has a gift which allows him to stay in contact with his ring. You can be sure he'll be able to track down whoever stole it from him...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>10310164<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>610<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10190<\ID>
+		<Name>Gumblegore's Armband<\Name>
+		<Level>38<\Level>
+		<Description>This bracelet, which had to be earned the hard way, has seen all manner of gruesome battles fought by Hairy Rotter and his admirable crew.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>10310190<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>779<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>1415<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12799<\ID>
+		<Name>Schnek Ring<\Name>
+		<Level>38<\Level>
+		<Description>This ring is so elastic it will adapt its size to any finger you choose to wear it on.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312799<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15450<\ID>
+		<Name>Junior's Collar<\Name>
+		<Level>38<\Level>
+		<Description>This collar used to sit proudly around the neck of Ruel Stroud's Drheller. If the greedy Enutrof sees you with it, he'll hit you so hard with his shovel that you'll be seeing Tofus for weeks!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315450<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10200<\ID>
+		<Name>Gutter Ring<\Name>
+		<Level>39<\Level>
+		<Description>This ring is a symbol of the mangy Ecaflips club, and it will prove that you are a fearless stray, not a house Bow Meow.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>10310200<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2076<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9371<\ID>
+		<Name>Ecalisor<\Name>
+		<Level>40<\Level>
+		<Description>A long time ago, King Allister gave this ring to Isidor, a smart cat, renowned for his incomparable agility.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9531,9532,9533<\Children>
+		<Icon>1039371<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10029<\ID>
+		<Name>Nostalja Ring<\Name>
+		<Level>40<\Level>
+		<Description>If you listen carefully, you can hear this ring humming old tunes from the Dofus Era, like those of Jon Lemon.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310029<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12797<\ID>
+		<Name>Schnek Bracelet<\Name>
+		<Level>40<\Level>
+		<Description>This elastic bracelet will fit around any wrist... even yours, fatty!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312797<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13426<\ID>
+		<Name>Gagarin Ring <\Name>
+		<Level>40<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13427<\ID>
+		<Name>Encke Ring<\Name>
+		<Level>40<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13428<\ID>
+		<Name>Keeler Ring <\Name>
+		<Level>40<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10114<\ID>
+		<Name>Golden Scara Ring<\Name>
+		<Level>41<\Level>
+		<Description>This ring is set with a little golden Scara egg. Keep it safe and warm while you're wearing it. You never know what genius might hatch.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310114<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11010<\ID>
+		<Name>Carnivore Ring<\Name>
+		<Level>41<\Level>
+		<Description>Finger-nibblin' good!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311010<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11024<\ID>
+		<Name>Royal Blibli Ring<\Name>
+		<Level>41<\Level>
+		<Description>This ring has a regal strength about it. When you wear it, you will be respected by all the domesticated Bliblis.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039510<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10715<\ID>
+		<Name>Ahmlait Ring<\Name>
+		<Level>42<\Level>
+		<Description>Originally created for a fluffy, white, waistcoated fellow who was never quite on time for his appointments, this ring will get you up and hopping around as soon as you slip it on your finger.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310715<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9511<\ID>
+		<Name>Arachnee Ring<\Name>
+		<Level>43<\Level>
+		<Description>The small, dead Arachnee head which smiles at you from this ring seems to be taunting you: crushing it with your weapon wiped the smirk off its face though, didn't it?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039511<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11596<\ID>
+		<Name>Kokobungo Ring<\Name>
+		<Level>43<\Level>
+		<Description>Way down deep in the middle of the jungle, a Kokoko took this ring, a guava and a mango. Kokobungo, Kokobungo, they wear it in the jungle...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311596<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14041<\ID>
+		<Name>Staypul Ring<\Name>
+		<Level>43<\Level>
+		<Description>Given that this ring was stapled onto your finger, expect a bit of blood when you decide to take it off. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314041<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14658<\ID>
+		<Name>Tsar Ring<\Name>
+		<Level>43<\Level>
+		<Description>Well, whaddya know? The TsarTsar Horn finally has a use!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314658<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11059<\ID>
+		<Name>Sharkring<\Name>
+		<Level>44<\Level>
+		<Description>Tiny little shark, big sharp teeth.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311059<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12441<\ID>
+		<Name>Rock Ring<\Name>
+		<Level>44<\Level>
+		<Description>This ring is solid... Solid as a... Oh.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312441<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14659<\ID>
+		<Name>Tsar Seal<\Name>
+		<Level>44<\Level>
+		<Description>A tsar without a seal is like a slug without slime!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314659<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15163<\ID>
+		<Name>The Cracka Smile<\Name>
+		<Level>44<\Level>
+		<Description>This ring is said to confer a mystical smile-cracking power on its wearer. Looking at it, though, perhaps it's not so mystical after all.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315163<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3988<\ID>
+		<Name>The Beyond<\Name>
+		<Level>45<\Level>
+		<Description>The shape of this ring is pretty explicit. Your enemies will pay attention to you, make no bones about it...  <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9011,9012,9013<\Children>
+		<Icon>1033988<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9936<\ID>
+		<Name>Nozokomial Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring holds a tiny, portable flask which will make you more resistant in times of need.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>1039936<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10713<\ID>
+		<Name>Tanja Ring<\Name>
+		<Level>45<\Level>
+		<Description>Eat 5 pieces of fruit and one Blibli every day!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310713<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>152<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11018<\ID>
+		<Name>Leafy Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring is made of several leaf fibers.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311018<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11027<\ID>
+		<Name>Apiring<\Name>
+		<Level>45<\Level>
+		<Description>This ring has been carved out of an Api. They don't grow on trees, you know...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311027<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11871<\ID>
+		<Name>Yellow Riktus Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring grants its wearer great strength.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311871<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11872<\ID>
+		<Name>White Riktus Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring grants its wearer great agility.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311872<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11873<\ID>
+		<Name>Red Riktus Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring grants its wearer great intelligence. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311873<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11874<\ID>
+		<Name>Blue Riktus Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring grants its wearer great chance.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311874<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13581<\ID>
+		<Name>Pappy Pal's Ring<\Name>
+		<Level>45<\Level>
+		<Description>This ring used to belong to a long-lost, illustrious Enutrof. How on earth did it end up here...?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10313581<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15348<\ID>
+		<Name>Celestial Tofu Ring<\Name>
+		<Level>46<\Level>
+		<Description>Back in the Celestial Tofu's humbler days, when he was just a mail boy for Osamodas, he used this ring to seal the envelopes.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315348<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10978<\ID>
+		<Name>Ringmote<\Name>
+		<Level>47<\Level>
+		<Description>Apparently, this ring once had a bit of a fling with Shadofang. Unfortunately, they broke up because Ringmote was a bit distant.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310978<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11054<\ID>
+		<Name>Mumussell Pearl<\Name>
+		<Level>47<\Level>
+		<Description>Now you can show off your pearly white to everyone!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311054<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>38<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12438<\ID>
+		<Name>Crackly Ring<\Name>
+		<Level>47<\Level>
+		<Description>This ring is absolutely cracking, dahling.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312438<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4988<\ID>
+		<Name>Thettle Ring<\Name>
+		<Level>48<\Level>
+		<Description>Thistle and Nettle fibers woven together, and what an effect! Even the most demanding of Osas will love it! <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10524,10525,10526<\Children>
+		<Icon>1034988<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9932<\ID>
+		<Name>Solo's Ring<\Name>
+		<Level>48<\Level>
+		<Description>For diehard singletons!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>1039932<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11077<\ID>
+		<Name>Kralaring<\Name>
+		<Level>48<\Level>
+		<Description>Plop... it's in the water...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10311077<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14042<\ID>
+		<Name>Five Cawat Ring<\Name>
+		<Level>48<\Level>
+		<Description>This ring provides you with your five a day.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314042<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4146<\ID>
+		<Name>Treering<\Name>
+		<Level>50<\Level>
+		<Description>This bark-covered ring will help you take revenge on your enemies.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1034146<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13429<\ID>
+		<Name>Adams Ring<\Name>
+		<Level>50<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14723<\ID>
+		<Name>Yatta Ring<\Name>
+		<Level>50<\Level>
+		<Description>A ring to cheer up any dreary morning. Ohayouuu!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314723<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14724<\ID>
+		<Name>Lheala Ring<\Name>
+		<Level>50<\Level>
+		<Description>So it turns out that gracious Princess Lela had a homonym all this time! Who knew?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314724<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14725<\ID>
+		<Name>Synwel's Ring<\Name>
+		<Level>50<\Level>
+		<Description>This ring used to be called the Mushd Ring, but Synwel used to finish fights so muddy that it was renamed in his honor.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314725<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14726<\ID>
+		<Name>AnnEkam<\Name>
+		<Level>50<\Level>
+		<Description>Just your average Stalagmote bling.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314726<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10030<\ID>
+		<Name>Norveija Ring<\Name>
+		<Level>52<\Level>
+		<Description>This ring was forged at the heart of the Norveijian glaciers, in lands marked by Trools and legends. Those Norveijians are absolutely precious!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310030<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14590<\ID>
+		<Name>Imperial Gobball Ring<\Name>
+		<Level>52<\Level>
+		<Description>Strangely enough, this ring is covered in slobber.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314590<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>12337<\ID>
+		<Name>Riktus Elite Ring<\Name>
+		<Level>53<\Level>
+		<Description>This ring is stricken with the trademark of the dirtiest Bandits in the World of Twelve.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312337<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14596<\ID>
+		<Name>Imperator Seal<\Name>
+		<Level>54<\Level>
+		<Description>Just the ticket for sealing contracts signed in blood.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314596<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14878<\ID>
+		<Name>Deckhand Ring<\Name>
+		<Level>54<\Level>
+		<Description>Embellished with a skull to give you the bad-boy look you've been coveting so.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314878<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9375<\ID>
+		<Name>Soff<\Name>
+		<Level>55<\Level>
+		<Description>The strength of this ring lies in the fact that it's capable of making its wearer completely transparent. Not invisible... transparent.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9611,9612,10942,10943<\Children>
+		<Icon>1032542<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>38<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17755<\ID>
+		<Name>Wild Gobball Ring<\Name>
+		<Level>55<\Level>
+		<Description>This ring will wear your fingers to the bone.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317755<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17768<\ID>
+		<Name>Great Wild Gobball Ring <\Name>
+		<Level>55<\Level>
+		<Description>Although it's a real Wild Gobball bone, its magic virtues remain to be proven.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317768<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15150<\ID>
+		<Name>Stone Cold Ring<\Name>
+		<Level>59<\Level>
+		<Description>Did you know the stones used to make this ring were wrestled off their owners the moment they were born? Sometimes, cruelty is the best option.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315150<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6739<\ID>
+		<Name>The Country<\Name>
+		<Level>60<\Level>
+		<Description>Aaaah! You've finally decided to let him slip his ring over your finger! <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9016,9017,9018,9019<\Children>
+		<Icon>1036739<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12579<\ID>
+		<Name>Woolly Ring<\Name>
+		<Level>60<\Level>
+		<Description>This ring will keep your finger as snug as a bug in a rug.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12728,12729,12730,12731<\Children>
+		<Icon>10312579<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13430<\ID>
+		<Name>Lassell Ring<\Name>
+		<Level>60<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13431<\ID>
+		<Name>Arago Ring <\Name>
+		<Level>60<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14730<\ID>
+		<Name>Anshin<\Name>
+		<Level>60<\Level>
+		<Description>This wedding ring contains Gridena's deepest sentiments. What better gift for your sweetheart?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314730<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15170<\ID>
+		<Name>Wounded Ring<\Name>
+		<Level>60<\Level>
+		<Description>This is the ring the goddess Sacrier was offered for her hand in marriage. Obviously, she already had dozens like it, but it's the thought that counts. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315170<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14591<\ID>
+		<Name>Imperial Blibli Ring<\Name>
+		<Level>61<\Level>
+		<Description>A hairy little circle.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314591<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14592<\ID>
+		<Name>Alpha Predator Ring<\Name>
+		<Level>61<\Level>
+		<Description>Don't worry, its bark is worse than its bite.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314592<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14593<\ID>
+		<Name>Ebony Scararing<\Name>
+		<Level>61<\Level>
+		<Description>Wear this ring, and you'll understand what it is to be a Scaraleaf.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314593<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14840<\ID>
+		<Name>Ancestral Treechnid Ring<\Name>
+		<Level>61<\Level>
+		<Description>This ring is nice... I mean, in an understated way. It looks good on you. I wouldn't wear one myself, but you know...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314840<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15015<\ID>
+		<Name>Exotic Ring<\Name>
+		<Level>61<\Level>
+		<Description>This ring brings the sea air rushing back with all the force of a tropical windstorm.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315015<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15115<\ID>
+		<Name>Tiffaring<\Name>
+		<Level>61<\Level>
+		<Description>Make sure you don't mix this ring up with a Kralove fritter. Your teeth will be sorely disappointed.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315115<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15320<\ID>
+		<Name>Royal Whirly Ring<\Name>
+		<Level>61<\Level>
+		<Description>Apparently, anyone who puts this ring on will have the magical power to twirl gracefully down from a tree to the ground. It used to belong to a Sram, but its powers left him in pieces.  <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315320<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14874<\ID>
+		<Name>Starlie<\Name>
+		<Level>62<\Level>
+		<Description>Starlie bit your finger! Ouch, Starlie!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314874<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14594<\ID>
+		<Name>Ultimate Survivor Ring<\Name>
+		<Level>63<\Level>
+		<Description>A ring worthy of a tribe leader.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314594<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14595<\ID>
+		<Name>Imperator Ring<\Name>
+		<Level>63<\Level>
+		<Description>A prestigious symbol of your mastery over... the Moskito race!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314595<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15734<\ID>
+		<Name>Firedrhell Ring<\Name>
+		<Level>63<\Level>
+		<Description>Put your finger in the hole!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315734<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9933<\ID>
+		<Name>Ring O'Stradamus<\Name>
+		<Level>64<\Level>
+		<Description>This ring can see into the mists of your future, at least as far as the horrific defeat that's just around the corner.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039933<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15129<\ID>
+		<Name>Electoocute<\Name>
+		<Level>64<\Level>
+		<Description>Awww, just look at this adorable little ring, with its little antennae and... BZZZT! <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315129<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4985<\ID>
+		<Name>Prickel Ring<\Name>
+		<Level>65<\Level>
+		<Description>A ring made from woven Thistle fibers. Be careful with your fingers: it's probably full of thorns... <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10937,10938,10939,10940<\Children>
+		<Icon>1032667<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5545<\ID>
+		<Name>The Nakey<\Name>
+		<Level>65<\Level>
+		<Description>What the... This ring is naked!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9025,9026,9027,9028<\Children>
+		<Icon>1035545<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9627<\ID>
+		<Name>Bunny Grumbler Ring<\Name>
+		<Level>65<\Level>
+		<Description>Everyone loves Grumbler... especially as a protective wristband!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039627<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14888<\ID>
+		<Name>Pearlfriend<\Name>
+		<Level>65<\Level>
+		<Description>They said you'd never find a Pearlfriend, but you proved them wrong! Next up, a whale-order bride!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314888<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15351<\ID>
+		<Name>Divine Tofu Ring<\Name>
+		<Level>65<\Level>
+		<Description>The Celestial Tofu was just about to offer this ring to his sweetheart when he found out that she'd been laying eggs in other feather beds...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315351<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17791<\ID>
+		<Name>Prickel Ring<\Name>
+		<Level>65<\Level>
+		<Description>A ring made from woven Thistle fibers. Be careful with your fingers: it's probably full of thorns... <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1032667<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15399<\ID>
+		<Name>Imperial Drheller Ring<\Name>
+		<Level>67<\Level>
+		<Description>Rascal used to wear this ring as a bracelet when he was a newborn. He can't wear it any more, though, can he? He's a big boy now! Who's a big, bad Drheller? <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315399<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12372<\ID>
+		<Name>Lunaring<\Name>
+		<Level>68<\Level>
+		<Description>They say he's got the whole World in his hands, but it looks like you've got the moon! \\nWell, a bit of it, at least.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312372<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15393<\ID>
+		<Name>Rascal's Muzzle<\Name>
+		<Level>68<\Level>
+		<Description>The wearer of this bracelet should be very proud. It was originally intended as a muzzle for Rascal, and it was the only thing that stopped him from being a busy, dizzee, killing machine!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315393<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15555<\ID>
+		<Name>Nasal Ring<\Name>
+		<Level>68<\Level>
+		<Description>As luck would have it, this ring's ex-owner sneezed through it before putting it up for sale. So your finger slips in with no trouble at all.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315555<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12368<\ID>
+		<Name>The One<\Name>
+		<Level>69<\Level>
+		<Description>This ring is unique, but you're not the only one to wear it.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312368<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15153<\ID>
+		<Name>Magmacrak Ring<\Name>
+		<Level>69<\Level>
+		<Description>Put this ring on and you'll think you're the next mechanic destructive commando. In short, you'll blow your top.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315153<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9723<\ID>
+		<Name>Gelano<\Name>
+		<Level>70<\Level>
+		<Description>Gettin' jiggly wit it!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1039723<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13432<\ID>
+		<Name>Le Verrier Ring <\Name>
+		<Level>70<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13433<\ID>
+		<Name>Galle Ring<\Name>
+		<Level>70<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15175<\ID>
+		<Name>Blood-Stained Ring<\Name>
+		<Level>70<\Level>
+		<Description>Don't even think about getting near the Steamulating Shore with this ring on. If they smell fresh blood, they won't care whether it's yours or your ring's.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315175<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15323<\ID>
+		<Name>Imperial Whirly Wedding Ring<\Name>
+		<Level>70<\Level>
+		<Description>It's a... nice day for a... Whirly weddiiing! YEAH! You look more rock 'n' roll than Larsenus Wallace! <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315323<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15788<\ID>
+		<Name>Captain Hake's Ring<\Name>
+		<Level>70<\Level>
+		<Description>Hake loves fish, obviously, but the one thing he loves even more than fish is his Krosmaster collection... Handmade... out of seashells.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315788<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15789<\ID>
+		<Name>Cap'n Bawbossa's Ring<\Name>
+		<Level>70<\Level>
+		<Description>Bawbossi, Bawbossa, life goes on, bra, la la how the life goes on.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315789<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15790<\ID>
+		<Name>Cap'n Sprunga Leek's Ring<\Name>
+		<Level>70<\Level>
+		<Description>For breakfast, he has pea green soup. For dinner, he has pea green soup. And when he springs a leak, all he can do is...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315790<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15791<\ID>
+		<Name>Cap'n Craps's Ring<\Name>
+		<Level>70<\Level>
+		<Description>You can bet your life that this ring'll come in handy. Cap'n Craps did...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315791<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15322<\ID>
+		<Name>Imperial Whirly Ring<\Name>
+		<Level>71<\Level>
+		<Description>Who knew the head of the Whirlies was such a fan of jewelry?! This one glints subtly as he twirls in and out of rooms at swanky parties.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315322<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15252<\ID>
+		<Name>Hoodfella Ring<\Name>
+		<Level>72<\Level>
+		<Description>This ring will come in very useful when breaking up Hoodlum meetings.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315252<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10032<\ID>
+		<Name>Ships Ahoy Ring<\Name>
+		<Level>73<\Level>
+		<Description>This is Gropinson Cruizzo's ring! That explains the fishy smell...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310032<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12631<\ID>
+		<Name>Hairy Rat Ring<\Name>
+		<Level>73<\Level>
+		<Description>Watch where you put that finger! Oops, too late...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312631<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12457<\ID>
+		<Name>Black Ring<\Name>
+		<Level>74<\Level>
+		<Description>Crobak feathers have tainted this ring, hence its dark, dark color.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312457<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13574<\ID>
+		<Name>Legano<\Name>
+		<Level>75<\Level>
+		<Description>Hold up... There's something funny about this ring!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10313574<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>304<\ID><Value>1348<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14733<\ID>
+		<Name>Ashal Ring<\Name>
+		<Level>75<\Level>
+		<Description>There's an engraving on this ring: \"Brimful of Ashal on the 55. Well it's a brimful of Ashal on the 55.\" What kind of lousy mantra is that?!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314733<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15508<\ID>
+		<Name>Imperial Puddly Ring<\Name>
+		<Level>75<\Level>
+		<Description>He who falls asleep with Imperial Puddly Ring, wakes up with soggy finger.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315508<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15563<\ID>
+		<Name>Imperial Strich Ring<\Name>
+		<Level>75<\Level>
+		<Description>You went through hell and high water to wrestle this ring off that blasted Strich. Wear it proudly and never forget that perseverance is the key.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315563<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17623<\ID>
+		<Name>Croding<\Name>
+		<Level>75<\Level>
+		<Description>This ring hides a small supply of marine-oil makeup. To help you get that \"Vicki Nimaj\" look!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317623<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12454<\ID>
+		<Name>Crobak Ring<\Name>
+		<Level>77<\Level>
+		<Description>You'll be able to make the feathers fly with this ring!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312454<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12598<\ID>
+		<Name>Sacred Ring<\Name>
+		<Level>77<\Level>
+		<Description>It's possible that this ring has still got some saliva on it. Apparently, it's customary in the monastery for people to kiss one another's rings as a way of saying hello.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10312598<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15209<\ID>
+		<Name>Fluo Ring<\Name>
+		<Level>77<\Level>
+		<Description>Once you've put this ring on, it's highly recommended that you take it off again. You have been warned...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315209<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12602<\ID>
+		<Name>Clergy Ring<\Name>
+		<Level>78<\Level>
+		<Description>Well, I'll be a monk's uncle! This ring is second to nun.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312602<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15211<\ID>
+		<Name>The Alphabet Agama<\Name>
+		<Level>79<\Level>
+		<Description>Alpha <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315211<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15414<\ID>
+		<Name>Ratical Ring<\Name>
+		<Level>79<\Level>
+		<Description>Oh, don't worry, it's not a worm! It's just a hairless, creepy, squidgy rat tail. Watch out for splinters!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315414<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12474<\ID>
+		<Name>Starry Ring<\Name>
+		<Level>80<\Level>
+		<Description>This ring will make you twinkle with joy!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10312474<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13434<\ID>
+		<Name>Geminus Ring <\Name>
+		<Level>80<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13436<\ID>
+		<Name>Metis Ring <\Name>
+		<Level>80<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13437<\ID>
+		<Name>Apollonius Ring<\Name>
+		<Level>80<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13459<\ID>
+		<Name>Copernicus Ring<\Name>
+		<Level>80<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15403<\ID>
+		<Name>Ratical Ring<\Name>
+		<Level>80<\Level>
+		<Description>This ring used to belong to Ratical's mother. Apparently, whoever's wearing it is the life and soul of the party!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315403<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14996<\ID>
+		<Name>Imperial Treechnid Ring<\Name>
+		<Level>81<\Level>
+		<Description>This ring is nice... I mean, in an understated way. It looks good on you. I wouldn't wear one myself, but you know...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314996<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15603<\ID>
+		<Name>Cloudy Feather Ring<\Name>
+		<Level>81<\Level>
+		<Description>15% Cloudy Feathers, 8% fat and 77% unknown ingredients... This is definitely a quality ring. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315603<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15614<\ID>
+		<Name>Cloudy Strich Ring<\Name>
+		<Level>81<\Level>
+		<Description>A little ring packed with static electricity. It just keeps going and going! Zzzzzrk!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315614<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10033<\ID>
+		<Name>Aborr Ring<\Name>
+		<Level>82<\Level>
+		<Description>The strong odor emanating from this ring can send your enemies running for the hills... and your allies, too. They do say peace comes at a price.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10945,10946,10947,10948<\Children>
+		<Icon>10310033<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>46<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15036<\ID>
+		<Name>Haunted Ring<\Name>
+		<Level>82<\Level>
+		<Description>If your finger starts breathing by itself when you put this ring on, relax: it's just the soul of a tortured pirate who's been trapped inside for several decades.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315035<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15958<\ID>
+		<Name>Brrrbli Ring<\Name>
+		<Level>83<\Level>
+		<Description>Tiny, sweet, gentle and cool. Tough, white, and oh so powerful!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315958<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16896<\ID>
+		<Name>El Pochito Ring<\Name>
+		<Level>83<\Level>
+		<Description>This ring is awarded to the winner of Trool Academy.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316896<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12860<\ID>
+		<Name>Heated Ring<\Name>
+		<Level>84<\Level>
+		<Description>When in contact with skin, this ring gets really hot!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10312860<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15196<\ID>
+		<Name>Black Widow Ring<\Name>
+		<Level>84<\Level>
+		<Description>I suppose she doesn't need it any more, now she's a widow. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315196<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14363<\ID>
+		<Name>Whispered Ring<\Name>
+		<Level>85<\Level>
+		<Description>The best ring by a whisper.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314363<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12861<\ID>
+		<Name>Dead Ringer<\Name>
+		<Level>86<\Level>
+		<Description>This ring was found in a cemetery and exudes an aura that will make your blood run cold.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312861<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13460<\ID>
+		<Name>Desdemona Ring <\Name>
+		<Level>90<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13567<\ID>
+		<Name>Gladiatrool Gloves<\Name>
+		<Level>90<\Level>
+		<Description>Allowing you to hit that little bit harder in the arena!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10313567<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16789<\ID>
+		<Name>Sand Ring<\Name>
+		<Level>90<\Level>
+		<Description>This ring is made of sand. A great reason to stop washing your hands.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316789<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12384<\ID>
+		<Name>Milimoowolf Bracelet<\Name>
+		<Level>92<\Level>
+		<Description>Don't tighten it too much, now!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312384<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12768<\ID>
+		<Name>Moowolf Signet Ring<\Name>
+		<Level>92<\Level>
+		<Description>It'll sink its fangs into your finger!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10312768<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15620<\ID>
+		<Name>Celestial Strich Ring<\Name>
+		<Level>92<\Level>
+		<Description>Who knew a Strich (even a Celestial one) could leave behind such a stunning ring?<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315620<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15627<\ID>
+		<Name>Tufty Ring<\Name>
+		<Level>92<\Level>
+		<Description>As well as embellishing your finger, this little ring might help you with the dusting. <\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315627<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10034<\ID>
+		<Name>Viper Ring<\Name>
+		<Level>94<\Level>
+		<Description>Watch out for this ring. It can be as dangerous for you as for your enemies.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310034<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13547<\ID>
+		<Name>Shadofang Ring<\Name>
+		<Level>94<\Level>
+		<Description>Watch out! This ring might suck up more than just your soul!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10312885<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14482<\ID>
+		<Name>Ringapult<\Name>
+		<Level>94<\Level>
+		<Description>It'll drive your enemies ballistic!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314482<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15201<\ID>
+		<Name>Phosphorescent Ring<\Name>
+		<Level>94<\Level>
+		<Description>This ring has a double-or-nothing thing going on: either it bites off your finger, or it makes your finger grow to three times its size. Think very carefully about the consequences before you put it on.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10315201<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15975<\ID>
+		<Name>Brrrbley Spears's Ring<\Name>
+		<Level>94<\Level>
+		<Description>This ring is the centerpiece of Brrrbley Spears's collection and would be worth its weight in gold if only the market wasn't frozen.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315975<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16028<\ID>
+		<Name>Boohemoth Ring<\Name>
+		<Level>94<\Level>
+		<Description>If you get cold feet, just give your friend a ring.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316028<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16803<\ID>
+		<Name>Oyster Ring<\Name>
+		<Level>94<\Level>
+		<Description>With a ring like this, the world is your oyster!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316803<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12891<\ID>
+		<Name>Vampiric Bracelet<\Name>
+		<Level>95<\Level>
+		<Description>Whoever said Vampyres suck? This stylish bracelet proves that they have a real eye for fashion.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Children>13130,13131,13132,13133<\Children>
+		<Icon>10312891<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16087<\ID>
+		<Name>Pumbrrr's Ring<\Name>
+		<Level>95<\Level>
+		<Description>Pumbrrr is one very solitary Brrrbli. Rejected by others for his spring flower fragrance, he wanders around Chillberg Island wrecking all before him. He also has a tendency to foil Chillberg's plans for expansion.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316087<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16758<\ID>
+		<Name>Jelly Ring<\Name>
+		<Level>95<\Level>
+		<Description>Jam this on your thumb. At least then you'll have an excuse for sucking it all the time.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316758<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17624<\ID>
+		<Name>J.A.R.N.O.<\Name>
+		<Level>95<\Level>
+		<Description>Merkator is the only one to hear the voices, and communicates with them through his ring. It probably has something to do with his long isolation underwater.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317624<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8248<\ID>
+		<Name>Black Crow's Ring<\Name>
+		<Level>100<\Level>
+		<Description>The best way to keep track of a bird is to ring it!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>1036561<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13435<\ID>
+		<Name>Cressida Ring <\Name>
+		<Level>100<\Level>
+		<Description>A ring that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10310207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14132<\ID>
+		<Name>Tortured Soul<\Name>
+		<Level>100<\Level>
+		<Description>It may be small, but this ring contains a fragment of Gobbsage's essence, absorbed long ago by Excarnus. Pop it in your mouth. It tastes like angry, digested hay.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314132<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14633<\ID>
+		<Name>Imperial Merchant Ring<\Name>
+		<Level>100<\Level>
+		<Description>With this ostentatious sign of wealth on your finger, nobody will ever guess what a measly pauper you are on the inside.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314633<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16084<\ID>
+		<Name>Icy Heart Ring<\Name>
+		<Level>100<\Level>
+		<Description>This ring will make you melt with happiness. It affects the wearer in the depths of his soul to purify his heart of fiery flares!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316084<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16149<\ID>
+		<Name>Bolt<\Name>
+		<Level>100<\Level>
+		<Description>Fairly robust in its design, this ring should be put on the finger clockwise and removed by turning in a counter-clockwise direction.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316149<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17189<\ID>
+		<Name>Apprentice Ring<\Name>
+		<Level>100<\Level>
+		<Description>Contemplate this perfectly infinite circle, that you may become infinitely wise.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317189<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16776<\ID>
+		<Name>Royal Kir-Ring<\Name>
+		<Level>104<\Level>
+		<Description>As noble as they come!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316776<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16040<\ID>
+		<Name>Crackmitten Ring<\Name>
+		<Level>105<\Level>
+		<Description>This ring helps to bear the cold, probably due to the subtle effect of its Taroudium content.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316040<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16771<\ID>
+		<Name>Royal Jelly Ring<\Name>
+		<Level>105<\Level>
+		<Description>Sure, it'll slip through your fingers in no time, but you should be honored that you're even allowed to hold it!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316771<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14426<\ID>
+		<Name>Rocky Fist<\Name>
+		<Level>110<\Level>
+		<Description>The expression 'under the thumb' takes on a new dimension when the thumb in question belongs to a Whispered Crackler.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10314426<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16109<\ID>
+		<Name>Herr Peece's Gloves<\Name>
+		<Level>110<\Level>
+		<Description>These gloves belonged to the old doctor in the Snowbound Village!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316109<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15960<\ID>
+		<Name>Icecast Bone Ring<\Name>
+		<Level>112<\Level>
+		<Description>This ring was the result of Freezz's very first Neoromantic Smithmagic experiments. It was so successful that all the Chafers in her army were duly equipped.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10315960<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16044<\ID>
+		<Name>Necroforged Ring<\Name>
+		<Level>114<\Level>
+		<Description>Tapping into the power granted by Jiva, Missiz Freezz created this ring as a symbol of her betrothal to Count Harebourg.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316044<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16059<\ID>
+		<Name>Mecha-Ring<\Name>
+		<Level>114<\Level>
+		<Description>This ring is equipped with small nozzles so that accessories can be attached to it.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316059<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14125<\ID>
+		<Name>Magmog Halo<\Name>
+		<Level>115<\Level>
+		<Description>As the famous enraged Iop once cried out: Halo? What?! he's never even played it!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314125<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14440<\ID>
+		<Name>Whispery Ring<\Name>
+		<Level>116<\Level>
+		<Description>One ring to bring them all and with a murmur bind them.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10314440<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17185<\ID>
+		<Name>Initiate Ring<\Name>
+		<Level>120<\Level>
+		<Description>Knowing others is wisdom. Knowing yourself is enlightenment.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317185<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18173<\ID>
+		<Name>Spiky Fist<\Name>
+		<Level>120<\Level>
+		<Description>A hollowed-out Castuc fist can be a formidable weapon. Don't knock it 'till you've tried it.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318173<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16974<\ID>
+		<Name>Dragon Pig Bandage<\Name>
+		<Level>122<\Level>
+		<Description>Now you can bandage up your fists for all those sweaty, porcine battles!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10316974<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18463<\ID>
+		<Name>Bagus Shushu<\Name>
+		<Level>125<\Level>
+		<Description>Despite the power contained in this ring, its bearer remains bridled by a strange force. There must no doubt be a way to break the evil spell.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCharacteristicMax(\"AP\<\Conditions>
+		<Icon>10318463<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17260<\ID>
+		<Name>Scemu Ring<\Name>
+		<Level>126<\Level>
+		<Description>This ring will make you as nuts as a Black Wabbit at full steam.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317260<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>91<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16064<\ID>
+		<Name>Supreme Mecha-Ring<\Name>
+		<Level>130<\Level>
+		<Description>A slight shock to the finger indicates that the ring is properly on. Then the power flows...<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10316064<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18635<\ID>
+		<Name>The Oldixring<\Name>
+		<Level>130<\Level>
+		<Description>The strong and mighty Lenaldix once offered this superb ring to one of his conquests, before asking for it back to give to the next.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318635<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17281<\ID>
+		<Name>Wabbit Stampew<\Name>
+		<Level>131<\Level>
+		<Description>Signing scrolls is a special treat, in the noble court where the long-ears meet...\\nIt's fow stampin'! That's why they call it a Stampew!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317281<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18162<\ID>
+		<Name>Floral Sporing<\Name>
+		<Level>131<\Level>
+		<Description>This was originally a smelly, disgusting protrusion. It looks good on your finger though.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318162<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17265<\ID>
+		<Name>Seal of Rage<\Name>
+		<Level>133<\Level>
+		<Description>Like watching Hunee Bow Meow, putting this ring on your finger provokes insatiable rage.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317265<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17181<\ID>
+		<Name>Sage Ring<\Name>
+		<Level>135<\Level>
+		<Description>It's wise not to run in circles.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317181<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18634<\ID>
+		<Name>Wabbitwing<\Name>
+		<Level>135<\Level>
+		<Description>A ring entrusted to the best traditional Cawotte juice makers.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318634<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17272<\ID>
+		<Name>Emiw Wing<\Name>
+		<Level>138<\Level>
+		<Description>It has been passed down through generations of Black Wabbit families to honor and remember the stupid sacrifice of their ancestors.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317272<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>86<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17340<\ID>
+		<Name>Boney Zwombbit Claw<\Name>
+		<Level>139<\Level>
+		<Description>This claw coming near you is not a happy thought. Even one injury caused by it and you're sure to be quarantined.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317340<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17240<\ID>
+		<Name>Seal Of Wisdom<\Name>
+		<Level>140<\Level>
+		<Description>A wise old Lenald once said: \"Wisdom only comes to those who lemain tlanquil.\"<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317240<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18636<\ID>
+		<Name>The Zumbado<\Name>
+		<Level>140<\Level>
+		<Description>The Zombo is covered with splinters, so it's necessary to wear these gloves if you want to dance with it successfully.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318636<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17245<\ID>
+		<Name>Empelol's Ling<\Name>
+		<Level>143<\Level>
+		<Description>You've gotta know how to be sneaky like a Lenald and hide the poison in this ring. (It's even better if you've added sugar.)<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317245<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17311<\ID>
+		<Name>Gauntlet<\Name>
+		<Level>143<\Level>
+		<Description>It will let you avoid getting your hands dirty while harvesting Cawwots.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317311<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>86<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18188<\ID>
+		<Name>Sprecious<\Name>
+		<Level>145<\Level>
+		<Description>This precious treasure will make you start to realize how much you'd like to live in this gloomy place.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318188<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17292<\ID>
+		<Name>Cawwot Wound<\Name>
+		<Level>148<\Level>
+		<Description>Whether you nibble 'em or swallow 'em whole doesn't matter; the only thing that does is that there are more Cawwot Wounds to eat after.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317292<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17318<\ID>
+		<Name>Wingbot<\Name>
+		<Level>149<\Level>
+		<Description>This ring is a mess of amateur mechanics! Nothing is the way it should be, but strangely, it works pretty well.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317318<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17353<\ID>
+		<Name>Infected Ring<\Name>
+		<Level>150<\Level>
+		<Description>This ring was in direct contact with the Viwus, which makes its wearer immune to the menace.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10317353<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18553<\ID>
+		<Name>String Hold<\Name>
+		<Level>153<\Level>
+		<Description>This ring is of Enurado design. You can use it to add an extra layer of protection to your chest, thanks to a code engraved in the Kamas that you keep hidden away from covetous gazes.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318553<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17325<\ID>
+		<Name>The Wa's Seal<\Name>
+		<Level>155<\Level>
+		<Description>Affix your seal, impose your laws, and pose in front of the Wa!<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10317325<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18554<\ID>
+		<Name>Expire Ring<\Name>
+		<Level>162<\Level>
+		<Description>From the moment you put this ring on, you're going to have to do something and it will mark the end of an important era for you.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318554<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18555<\ID>
+		<Name>Golden Keychain<\Name>
+		<Level>169<\Level>
+		<Description>The perfect tool to keep track of your keys and always have them to hand.<\Description>
+		<Slot>Ring<\Slot>
+		<SlotID>103<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:!HasAnotherSameEquipment(),<\Conditions>
+		<Icon>10318555<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

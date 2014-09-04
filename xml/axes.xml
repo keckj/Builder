@@ -1,0 +1,834 @@
+
+<Items>
+	<Item>
+		<ID>17605<\ID>
+		<Name>Thrashyr<\Name>
+		<Level>2<\Level>
+		<Description>This basic axe isn't really the stuff of legends.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:GetInstanceId()!=702,<\Conditions>
+		<Icon>1019409<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>7034<\ID>
+		<Name>Piwi Axe<\Name>
+		<Level>5<\Level>
+		<Description>An axe for chopping off the head of your enemy, provided your enemy is a tiny, wimpy little monster.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1017034<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9409<\ID>
+		<Name>Twiggy Axe<\Name>
+		<Level>8<\Level>
+		<Description>This basic axe isn't really the stuff of legends.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1019409<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10245<\ID>
+		<Name>Terophyle Axe<\Name>
+		<Level>15<\Level>
+		<Description>Terophyle was a Iop disciple who could move enormous masses. But, just like all muscular Iops, intelligence wasn't one of his strengths...<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1010245<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9410<\ID>
+		<Name>Kick Axe<\Name>
+		<Level>17<\Level>
+		<Description>A postmodern axe based on a comic book.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1019410<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3599<\ID>
+		<Name>War Chief Axe<\Name>
+		<Level>20<\Level>
+		<Description>Wield this axe and you will immediately feel like a true 'leader of troops'. If opinion on this is divided, let it fall upon the heads of the unruly. At least you'll be the only one left with any say.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1013599<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9411<\ID>
+		<Name>Bear Slicer<\Name>
+		<Level>20<\Level>
+		<Description>If you don't have any bears to hand, this is just as useful for slicing your loaf.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1019411<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10263<\ID>
+		<Name>Agride<\Name>
+		<Level>27<\Level>
+		<Description>This axe can cut anything from a Blibli to a Treechnid in half in one fell swoop, which, you have to admit, is not something you see every day.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10110262<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15574<\ID>
+		<Name>Googoolden Axe<\Name>
+		<Level>30<\Level>
+		<Description>Snakes alive! This is the nicest axe I've ever seen!<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10115574<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10279<\ID>
+		<Name>Oak Killer<\Name>
+		<Level>33<\Level>
+		<Description>Despite its name, this axe is no good at chopping down trees. If you're strong enough to lift it, try it on a Bwork and you should get much more satisfying results. <\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1010279<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>972<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9412<\ID>
+		<Name>The Astro<\Name>
+		<Level>35<\Level>
+		<Description>If you feel you're a superhero at heart, this axe is made for you. All you need now is an assortment of colored armor.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11183,11184,11185<\Children>
+		<Icon>1019412<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9413<\ID>
+		<Name>Militiaman Eater<\Name>
+		<Level>45<\Level>
+		<Description>This axe doesn't really eat militiamen. It does reduce them to mush though, which gives the impression that they've been chewed<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11186,11187,11188<\Children>
+		<Icon>1019413<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9643<\ID>
+		<Name>The Axshe<\Name>
+		<Level>45<\Level>
+		<Description>What an impreschive axshe! Your opponent had better make himshelf schmall. It would only take one hit on the head to knock him out for the count! <\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1019643<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14856<\ID>
+		<Name>Treechnid Axe<\Name>
+		<Level>45<\Level>
+		<Description>Chopping wood with wood... Isn't that ironic? Dontcha think?<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10114856<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9972<\ID>
+		<Name>Skyslicer<\Name>
+		<Level>50<\Level>
+		<Description>You can claim that this can slice the sky, but you'll just be blowing hot air.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 50,<\Conditions>
+		<Children>11189,11190,11191<\Children>
+		<Icon>1019972<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11084<\ID>
+		<Name>Kral'Axe Nikof<\Name>
+		<Level>50<\Level>
+		<Description>You can't just throw it around carelessly. It can do a lot of damage, you know, even to you.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 50,<\Conditions>
+		<Icon>10111084<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9414<\ID>
+		<Name>Boulgourde of the Glades<\Name>
+		<Level>55<\Level>
+		<Description>An axe which used to belong to Brouce Boulgoure, the famous lumberjack. This weapon allowed him to defend himself when he went out to chop down whole forests at night.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11192,11193,11194,11195<\Children>
+		<Icon>1019414<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9625<\ID>
+		<Name>Gobbalroglet Axe<\Name>
+		<Level>60<\Level>
+		<Description>Just like its ex-owner, this is a scaled-down version. Don't even think about it, pipsqueak - even ten of you couldn't lift the original.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1019625<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14879<\ID>
+		<Name>Tropikaxe<\Name>
+		<Level>60<\Level>
+		<Description>After a long and difficult struggle with the patenting office, this axe finally gained the right to bear its name proudly. Its rival was renamed to Tropilax and is still the best-selling medication on Calamari Island.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10114879<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>89<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15177<\ID>
+		<Name>The Shax<\Name>
+		<Level>61<\Level>
+		<Description>Brakmar's favorite sport used to be Shaxball, in which competitors whacked at a Chafer Skull with a Shax. Ever since Gobbowl made it big, Shaxball has been largely forgotten.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10115177<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15462<\ID>
+		<Name>Pinch Hitter<\Name>
+		<Level>62<\Level>
+		<Description>If you were a little less shellfish, you might use this thing to clear the beach of garbage rather than just pinching innocent by-standers' butts with it.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10115462<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15540<\ID>
+		<Name>The Fly-Swisher<\Name>
+		<Level>62<\Level>
+		<Description>Twirl this in circles in front of you like a windmill, and you can guarantee that no Moofly - or anything else for that matter - will dare get in your way.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10115540<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12358<\ID>
+		<Name>Axeivement<\Name>
+		<Level>68<\Level>
+		<Description>For those that like to get a job done and dusted!<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112358<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14670<\ID>
+		<Name>Razor Tooth<\Name>
+		<Level>70<\Level>
+		<Description>An axe studded with sharp little teeth that can rip right through pretty much anything you care to try it out on.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10114670<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>135<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12855<\ID>
+		<Name>The Guillotine<\Name>
+		<Level>76<\Level>
+		<Description>Simply looking at this axe will make you complete lose your head.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112855<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12476<\ID>
+		<Name>Gobby Axe<\Name>
+		<Level>79<\Level>
+		<Description>This axe has always got something to say, and your enemies are almost definitely going to end up with a headache.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112476<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>89<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12592<\ID>
+		<Name>The Maimer<\Name>
+		<Level>79<\Level>
+		<Description>And yes, it really hurts!<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112592<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12864<\ID>
+		<Name>Maneater<\Name>
+		<Level>85<\Level>
+		<Description>Watch out or it will eat you alive!<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112864<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14671<\ID>
+		<Name>Forward Slash<\Name>
+		<Level>90<\Level>
+		<Description>The axe of choice for net surfers.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10114671<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16794<\ID>
+		<Name>Beach Paddle<\Name>
+		<Level>91<\Level>
+		<Description>For playing \"who can spear the ball first\" by the water's edge.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10116794<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14672<\ID>
+		<Name>Grou's Axe<\Name>
+		<Level>100<\Level>
+		<Description>Grou thought that this would make him irresistible to the ladies. Unfortunately, the only thing he found it useful for was chopping his armpit hair.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10114672<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>143<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15989<\ID>
+		<Name>The Habrazieff<\Name>
+		<Level>105<\Level>
+		<Description>Made from Pure Taroudium, this pickaxe is sure to send a shudder through Missiz Freezz's heart.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>10115989<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>200<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>52<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16151<\ID>
+		<Name>Sawlargh<\Name>
+		<Level>120<\Level>
+		<Description>Half-tool, half-weapon, this axe allows Sylargh to instill authority when he's not sawing planks for odd jobs.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10116151<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>126<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17283<\ID>
+		<Name>Tiwabbit Axe<\Name>
+		<Level>133<\Level>
+		<Description>This cute little axe has not lost its edge, and it can fix a sore throat very quickly.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10117283<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>119<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18453<\ID>
+		<Name>Tranchus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Lightly built, this is the ideal axe to chop everything that moves into smithereens. It is so resistant, some Enutrofs even use to cut through rocks when they're mining for precious stones.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10118453<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>200<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18558<\ID>
+		<Name>Starless Night Slicer<\Name>
+		<Level>157<\Level>
+		<Description>This blade is said to be sharper on starless and moonless nights. But it's just a rumor, as it's too dark to notice anything.<\Description>
+		<Slot>Axe<\Slot>
+		<SlotID>101<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10118558<\Icon>
+		<AP>6<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>139<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

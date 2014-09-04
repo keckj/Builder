@@ -1,0 +1,825 @@
+
+<Items>
+	<Item>
+		<ID>11406<\ID>
+		<Name>Blade of Betrayal<\Name>
+		<Level>7<\Level>
+		<Description>This sword is not to be trusted!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22311406<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9456<\ID>
+		<Name>Twiggy Blade<\Name>
+		<Level>8<\Level>
+		<Description>Basic sword, not the stuff of legends.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239456<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9457<\ID>
+		<Name>Smithy Blade<\Name>
+		<Level>15<\Level>
+		<Description>A well forged sword, interesting for beginners.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239457<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9458<\ID>
+		<Name>Chafer Blade<\Name>
+		<Level>25<\Level>
+		<Description>This Blade once belonged to Metzger the Butcher, who used it to cut up bones. A Chafer managed to steal it from him and, in his hands, the blade has been responsible for numerous amputations.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239458<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10370<\ID>
+		<Name>Zord<\Name>
+		<Level>28<\Level>
+		<Description>With this sword, shaped like a Zordfish beak, you will master the art of Snapper combat!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22310370<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9459<\ID>
+		<Name>The Sad Blade<\Name>
+		<Level>30<\Level>
+		<Description>This blade has bathed in the tears of a Boowolf. Lots of warriors think this brings luck and courage on the battlefield.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11223,11224,11225<\Children>
+		<Icon>2239459<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9460<\ID>
+		<Name>The Goultard<\Name>
+		<Level>40<\Level>
+		<Description>The Goultard was soaked in a Dragon Pig's blood. Any hero who can bear the stench given off by the sword will have earnt the right to use it in battle.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11226,11227,11228<\Children>
+		<Icon>2239460<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9942<\ID>
+		<Name>Crackler Blade<\Name>
+		<Level>42<\Level>
+		<Description>This blade may not be sharp, but it certainly smarts!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239442<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9642<\ID>
+		<Name>Bramble Claymore<\Name>
+		<Level>43<\Level>
+		<Description>This claymore is terribly efficient. All you have to do is figure out the best place to stick it...<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239642<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9968<\ID>
+		<Name>Hohoglion Blade<\Name>
+		<Level>45<\Level>
+		<Description>You can tell a Hohoglian by his wealth, of course, but also by his haughty attitude. Carry this blade and you'll look elegant and well-to-do, even if you don't have a kama to your name.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 45,<\Conditions>
+		<Children>11229,11230,11231<\Children>
+		<Icon>2239968<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>239<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9604<\ID>
+		<Name>The Crocobur<\Name>
+		<Level>50<\Level>
+		<Description>A sword to make a hero of you! It's so heavy that you'll get muscular just carrying it, and so long that you'll need to walk tall to keep it off the ground.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2239604<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>158<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>157<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11867<\ID>
+		<Name>Riktus Sword<\Name>
+		<Level>50<\Level>
+		<Description>This beautiful sword is awarded to the most courageous Riktus.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22311867<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10980<\ID>
+		<Name>Exstalabur<\Name>
+		<Level>54<\Level>
+		<Description>This sword is the stuff of legends! You can use it to show your enemies who really rules the roost, if you can get it out of the stone.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22310980<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>239<\ID><Value>125<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12339<\ID>
+		<Name>Riktus Elite Sword<\Name>
+		<Level>55<\Level>
+		<Description>As soon as this sword crosses with another it emits a piercing, metallic-sounding cackle.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22312339<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12<\ID>
+		<Name>Blade Roller<\Name>
+		<Level>60<\Level>
+		<Description>This sword was forged by the legendary Karne Aj, a Sram warrior known for being able slice quicker than his shadow. Letting him keep this weapon probably wasn't the wisest idea.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8887,8888,8889,8890<\Children>
+		<Icon>2230012<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>11029<\ID>
+		<Name>The Demolisword<\Name>
+		<Level>60<\Level>
+		<Description>It's going to destroy everything!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22311029<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8380<\ID>
+		<Name>Trool Destroyer<\Name>
+		<Level>65<\Level>
+		<Description>This is just about the only weapon a Trool's scared of!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>2238380<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12375<\ID>
+		<Name>Dreamy Blade<\Name>
+		<Level>68<\Level>
+		<Description>Put your enemies to sleep with one fatal blow from this marvelous blade.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12410,12411,12412,12413<\Children>
+		<Icon>22312375<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17745<\ID>
+		<Name>Dreamy Blade<\Name>
+		<Level>68<\Level>
+		<Description>Put your enemies to sleep with one fatal blow from this marvelous blade.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22312375<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14666<\ID>
+		<Name>Sharpened Claymore<\Name>
+		<Level>75<\Level>
+		<Description>This enormous sword is efficient at turning even the largest enemies into hamburger meat. Just make sure you don't do that swishy figure-of-eight thing to celebrate - your teammates will thank you.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22314666<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>180<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10020<\ID>
+		<Name>Screem Saber<\Name>
+		<Level>81<\Level>
+		<Description>Now you've got your hands on this haunted sword, you'll never be able to get rid of it. All you can do is wail miserably about your fate...<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22310020<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>61<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14667<\ID>
+		<Name>Shushu Slicer<\Name>
+		<Level>95<\Level>
+		<Description>A mystical sword capable of tailing souls which have spent a little too long in our World.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22314667<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13643<\ID>
+		<Name>Fanfest #1 Fire Sword<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>22312489<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13644<\ID>
+		<Name>Fanfest #1 Air Sword<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>22312489<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13645<\ID>
+		<Name>Fanfest #1 Water Sword<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>22312489<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13646<\ID>
+		<Name>Fanfest #1 Earth Sword<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>22312489<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13798<\ID>
+		<Name>The Grinder<\Name>
+		<Level>100<\Level>
+		<Description>This heavy, impractical sword is a must-have for anyone who wants to make friends at the Burnteca Tavern's legendary RnB nights.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22313798<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>124<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14285<\ID>
+		<Name>Solar Sword<\Name>
+		<Level>100<\Level>
+		<Description>This golden, illuminated sword will unleash its full potential at around midday. It represents the first protector of Javian, Solar. May the sun shine upon you.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22314285<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14669<\ID>
+		<Name>Tot's Great Big Sword <\Name>
+		<Level>100<\Level>
+		<Description>An imposing blade which once belonged to a mythical, bearded warrior. The rumor goes that he had a T tattooed on each butt cheek.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22314669<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>350<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15273<\ID>
+		<Name>Coa Gulary's Sword<\Name>
+		<Level>100<\Level>
+		<Description>This sword feeds on the blood of its victims. The more blood it sheds, the more legendary it will become!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22315273<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>126<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16108<\ID>
+		<Name>Fhenris's Frozen Fang<\Name>
+		<Level>100<\Level>
+		<Description>Hear his footfalls in the snow,\\nHis fangs freeze the blood,\\nLone Boohemoth is coming.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22316108<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>180<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12489<\ID>
+		<Name>Black Crow's Sword<\Name>
+		<Level>103<\Level>
+		<Description>A beautifully-decorated black sword that only the hardest of the World's warriors can control.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22312489<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16030<\ID>
+		<Name>Serrated Saber<\Name>
+		<Level>111<\Level>
+		<Description>This weapon does just as much damage on the way back as it does on the way there. It can even be used as a saw when necessary.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22316030<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17288<\ID>
+		<Name>Huge Cawwot<\Name>
+		<Level>130<\Level>
+		<Description>Those that tried to eat it broke their teeth!<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22317288<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>120<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18452<\ID>
+		<Name>Claymus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Once this is stuck in the enemy, the protection fixed to the sword will come off and will unleash an evil Shushu who will petrify the target of the pain.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22318452<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>240<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18565<\ID>
+		<Name>Accounts Key<\Name>
+		<Level>165<\Level>
+		<Description>Your accounts are kept under lock and key, until you decide to come and withdraw some of your meager savings.<\Description>
+		<Slot>Two-handed Sword<\Slot>
+		<SlotID>223<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>22318565<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>497<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

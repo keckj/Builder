@@ -1,0 +1,902 @@
+
+<Items>
+	<Item>
+		<ID>9368<\ID>
+		<Name>Twiggy Staff<\Name>
+		<Level>8<\Level>
+		<Description>Fairly basic staff, not the stuff of legends.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1130000<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11392<\ID>
+		<Name>Greedostaff<\Name>
+		<Level>10<\Level>
+		<Description>After using this staff to attack someone, swear blind that it was in self-defence. The tavern can always edit its CCTV footage later to make you look like less of a baddie<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11311392<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12826<\ID>
+		<Name>Koriin Staff<\Name>
+		<Level>10<\Level>
+		<Description>This staff will make you as agile as a cat in battle.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312826<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6570<\ID>
+		<Name>Tofu Staff<\Name>
+		<Level>12<\Level>
+		<Description>It would have been wise to make sure the egg was empty before making this weapon...  <\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1136570<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9369<\ID>
+		<Name>Pilgrim Staff<\Name>
+		<Level>15<\Level>
+		<Description>Adventurers setting off on a long journey always take their partner's staff with them. Probably to make sure they have some company out there all alone.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1139369<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>90<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10676<\ID>
+		<Name>Downka Staff<\Name>
+		<Level>20<\Level>
+		<Description>It doesn't matter how often you put this staff down, it can't get any lower.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310283<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10259<\ID>
+		<Name>Fake Magic Staff<\Name>
+		<Level>25<\Level>
+		<Description>By giving off light each time you tap it on the floor (Ooh!) and deforming your voice (Aah!), this staff will make you look like something you're not: a great mage.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310259<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15519<\ID>
+		<Name>Googoobuster<\Name>
+		<Level>27<\Level>
+		<Description>With this weapon in hand, you'll be able to venture into the cemetery at any time of night without the slightest trouble from the residents.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11315519<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10268<\ID>
+		<Name>Arson Fire Staff<\Name>
+		<Level>29<\Level>
+		<Description>Apparently, this staff belonged to one of the 110 Amaknian firefighters it took to put out the fire started deliberately by the reckless Red Wyrmling. There were definite signs of arson about. <\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310268<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3959<\ID>
+		<Name>Shepherd's Staff<\Name>
+		<Level>30<\Level>
+		<Description>This steel rimmed staff with its Gobball carving really commands respect. When you use it to hit someone, the only noise to break the revered silence will be \"Ow\"!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8571,8572,8573<\Children>
+		<Icon>1133959<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10998<\ID>
+		<Name>The Kokostaff<\Name>
+		<Level>30<\Level>
+		<Description>Made from Koko branches, this wand isn't as stiff as it could be. It will bend to fit in your pocket, though!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310998<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9370<\ID>
+		<Name>Kanniball Staff<\Name>
+		<Level>40<\Level>
+		<Description>Far from its Kanniball, this exotic staff can feel quite homesick. That's why it's advisable to fight facing the sea, underneath a palm tree, to get the best out of it.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9519,9520,9521<\Children>
+		<Icon>1139370<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9971<\ID>
+		<Name>Crackdweller Staff<\Name>
+		<Level>40<\Level>
+		<Description>A cheeky staff.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 40,<\Conditions>
+		<Children>11235,11236,11237<\Children>
+		<Icon>1139971<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10274<\ID>
+		<Name>Carnivorous Staff<\Name>
+		<Level>40<\Level>
+		<Description>Strangely sculpted, this staff doesn't come from around here. It smells of the darkness and dankness associated with Brakmar's old haunts.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310274<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10283<\ID>
+		<Name>Powerful Tabi Staff<\Name>
+		<Level>40<\Level>
+		<Description>This staff was originally used by Amaknian farmers to herd their flocks of Tabis. It's so light you could use it to chase straying Tabis without even getting out of breath.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11310283<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9640<\ID>
+		<Name>Tumboler Staff<\Name>
+		<Level>42<\Level>
+		<Description>The Tumboler Staff was a weapon capable of stealing pieces of Shushu souls. Unfortunately, this Tumboler Staff is just a cheap replica.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1139640<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12800<\ID>
+		<Name>Wormy Whip<\Name>
+		<Level>42<\Level>
+		<Description>Whip this out and watch your adversaries squirm!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11312800<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14039<\ID>
+		<Name>Hot Staff<\Name>
+		<Level>44<\Level>
+		<Description>If you're sitting there, eating your heart out, you need a Hot Staff.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314039<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11648<\ID>
+		<Name>The Pinch-o-Matic<\Name>
+		<Level>45<\Level>
+		<Description>This is what your father was talking about when he warned you to be wary of crabs.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11649,11650,11651<\Children>
+		<Icon>11311648<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9377<\ID>
+		<Name>Treechnidis Vivitus<\Name>
+		<Level>50<\Level>
+		<Description>This staff is made from living Treechnid roots. Be warned, these do have an annoying tendency to turn against their masters.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11238,11239,11240,11241<\Children>
+		<Icon>1139377<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11652<\ID>
+		<Name>Primitive Club<\Name>
+		<Level>55<\Level>
+		<Description>Who said creating weapons was complicated? Grab a few bits of wood, some string, and hey presto!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11655,11656,11657,11658<\Children>
+		<Icon>11311652<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12576<\ID>
+		<Name>Crazy Shepherd Staff<\Name>
+		<Level>56<\Level>
+		<Description>Good luck using this staff to manage a herd of Wild Gobballs...<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312576<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9376<\ID>
+		<Name>Kings' Staff<\Name>
+		<Level>60<\Level>
+		<Description>Don't be fooled by its simplistic appearance: this staff has already put more than one herd of Gobballs in its place.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11242,11243,11244,11245<\Children>
+		<Icon>1139376<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15161<\ID>
+		<Name>The Detartar<\Name>
+		<Level>63<\Level>
+		<Description>This staff hits so hard it'll knock the plaque right off your enemy's teeth. Approved by the Brakmarian Dental Association.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11315161<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>149<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11667<\ID>
+		<Name>Skullenbone Bat<\Name>
+		<Level>65<\Level>
+		<Description>Whip out this tough, sturdy bone to impress your allies. It's pretty useful in combat too.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11673,11674,11675,11676<\Children>
+		<Icon>11311667<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17796<\ID>
+		<Name>Skullenbone Bat<\Name>
+		<Level>65<\Level>
+		<Description>Whip out this tough, sturdy bone to impress your allies. It's pretty useful in combat too.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11311667<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12367<\ID>
+		<Name>Priestess Staff<\Name>
+		<Level>70<\Level>
+		<Description>This weapon seems to be the staff of choice for the lunar ritual.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312367<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12601<\ID>
+		<Name>Old Cane<\Name>
+		<Level>76<\Level>
+		<Description>This cane is just as good at tripping people up as it is at helping you to walk.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11312601<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11659<\ID>
+		<Name>Aristocrab Staff<\Name>
+		<Level>78<\Level>
+		<Description>This staff was made with the upper classes in mind. Equip it and you'll feel like a nobleman, even in the middle of a bloody battle.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11662,11663,11664,11665<\Children>
+		<Icon>11311659<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17732<\ID>
+		<Name>Aristocrab Staff<\Name>
+		<Level>78<\Level>
+		<Description>This staff was made with the upper classes in mind. Equip it and you'll feel like a nobleman, even in the middle of a bloody battle.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11311659<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15405<\ID>
+		<Name>The Ratataka<\Name>
+		<Level>80<\Level>
+		<Description>This stick makes a variety of different sounds, depending on which part of the body you hit with it. Ra ta boink tish ta rata ta taka!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11315405<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14650<\ID>
+		<Name>Rokau's Club<\Name>
+		<Level>85<\Level>
+		<Description>A very stiff club that symbolizes virility, power, and grandeur.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314650<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>157<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14282<\ID>
+		<Name>Hobble Stick<\Name>
+		<Level>100<\Level>
+		<Description>To help Enutrofs hobble along the Astrub cobbles and prevent wobbling during Gobball squabbles. Now say it over and over again.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314282<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14283<\ID>
+		<Name>Raval Scepter<\Name>
+		<Level>100<\Level>
+		<Description>The sinister protector enshrined Menalt's skull in his staff and a shiver shuddered through the World, as if all the sleeping souls had let out a cry.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314283<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14651<\ID>
+		<Name>Fryou's Little Staff<\Name>
+		<Level>100<\Level>
+		<Description>You know what they say: it's not the size of the tool that matters; it's how you use it.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314651<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16085<\ID>
+		<Name>I Scream Spoon<\Name>
+		<Level>100<\Level>
+		<Description>Dig in!<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11316085<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14429<\ID>
+		<Name>Whispered Standard<\Name>
+		<Level>105<\Level>
+		<Description>A versatile adventurer like you can make heads roll with any old piece of junk, flags included.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314429<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14437<\ID>
+		<Name>Hushed Scepter<\Name>
+		<Level>115<\Level>
+		<Description>This scepter is said to contain the sighs and murmurs of ancient kings.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11314437<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>176<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17236<\ID>
+		<Name>Maltial Alt Staff<\Name>
+		<Level>128<\Level>
+		<Description>Made according to the pure Lenald Maltial Alt tradition. The only thing left is to see how well you can handle it.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11317236<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17314<\ID>
+		<Name>Gauwd Fishing Spear<\Name>
+		<Level>150<\Level>
+		<Description>One day, the Wabbits had an idea: why not fish for Loot with a spear? It was a fantastic idea! Now they can have fish with their Cawwots.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11317314<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18447<\ID>
+		<Name>Frappus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>When you stick this staff violently in the ground, all the creatures in the nearby area fall asleep. However, we don't advise you use it around children.<\Description>
+		<Slot>One-handed Staff<\Slot>
+		<SlotID>113<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11318447<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

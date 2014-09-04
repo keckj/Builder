@@ -1,0 +1,1070 @@
+
+<Items>
+	<Item>
+		<ID>7030<\ID>
+		<Name>Piwi Dagger<\Name>
+		<Level>5<\Level>
+		<Description>Is this the type of knife you'll want to keep by your side forever, or just for a day?<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1127030<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11404<\ID>
+		<Name>Treacherous Dagger<\Name>
+		<Level>6<\Level>
+		<Description>This dagger is so tiny that it's hard to see with the naked eye.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11211404<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9430<\ID>
+		<Name>Twiggy Daggers<\Name>
+		<Level>8<\Level>
+		<Description>These aren't the best daggers in the World. They're certainly not the stuff of legends.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1129430<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9891<\ID>
+		<Name>Karne Dagger<\Name>
+		<Level>9<\Level>
+		<Description>This exceptionally light dagger might not be very sharp, but you can hit very quickly with it.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1129891<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2200<\ID>
+		<Name>The Knife of Riley<\Name>
+		<Level>15<\Level>
+		<Description>This knife will make you want to sing along while you cut your enemies' throats open... But the multi-tasking might wear you out quicker than you thought!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1122200<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9431<\ID>
+		<Name>Smithy Daggers<\Name>
+		<Level>15<\Level>
+		<Description>These well forged daggers are a good choice for novices.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1129431<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15513<\ID>
+		<Name>Daguanos<\Name>
+		<Level>17<\Level>
+		<Description>A pair of trusty daggers, just dripping with malice and bird droppings.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11215513<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3836<\ID>
+		<Name>Discord Dagger<\Name>
+		<Level>20<\Level>
+		<Description>This dagger is so aggressive that if you contradict it, it may turn against you! <\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1123836<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10255<\ID>
+		<Name>The Ergot Mina<\Name>
+		<Level>20<\Level>
+		<Description>This weapon's handle is greasy and slippery, but it does look great.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11210255<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>172<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10269<\ID>
+		<Name>Bashers<\Name>
+		<Level>29<\Level>
+		<Description>Bashers are fearful assassin's daggers. Whoever owns them will be able to rival even the most bloodthirsty warriors.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>11210269<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10278<\ID>
+		<Name>Table Knives<\Name>
+		<Level>33<\Level>
+		<Description>These knives used to be used in a restaurant. Due to their strange appearance, the owner thought it better to sell them to a knife thrower instead.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>11210278<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12788<\ID>
+		<Name>Daggamite<\Name>
+		<Level>33<\Level>
+		<Description>Watch out that this dagger doesn't explode in your hands!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11212788<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9433<\ID>
+		<Name>Ancestral Daggers<\Name>
+		<Level>35<\Level>
+		<Description>These daggers, forged from Ancestral Amber, were used in the colonization of Moon Island, before it became wild again.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11263,11264,11265<\Children>
+		<Icon>1129433<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9641<\ID>
+		<Name>Croclage Daggers<\Name>
+		<Level>39<\Level>
+		<Description>These high quality Croclage Daggers will make you a valiant fighter.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1129641<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9432<\ID>
+		<Name>Hell Razors<\Name>
+		<Level>40<\Level>
+		<Description>Any Enutrof worthy of the name has a beard, and old Krys Nosheive was no exception. One day his wife, Mrs Nosheive, bought him a razor, and he decided he would rather use it as a weapon...<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11266,11267,11268<\Children>
+		<Icon>1129432<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9434<\ID>
+		<Name>Penn Knives<\Name>
+		<Level>45<\Level>
+		<Description>These superb daggers used to belong to Penn the Amaknian scribe. He used them to engrave his stone notebooks.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11269,11270,11271<\Children>
+		<Icon>1129434<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>32<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14854<\ID>
+		<Name>Treechnid Dagger<\Name>
+		<Level>45<\Level>
+		<Description>All you need to make this weapon a fearsome battle companion is a decent pencil sharpener.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214854<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12450<\ID>
+		<Name>Pumice Stone<\Name>
+		<Level>46<\Level>
+		<Description>This stone is great for removing dead, dry skin from the soles of your feet. You can even use it in battle, if you like!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12651,12652,12653<\Children>
+		<Icon>11212450<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15332<\ID>
+		<Name>The Helices<\Name>
+		<Level>50<\Level>
+		<Description>Once they've been planted into their victim, these daggers continue to turn, just to carve as much meat as possible off their prey.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11215332<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3886<\ID>
+		<Name>Stunner<\Name>
+		<Level>55<\Level>
+		<Description>This dagger has the incredible property of preventing pain. Ideal for those who hate to hear their opponents cry. Too bad for those who find it funny. <\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8680,8681,10533,12349<\Children>
+		<Icon>1123886<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9435<\ID>
+		<Name>Feti Daggers<\Name>
+		<Level>55<\Level>
+		<Description>Don't worry about where these daggers came from, or the fact that their handles seem to be a bit \"slippery\"!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11272,11273,11274,12348<\Children>
+		<Icon>1129435<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9967<\ID>
+		<Name>Cutting Edgies<\Name>
+		<Level>55<\Level>
+		<Description>These sneaky blades always find just the right moment to attack from behind.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 55,<\Conditions>
+		<Children>9977,9978,9979,12347<\Children>
+		<Icon>1129967<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11592<\ID>
+		<Name>Spite Dagger<\Name>
+		<Level>55<\Level>
+		<Description>This little number won't hurt as much as a Trool bludgeon, but it's a much more subtle, tasteful means of attack.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11603,11604,11605,11606<\Children>
+		<Icon>11211592<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15367<\ID>
+		<Name>Onaug Dagger<\Name>
+		<Level>55<\Level>
+		<Description>You've tried and tried to polish this dagger, but the droppings on it seem to proclaim, 'We were here first!' You'll just have to learn how to share, and start washing your hands more often.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11215367<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14731<\ID>
+		<Name>Xiangu's Stagger<\Name>
+		<Level>60<\Level>
+		<Description>Apparently, Xiangu used to use this star-studded dagger as a throwing knife. These days, there are laws against that kind of thing.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214731<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10017<\ID>
+		<Name>Leer Dagger<\Name>
+		<Level>71<\Level>
+		<Description>This dagger was initially invented to cut cheese into fine slices. It cut off so many fingers in the process that it quickly gained a reputation for being a formidable weapon.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11210017<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15039<\ID>
+		<Name>Backagens<\Name>
+		<Level>73<\Level>
+		<Description>What do you mean you saw them just yesterday? They've been dead for twenty yeeeaaars...!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11215039<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12466<\ID>
+		<Name>Crobak Dagger<\Name>
+		<Level>74<\Level>
+		<Description>This Crobak feather is pretty darn sharp and comes in handy for back-stabbing.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12536,12537,12538,12539<\Children>
+		<Icon>11212466<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17735<\ID>
+		<Name>Crobak Dagger<\Name>
+		<Level>74<\Level>
+		<Description>This Crobak feather is pretty darn sharp and comes in handy for back-stabbing.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11212466<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16900<\ID>
+		<Name>El Pochito Daggers<\Name>
+		<Level>80<\Level>
+		<Description>This weapon was the Trool Academy champion's lucky charm. When he became popular, the market was suddenly flooded with cheap rip-offs.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11216900<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14657<\ID>
+		<Name>Tyse Pick<\Name>
+		<Level>85<\Level>
+		<Description>This tool is usually used to make ice cubes for cocktail nights. Some people choose to use it for something entirely different.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214657<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16792<\ID>
+		<Name>Captain's Hook<\Name>
+		<Level>89<\Level>
+		<Description>Is that a captain's hook? Good form!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11216792<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14660<\ID>
+		<Name>Assassin #1337's Daggers <\Name>
+		<Level>90<\Level>
+		<Description>These legendary daggers belonged to an assassin who never revealed his name. His only distinguishing feature was a tattoo of the number 1337, visible on his neck where his black cat-suit finished.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214660<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16013<\ID>
+		<Name>Brrrbley Spear<\Name>
+		<Level>94<\Level>
+		<Description>This dagger is as lethal as the ice floe that Brrrbley Spears has chosen to make her home!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11216013<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14284<\ID>
+		<Name>Djaul Dagger<\Name>
+		<Level>100<\Level>
+		<Description>This dagger symbolizes all the power of Djaul, infamous demon and disciple, student, and loyal eye of his master, Rushu.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214284<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14661<\ID>
+		<Name>Azael's First Twin Dagger<\Name>
+		<Level>100<\Level>
+		<Description>If you've always dreamed of having a twin on each arm, you're already halfway there. Careful, it's sharp!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214661<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14812<\ID>
+		<Name>Azael's Second Twin Dagger<\Name>
+		<Level>100<\Level>
+		<Description>If you've always dreamed of having a twin on each arm, you're already halfway there. Careful, it's sharp!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214661<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14138<\ID>
+		<Name>The Bloodthirsty<\Name>
+		<Level>105<\Level>
+		<Description>Careful who you give this dagger to. It feeds on the blood of its victims, or on that of its owner, one week per month.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11214138<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>36<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16051<\ID>
+		<Name>Ketcha Fishbone<\Name>
+		<Level>112<\Level>
+		<Description>The Ketcha Fish is famous for its sharp and tough bones. Perfect for using as toothpicks or piercing holes in cloaks.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1126051<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16042<\ID>
+		<Name>Hagen Daggerz<\Name>
+		<Level>120<\Level>
+		<Description>Made from Eternal Ice, these daggers can pierce any material except the Sun itself, or any science class replica of the Sun, or anything remotely warm, like a fresh loaf.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11216042<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17258<\ID>
+		<Name>Black Cawwot Poniawd<\Name>
+		<Level>122<\Level>
+		<Description>It may not look like much, but it really hurts when it's planted in your behind.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11217258<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>89<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18169<\ID>
+		<Name>The Ripper<\Name>
+		<Level>126<\Level>
+		<Description>It'll rip out your teeth before you can blink!<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11218169<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>117<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18387<\ID>
+		<Name>Dagger of the Ancestral Spirit<\Name>
+		<Level>130<\Level>
+		<Description>Light and cold to the touch, this spectral dagger seems to invite you to slip behind your enemies and help them to disappear.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11218387<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>42<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17287<\ID>
+		<Name>Cawwot Poniawd<\Name>
+		<Level>134<\Level>
+		<Description>It may not look like much, but it really hurts when it's planted in your behind.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11217287<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17776<\ID>
+		<Name>Rotten Daggawot<\Name>
+		<Level>139<\Level>
+		<Description>A dagger made of a rotten Cawwot that was found in Zwombbit territory... It'll do the trick.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11217776<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18645<\ID>
+		<Name>Vizion Dagger<\Name>
+		<Level>140<\Level>
+		<Description>The Great Viziw Wabbit can always see a few stabs into the future, and this dagger helps him to use this skill to pewfection.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11218645<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>129<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18556<\ID>
+		<Name>Longblade Dagger<\Name>
+		<Level>144<\Level>
+		<Description>This dagger was allegedly forged from two longblades belonging to the god Sram, but that's just some legend invented by the blacksmith so his weapon would sell better.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11218556<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>129<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18557<\ID>
+		<Name>Nataraja Dagger<\Name>
+		<Level>150<\Level>
+		<Description>Nataraja is one of his Eminence's favourite races. Its fours arms give it a fearsome strength and speed.<\Description>
+		<Slot>Dagger<\Slot>
+		<SlotID>112<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11218557<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>133<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

@@ -1,0 +1,5523 @@
+
+<Items>
+	<Item>
+		<ID>13603<\ID>
+		<Name>Grave Amulet<\Name>
+		<Level>1<\Level>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>12010276<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6819<\ID>
+		<Name>Wodent Amulet<\Name>
+		<Level>3<\Level>
+		<Description>You'd have to be really naive to believe a Wodent foot could bring good luck...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1206819<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14745<\ID>
+		<Name>Dark Amulet<\Name>
+		<Level>3<\Level>
+		<Description>You'd have to be really naive to believe a Wodent foot could bring good luck...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014745<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9512<\ID>
+		<Name>Adventurer Amulet<\Name>
+		<Level>5<\Level>
+		<Description>Not very classy, not very useful, but nice when you have the set.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209512<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9619<\ID>
+		<Name>Amaknian Amulet<\Name>
+		<Level>6<\Level>
+		<Description>When used alongside other items, the Amaknian Amulet will make you into an 'honest' citizen of the Nation of Amakna.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209619<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9660<\ID>
+		<Name>Bontarian Amulet<\Name>
+		<Level>6<\Level>
+		<Description>When used alongside other items, the Bontarian Amulet will make you into an 'honest' citizen of the Nation of Bonta.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209660<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9668<\ID>
+		<Name>Brakmarian Amulet<\Name>
+		<Level>6<\Level>
+		<Description>When used alongside other items, the Brakmarian Amulet will make you into an 'honest' citizen of the Nation of Brakmar.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209668<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10301<\ID>
+		<Name>Sufokian Amulet<\Name>
+		<Level>6<\Level>
+		<Description>When used alongside other items, the Sufokian Amulet will make you into an 'honest' citizen of the Nation of Sufokia.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010301<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9817<\ID>
+		<Name>Blue Googulet<\Name>
+		<Level>7<\Level>
+		<Description>A Googoo amulet isn't the worst thing you could have around your neck... It's not far off, though. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209817<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9818<\ID>
+		<Name>Red Googulet<\Name>
+		<Level>7<\Level>
+		<Description>A Googoo amulet isn't the worst thing you could have around your neck... It's not far off, though. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209818<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9819<\ID>
+		<Name>Green Googulet<\Name>
+		<Level>7<\Level>
+		<Description>A Googoo amulet isn't the worst thing you could have around your neck... It's not far off, though. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209819<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9820<\ID>
+		<Name>Purple Googulet<\Name>
+		<Level>7<\Level>
+		<Description>A Googoo amulet isn't the worst thing you could have around your neck... It's not far off, though. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209820<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11410<\ID>
+		<Name>Zinit Amulet<\Name>
+		<Level>7<\Level>
+		<Description>Many moons ago, people used to say that wisdom was golden. Now the only wisdom left in this World is embedded deep inside this amulet.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>12011410<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2990<\ID>
+		<Name>Twiggy Amulet<\Name>
+		<Level>8<\Level>
+		<Description>This amulet, made exclusively of wood, is prized by lumberjacks who think it can do things it couldn't possibly do. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1205368<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8093<\ID>
+		<Name>Sho Bubu's Amulet<\Name>
+		<Level>8<\Level>
+		<Description>This amulet is the rallying symbol for broken hearted souls.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1208093<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11391<\ID>
+		<Name>Greedulet<\Name>
+		<Level>8<\Level>
+		<Description>This necklace sticks so tightly onto the skin of your neck that you'll have a hard time getting it off.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011391<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10777<\ID>
+		<Name>Amulet of Respite<\Name>
+		<Level>9<\Level>
+		<Description>This amulet is a sight for sore eyes, especially your own.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010777<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12825<\ID>
+		<Name>Bow Meow Bell<\Name>
+		<Level>9<\Level>
+		<Description>You can try to hide but there's not really any point... everyone will hear you pouncing around with this bell hanging around your neck.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012825<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10242<\ID>
+		<Name>Instant Calm Amulet<\Name>
+		<Level>10<\Level>
+		<Description>An original creation by goldsmith John Laynon, the Instant Calm Amulet is one of his great classics.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010242<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12829<\ID>
+		<Name>Zora's Amulet<\Name>
+		<Level>10<\Level>
+		<Description>This amulet is made for children during the Tofu ceremony.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012829<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2021<\ID>
+		<Name>Gobball Amulet<\Name>
+		<Level>12<\Level>
+		<Description>Watch out ladies, it seems this thing chews everything it comes across! Lacy shawls, woolly sweaters, and even leather clavicle-warmers have all been known to get a nibbling. Or is it all just tall talk?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1202021<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2035<\ID>
+		<Name>Tofu Amulet<\Name>
+		<Level>12<\Level>
+		<Description>If you manage to get this amulet around your waist you will unleash its true powers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1202035<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9242<\ID>
+		<Name>Royal Piwi Amulet<\Name>
+		<Level>12<\Level>
+		<Description>Normally, you wear the crown on your head. But it looks like you've decided to make a bold fashion statement, once again...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1207473<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10778<\ID>
+		<Name>Captain Amulet<\Name>
+		<Level>12<\Level>
+		<Description>This amulet is so mysterious that not even the greatest captains fully understand its power!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010778<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9345<\ID>
+		<Name>Archivist's Amulet<\Name>
+		<Level>15<\Level>
+		<Description>This amulet will make you a man. No, just kidding. It will just make you incredibly boring.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209345<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14826<\ID>
+		<Name>Shin Larva Amulet<\Name>
+		<Level>15<\Level>
+		<Description>A cheap, if disgusting, stress ball.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014826<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11003<\ID>
+		<Name>The Maltmulet<\Name>
+		<Level>16<\Level>
+		<Description>This amulet will make you more agile, but it's not as though people wanted to stand next to you anyway.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011003<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>174<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2957<\ID>
+		<Name>Shika Amulet<\Name>
+		<Level>17<\Level>
+		<Description>This amulet has allowed Shika Ingalsse to survive numerous Gobball rebellions. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1202957<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>83<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9346<\ID>
+		<Name>Chafer Amulet<\Name>
+		<Level>20<\Level>
+		<Description>The Chafer always keeps an amulet made from the skull of one of his cousins on him. The weird thing is, the Chafer doesn't have any relations...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209346<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>176<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14711<\ID>
+		<Name>Amilorus<\Name>
+		<Level>20<\Level>
+		<Description>This amulet seems to be under some kind of curse; thieves and highwaymen can never take their eyes off it.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014711<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4165<\ID>
+		<Name>The Holly Medal<\Name>
+		<Level>22<\Level>
+		<Description>Holly was a Iop disciple who had sworn to strike down evil wherever she went. She never lost her temper, except when people compared her to a certain Oly.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1224165<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2986<\ID>
+		<Name>The Gougnole<\Name>
+		<Level>25<\Level>
+		<Description>The Gougnole is made from the moon stone, which had been soaking in a barrel of root beer for 5000 years. As a result, it's awfully powerful.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1202986<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10131<\ID>
+		<Name>Indy Pendant<\Name>
+		<Level>25<\Level>
+		<Description>This necklace will invigorate your body and spirit in order to resist the most bloody enemy assaults. Unfortunately, it won't save you from being crushed by a giant, rolling boulder.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>12010131<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>877<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10150<\ID>
+		<Name>Robbyn of Lockets<\Name>
+		<Level>25<\Level>
+		<Description>Robbyn liked it when people looked her in the eye. Noticing that it didn't happen often, she made this amulet in the form of a Strich eye, and wore it strategically placed on her chest.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010150<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>130<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10320<\ID>
+		<Name>Puddly Amulet<\Name>
+		<Level>25<\Level>
+		<Description>Wearing a shrunken puddly head around your neck will bring you strength and wisdom. It is disgusting, though.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010320<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10324<\ID>
+		<Name>Moogrramulet<\Name>
+		<Level>25<\Level>
+		<Description>Perfect for those who like to punctuate their movements with the ringing of a little bell. Ding ding!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010324<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10367<\ID>
+		<Name>Amulet dia Reya<\Name>
+		<Level>26<\Level>
+		<Description>Get an eyeful of this amulet! True to its origins, it would love to continue to spray its pestilent odor over all and sundry. Fortunately for you, it seems to be all pooped out.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010367<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9555<\ID>
+		<Name>Kapowmulet<\Name>
+		<Level>27<\Level>
+		<Description>The Kapowmulet? There's nothing better for pow whap thwack biff bap bap zwapp sploosh klonk blurp ker-plopping all day long!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209555<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11049<\ID>
+		<Name>Oceamulet<\Name>
+		<Level>27<\Level>
+		<Description>This amulet is always wet, no matter how many times you try to dry it off. It's just what you need for a trip to the desert!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011049<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10193<\ID>
+		<Name>Zazat Necklace<\Name>
+		<Level>28<\Level>
+		<Description>This elegant chain comes from the city where Cliffe Heath was born. He fought over it with his brothers and sisters so much that today each of them owns one part.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010193<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10109<\ID>
+		<Name>Aksellar Amulet<\Name>
+		<Level>29<\Level>
+		<Description>Xaler made this amulet himself. Its hand turns at a very unnatural speed, completely distracting all his enemies.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12010109<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>756<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10155<\ID>
+		<Name>Risky Ore Necklace<\Name>
+		<Level>29<\Level>
+		<Description>This amulet shrinks whoever wears it. Wear it with moderation if you're as well-built as a Taur, or you'll end us as puny as a Piwi.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>12010155<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>513<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>511<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10191<\ID>
+		<Name>Feline Collar<\Name>
+		<Level>29<\Level>
+		<Description>Woohoo! It's got a little bell and everything!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>12010191<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>2059<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9257<\ID>
+		<Name>Royal Gobball Amulet<\Name>
+		<Level>30<\Level>
+		<Description>Smelly, but royal, this amulet will make your regal friends very jealous.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1207022<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10081<\ID>
+		<Name>The Sadidette Shaker<\Name>
+		<Level>30<\Level>
+		<Description>This amulet was made to protect Sadidettes terrified of running into a big bad Boowolf. Why the Trembling Leaf had one, on the other hand, is a mystery...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>12010081<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>935<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10112<\ID>
+		<Name>Etern Amulet<\Name>
+		<Level>30<\Level>
+		<Description>This amulet is made from corrosion-resistant metals. This rare quality makes it a timeless jewel, which is probably why Xelors are so interested in it.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12010112<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>764<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10133<\ID>
+		<Name>Devoted Amulet<\Name>
+		<Level>30<\Level>
+		<Description>This amulet will reduce your integrity to nothing: the more you wear it, the more devoted you will become to any cause whatsoever...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12010133<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>766<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10134<\ID>
+		<Name>Al Pollo's Whistle<\Name>
+		<Level>30<\Level>
+		<Description>Al was once attacked by a wild Kwak. Fearing disfigurement, he made this whistle, which will scare away any sort of monster with its ear-splitting notes.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>12010134<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>612<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10139<\ID>
+		<Name>Bli-Birch Voodoll<\Name>
+		<Level>30<\Level>
+		<Description>This Sadida amulet is supposed to guarantee victory in every battle. Given the beating the Black Birch took, I wouldn't really count on it...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>12010139<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>926<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10185<\ID>
+		<Name>The Amummilet<\Name>
+		<Level>30<\Level>
+		<Description>Engraved into this amulet, you'll find the words: \"Enjoy your victory while you can, because you won't be taking it to the grave. Xetrov.\"<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12010185<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>777<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10196<\ID>
+		<Name>Defibril Amulet<\Name>
+		<Level>30<\Level>
+		<Description>This amulet should be handled with care, and only by those who like trying new things: you could give yourself a nasty shock.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>12010196<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>134<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10212<\ID>
+		<Name>Flamulet<\Name>
+		<Level>30<\Level>
+		<Description>Remember, if you play with fire you'll get burnt! Take your time taming this flamboyant amulet, or it'll give you the third degree!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>12010212<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2009<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13256<\ID>
+		<Name>Royal Tofu Amulet<\Name>
+		<Level>30<\Level>
+		<Description>This royal amulet is perfect for all those flighty, feather-brained adventures.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12013256<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13446<\ID>
+		<Name>Cassini Amulet<\Name>
+		<Level>30<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10145<\ID>
+		<Name>Golden Api of His Parodies<\Name>
+		<Level>32<\Level>
+		<Description>After he'd defeated Nodal, the garden guardian, Hairocles was able to steal as many of these apis, whose golden skin restores Wakfu, as he liked.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010145<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>176<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10993<\ID>
+		<Name>Kokonecklace<\Name>
+		<Level>32<\Level>
+		<Description>This necklace might be heavy, but it's also very exotic. It's the ideal souvenir to bring back from a trip to Sufokia.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010993<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10147<\ID>
+		<Name>Blabb Amulet<\Name>
+		<Level>33<\Level>
+		<Description>This annoying amulet may well have a mouth, but you're better off making sure it stays shut; if not, it might really give you an earful!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>12010147<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2107<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10211<\ID>
+		<Name>Opec's Amule<\Name>
+		<Level>34<\Level>
+		<Description>As headstrong as a mule, Ike sometimes spent years haggling down the price of useless items such as this amulet, before selling them on to naive travelers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>12010211<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2008<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9347<\ID>
+		<Name>Wolfgang's Amulet<\Name>
+		<Level>35<\Level>
+		<Description>Nice and cute, this amulet will bring you a lot of comfort.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9525,9526,9527<\Children>
+		<Icon>1209347<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10199<\ID>
+		<Name>Black Tom Necklace<\Name>
+		<Level>35<\Level>
+		<Description>This necklace smells of chopped Tom Bow Meow skin. It's ideal for scaring off your enemies, but not so great for attracting the ladies...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>12010199<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2061<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10562<\ID>
+		<Name>Whistle<\Name>
+		<Level>35<\Level>
+		<Description>Try not to use this Whistle too much around pretty girls, they might hold it against you for a while!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>45810562<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10577<\ID>
+		<Name>Lucky Toadfoot<\Name>
+		<Level>35<\Level>
+		<Description>Apparently wearing a toad's foot around your neck will bring you fame and fortune. Apparently...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010577<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10965<\ID>
+		<Name>Tooth Necklace<\Name>
+		<Level>35<\Level>
+		<Description>If you want to hold on to this necklace, don't put it under your pillow.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010965<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11576<\ID>
+		<Name>Moskito Amulet<\Name>
+		<Level>35<\Level>
+		<Description>Thanks to the Moskito eye adorning this amulet, you can anticipate oncoming danger from all four directions.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011576<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14904<\ID>
+		<Name>Imperial Shin Larva Amulet<\Name>
+		<Level>35<\Level>
+		<Description>This magic amulet holds impressive power... but wearing it will slow down its bearer's actions.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014904<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17612<\ID>
+		<Name>Vile Kralamulet<\Name>
+		<Level>35<\Level>
+		<Description>No need to take it off when you shower - this amulet sticks to you so well, you won't even feel it and the soap will just slide right over it.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017612<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15538<\ID>
+		<Name>Divine Googulet<\Name>
+		<Level>36<\Level>
+		<Description>There's an engraving of Mother Piwi on this amulet. Unfortunately, she seems to have fallen into a heap of guano. Too bad.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015538<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>151<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9651<\ID>
+		<Name>Guardian Amulet<\Name>
+		<Level>37<\Level>
+		<Description>This amulet may well protect you from enemies, but it can't protect you from the sun!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1205368<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10144<\ID>
+		<Name>Indy Amulet<\Name>
+		<Level>37<\Level>
+		<Description>This amulet is perfect! Its gentle warmth will irradiate into your heart and make you a savior of Sadidette damsels in distress. 'Whiter-than-white' smile included.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>12010144<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>878<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11026<\ID>
+		<Name>Royal Blibli Amulet<\Name>
+		<Level>37<\Level>
+		<Description>Made entirely out of scraps of Royal Blibli, this humdinger of an amulet stinks of dried-up ham that's waaaay past its smell-by date.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011026<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11602<\ID>
+		<Name>Immunity Necklace<\Name>
+		<Level>37<\Level>
+		<Description>It's the last of its kind.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011602<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10188<\ID>
+		<Name>Watizza Diadem<\Name>
+		<Level>38<\Level>
+		<Description>Ronwen's head was too small to wear this pretty diadem. So much so, in fact, that whenever she put it on, it would end up slipping down to her neck.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>12010188<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>1537<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10203<\ID>
+		<Name>Acolyte Bell<\Name>
+		<Level>38<\Level>
+		<Description>One of the main advantages of this necklace is that your friends will be able to find you wherever you are thanks to the annoying tinkling of the little bell.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>12010203<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2057<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10148<\ID>
+		<Name>Charmulet<\Name>
+		<Level>39<\Level>
+		<Description>This amulet, made from a particularly powerful and hypnotizing magnet, reduces the reflexes of anyone who stands gawping hungrily at it for too long.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12010148<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>757<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11012<\ID>
+		<Name>Carnivore Amulet<\Name>
+		<Level>39<\Level>
+		<Description>With this amulet around your neck you're bound to get more than a few glances from hungry eyes.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011012<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11033<\ID>
+		<Name>Golden Scaramulet<\Name>
+		<Level>39<\Level>
+		<Description>This amulet is the symbol of the rising sun. If favors fertility, but you really have to put some effort in!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011033<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11437<\ID>
+		<Name>Black Necklace<\Name>
+		<Level>39<\Level>
+		<Description>Sufokians say that this amulet is lucky because it glows in the night. Then again, that does mean that thieves and assassins will never have trouble spotting you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011437<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2865<\ID>
+		<Name>Kibab Amulet<\Name>
+		<Level>40<\Level>
+		<Description>Greedy adventurers will be falling over each other for its delicately smoked taste.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9071,9072,10849<\Children>
+		<Icon>1202865<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10158<\ID>
+		<Name>Necken Necklace<\Name>
+		<Level>40<\Level>
+		<Description>This amulet forms a very strong bond with its master. Loyal and possessive, if you didn't know better, you'd swear it was hurling insults at anyone who gets too close to you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>12010158<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11551<\ID>
+		<Name>Golden Idol<\Name>
+		<Level>40<\Level>
+		<Description>They say that this Scara necklace can make absolutely anyone intelligent... so we decided to test it on you!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011551<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13447<\ID>
+		<Name>Encke Amulet<\Name>
+		<Level>40<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13448<\ID>
+		<Name>Keeler Amulet<\Name>
+		<Level>40<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13449<\ID>
+		<Name>Gagarin Amulet<\Name>
+		<Level>40<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10165<\ID>
+		<Name>Mechanamulet<\Name>
+		<Level>41<\Level>
+		<Description>Aspidon was a big fan of the ladies. He used his amulet to keep them nearby during close combat and melt their hearts.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>12010165<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>47<\ID><Value>601<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10201<\ID>
+		<Name>Flea Collar<\Name>
+		<Level>41<\Level>
+		<Description>This collar is given to Ecaflips when they've had their first cat fight. It's not particularly lucky, as Silv Aster can tell you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>12010201<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>47<\ID><Value>2080<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10035<\ID>
+		<Name>Horseshoe Charm<\Name>
+		<Level>42<\Level>
+		<Description>Is it lucky? Neigh, but it looks lovely!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10850,10851,10852,10853<\Children>
+		<Icon>12010035<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>46<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10530<\ID>
+		<Name>Musamulet<\Name>
+		<Level>43<\Level>
+		<Description>This amulet makes you feel like you're going faster than music!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010036<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11073<\ID>
+		<Name>Kralamulet<\Name>
+		<Level>43<\Level>
+		<Description>This tentacular amulet can cure certain illnesses, most notably sea sickness and sea food poisoning!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011073<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11579<\ID>
+		<Name>Royal Bonulet<\Name>
+		<Level>43<\Level>
+		<Description>This amulet was bewitched by the spirit of the Chafer King. Unless you want it to make your nose twitch uncontrollably, it's best not to wear it in bed.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011579<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10982<\ID>
+		<Name>The Lavamulet<\Name>
+		<Level>44<\Level>
+		<Description>The Lavamulet gives off plenty of heat, so you'll really appreciate it during those cold winter months.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010982<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9352<\ID>
+		<Name>Yorm Amulet<\Name>
+		<Level>45<\Level>
+		<Description>Your new amulet is so fat that when you put it on, you're in the basement surrounded by shards of wood.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10855,10856,10857,10858<\Children>
+		<Icon>1209352<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10604<\ID>
+		<Name>Richie Amulet<\Name>
+		<Level>45<\Level>
+		<Description>Who you callin' an amulet?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010604<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14704<\ID>
+		<Name>Prinssly Amulet<\Name>
+		<Level>45<\Level>
+		<Description>Something about this amulet reminds you of Princess Lela.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014704<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15346<\ID>
+		<Name>Celestial Tofu Amulet<\Name>
+		<Level>45<\Level>
+		<Description>This amulet will evaporate if you stay too long in a hot, dry place. Your cold, clammy neck will be fine, though.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015346<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10288<\ID>
+		<Name>Harmony<\Name>
+		<Level>47<\Level>
+		<Description>This pendant helps its wearer make peace with the World around him.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>12010288<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11050<\ID>
+		<Name>The Mussamulet<\Name>
+		<Level>47<\Level>
+		<Description>Shark tooth necklaces are so yesterday...\\nThis year, choose the Mussamulet!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12011050<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12444<\ID>
+		<Name>Stone Amulet<\Name>
+		<Level>47<\Level>
+		<Description>It's heavy but that's not going to stop you wearing it!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012444<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14598<\ID>
+		<Name>Imperial Blibli Amulet<\Name>
+		<Level>47<\Level>
+		<Description>This amulet will help you make Blibli blinis all year long.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014598<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12105<\ID>
+		<Name>Choconecklace<\Name>
+		<Level>49<\Level>
+		<Description>Apparently if you sit on the egg from this necklace, a chocolate Tofu will be born.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12107,12108,12109<\Children>
+		<Icon>12012105<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14601<\ID>
+		<Name>Ivory Necklace<\Name>
+		<Level>49<\Level>
+		<Description>Sufokians say that this amulet is lucky because it glows in the night. Then again, that does mean that thieves and assassins will never have trouble spotting you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014601<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17795<\ID>
+		<Name>Choconecklace<\Name>
+		<Level>49<\Level>
+		<Description>Apparently if you sit on the egg from this necklace, a chocolate Tofu will be born.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012105<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9353<\ID>
+		<Name>Treemulet<\Name>
+		<Level>50<\Level>
+		<Description>This pendant is made from wood and metal fused together. That will really show your enemies what you're made of.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209353<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10339<\ID>
+		<Name>Gobb Necksage<\Name>
+		<Level>50<\Level>
+		<Description>Rolled from Gobbsage fur, this pretty necklace will terrify your enemies with its power and smell.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010339<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12051<\ID>
+		<Name>The Musselini<\Name>
+		<Level>50<\Level>
+		<Description>Handmade by Sufokian stallion, Il Musselini, this necklace is said to bring luck in the local mafia's white-knuckled card tournaments. That could just be because of its distracting stench, though.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12058,12059,12060<\Children>
+		<Icon>12012051<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13450<\ID>
+		<Name>Adams Amulet<\Name>
+		<Level>50<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14597<\ID>
+		<Name>Imperial Tofu Amulet<\Name>
+		<Level>50<\Level>
+		<Description>There's a picture of a Tofoone inside - awww.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014597<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14855<\ID>
+		<Name>Treechnid Amulet<\Name>
+		<Level>50<\Level>
+		<Description>This amulet was made with damp wood. Damp wood isn't more powerful than ordinary wood; it just happened to be raining buckets.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014855<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15106<\ID>
+		<Name>Molluskamulet<\Name>
+		<Level>50<\Level>
+		<Description>Choose a pretty shell off the beach, drill two holes in it, and you've got yourself a product. Tourists love this stuff!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015106<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15165<\ID>
+		<Name>The Conchus<\Name>
+		<Level>52<\Level>
+		<Description>Just remember: always let your Conchus be your guide!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015165<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>161<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14603<\ID>
+		<Name>Loko Locket<\Name>
+		<Level>53<\Level>
+		<Description>This necklace will make you look zany and cool in front of your new friends.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014603<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14604<\ID>
+		<Name>Imperator Amulet<\Name>
+		<Level>54<\Level>
+		<Description>Beware of this amulet. It will watch you when you sleep.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014604<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2960<\ID>
+		<Name>Smoothitch O'Bal<\Name>
+		<Level>55<\Level>
+		<Description>This amulet is, in fact, a piece of candy. Before you go putting it in your mouth, though, you might like to know that it was made by being rolled under the armpits of 36 generations of female Bworks in heat.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9077,9078,9079,10859<\Children>
+		<Icon>1202960<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10276<\ID>
+		<Name>Dragolyre<\Name>
+		<Level>55<\Level>
+		<Description>This splendid amulet was made from some quite impressive Dreggon remains to fight off the majority of your enemies.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>RELIC<\Quality>
+		<Icon>12010276<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10698<\ID>
+		<Name>Horned Amulet<\Name>
+		<Level>55<\Level>
+		<Description>This amulet is all twisted and mangled because it's been used so many times to force the locks on treasure chests.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010698<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10036<\ID>
+		<Name>Lagoomulet<\Name>
+		<Level>56<\Level>
+		<Description>This amulet has been soaked in sea water since it was very young. If you drop it in a lake, it's not the end of the World.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010036<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>213<\ID><Value>146<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15366<\ID>
+		<Name>Tofurby Amulet<\Name>
+		<Level>57<\Level>
+		<Description>This amulet contains the soul of a Tofurby. You probably already knew that, judging by its name and its imposing appearance.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015366<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10037<\ID>
+		<Name>The Amule<\Name>
+		<Level>58<\Level>
+		<Description>An amulet that is a stubborn as a donkey, but knows how to watch its back!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10861,10862,10863,10864<\Children>
+		<Icon>12010037<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>71<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15027<\ID>
+		<Name>Lone Eye<\Name>
+		<Level>58<\Level>
+		<Description>This eye has been preserved in formaldehyde for decades so that it won't look too disgusting. It's the thought that counts...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015027<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17817<\ID>
+		<Name>Immaculate Bwork Amulet<\Name>
+		<Level>58<\Level>
+		<Description>This Bwork amulet is fairly disturbing. Other than the delicateness which it was created with compared to normal Bwork products, it's its cleanliness which is most shocking! Oh... But of course. The cord is much too short to go around the head and ears of<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017817<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14599<\ID>
+		<Name>Alpha Predator Amulet<\Name>
+		<Level>59<\Level>
+		<Description>Never put this amulet in direct contact with your skin.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014599<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14600<\ID>
+		<Name>Ebony Scaramulet<\Name>
+		<Level>59<\Level>
+		<Description>An amulet which is twice as efficient as its golden equivalent.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014600<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9355<\ID>
+		<Name>Amufafah<\Name>
+		<Level>60<\Level>
+		<Description>Wearers usually find this necklace really irritating, thanks to its decorative moustaches which tend to tickle the chest.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10005,10006,10007,10866<\Children>
+		<Icon>1209355<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10284<\ID>
+		<Name>The Celestial Brooch<\Name>
+		<Level>60<\Level>
+		<Description>People say the famous Blacksmith Boulgur made this brooch. Yes, the guy who created weapons for the gods.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010284<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10723<\ID>
+		<Name>Flippi Necklace<\Name>
+		<Level>60<\Level>
+		<Description>Flippineck! Where did you get such a lovely neckpiece?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010723<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11563<\ID>
+		<Name>Dirty Look<\Name>
+		<Level>60<\Level>
+		<Description>Why waste your time glowering across the battlefield at your enemy when you can just curse them using this amulet?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11564,11565,11566,11567<\Children>
+		<Icon>12011563<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13451<\ID>
+		<Name>Arago Amulet<\Name>
+		<Level>60<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13452<\ID>
+		<Name>Lassell Amulet<\Name>
+		<Level>60<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15227<\ID>
+		<Name>Foggernauts' Steam<\Name>
+		<Level>60<\Level>
+		<Description>This smart cookie of an amulet steams gently when it's cold outside and ventilates your armor during the summer.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"STEAMER\"),<\Conditions>
+		<Icon>12015227<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15229<\ID>
+		<Name>Sacrier's Blood<\Name>
+		<Level>60<\Level>
+		<Description>This amulet's disturbing red color is the result of many layers of nail varnish, idly applied whilst watching Kilmour Girls. At least, that's what the Sacrier who made it told the Kros Scene Investigaion crew.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SACRIER\"),<\Conditions>
+		<Icon>12015229<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15230<\ID>
+		<Name>Iop's Heart<\Name>
+		<Level>60<\Level>
+		<Description>The initial design for this amulet was embossed with the shape of a brain, but the Iop test subjects kept thinking it was a bubblegum holder.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"IOP\"),<\Conditions>
+		<Icon>12015230<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15232<\ID>
+		<Name>Cra's Range<\Name>
+		<Level>60<\Level>
+		<Description>This amulet is rumored to have a homing device installed to help you aim better. Yours might just need new batteries.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"CRA\"),<\Conditions>
+		<Icon>12015232<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15233<\ID>
+		<Name>Ecaflip's Coin<\Name>
+		<Level>60<\Level>
+		<Description>With a talisman like this round his neck, any Ecaflip would feel lucky.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ECAFLIP\"),<\Conditions>
+		<Icon>12015233<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15235<\ID>
+		<Name>Eniripsa's Hands<\Name>
+		<Level>60<\Level>
+		<Description>An amulet that will watch over its wearer's allies. Eniripsas must get bored of being so selfless.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENIRIPSA\"),<\Conditions>
+		<Icon>12015235<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15236<\ID>
+		<Name>Sadida's Shoe<\Name>
+		<Level>60<\Level>
+		<Description>This amulet is favored by Sadidas for its relaxing properties. Pfft - as if they need to be any more relaxed!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SADIDA\"),<\Conditions>
+		<Icon>12015236<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15240<\ID>
+		<Name>Xelor's Sandglass<\Name>
+		<Level>60<\Level>
+		<Description>This amulet was part of a large-scale effort to freeze time. It didn't work, of course, so now they're giving away the amulets as promotional freebies.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"XELOR\"),<\Conditions>
+		<Icon>12015240<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15242<\ID>
+		<Name>Enutrof's Fingers<\Name>
+		<Level>60<\Level>
+		<Description>The Enutrof this amulet used to belong to thought it had been lost forever. It had actually just been swallowed by his Drheller, which means... Yep. Still, all's well that ends well!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ENUTROF\"),<\Conditions>
+		<Icon>12015242<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15243<\ID>
+		<Name>The Rogue Ruse<\Name>
+		<Level>60<\Level>
+		<Description>This loyal amulet is as roguish as its master: if ever it gets stolen, it will slip and slide until it slithers out from between the criminal's fingers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"ROUBLARD\"),<\Conditions>
+		<Icon>12015243<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15244<\ID>
+		<Name>Pandawa's Pint<\Name>
+		<Level>60<\Level>
+		<Description>This amulet's specialty is keeping its owner upright, even after ten tankards of Bamboo Milk.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"PANDAWA\"),<\Conditions>
+		<Icon>12015244<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15245<\ID>
+		<Name>Feca's Shield<\Name>
+		<Level>60<\Level>
+		<Description>This amulet can be over-protective, but sometimes, just sometimes, that's not such a bad thing.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"FECA\"),<\Conditions>
+		<Icon>12015245<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15246<\ID>
+		<Name>Osamodas's Whip<\Name>
+		<Level>60<\Level>
+		<Description>When they spot this amulet dangling from your neck, your furry friends will know who's boss.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"OSAMODAS\"),<\Conditions>
+		<Icon>12015246<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15255<\ID>
+		<Name>Sram's Shadow<\Name>
+		<Level>60<\Level>
+		<Description>This amulet will ensure that you stay overshadowed by your opponents.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:IsBreed(\"SRAM\"),<\Conditions>
+		<Icon>12015255<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>981<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17769<\ID>
+		<Name>Great Wild Gobball Amulet<\Name>
+		<Level>60<\Level>
+		<Description>There used to be something inlaid in this necklace. Doesn't matter - now it can be used as an eggcup.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017769<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14837<\ID>
+		<Name>Ancestral Treechnid Amulet<\Name>
+		<Level>61<\Level>
+		<Description>If this amulet is in bad condition, blame the Crobaks that spend their days pecking and tearing at Treechnids' bark. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014837<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15157<\ID>
+		<Name>The Crick<\Name>
+		<Level>61<\Level>
+		<Description>Rather than cricking your own neck, why not crick your adversaries'? <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015157<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>130<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12363<\ID>
+		<Name>Noke's Talisman<\Name>
+		<Level>62<\Level>
+		<Description>This lucky amulet will protect you from those uneasy midnight encounters.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12391,12392,12393,12394<\Children>
+		<Icon>12012363<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12581<\ID>
+		<Name>Woolly Amulet<\Name>
+		<Level>62<\Level>
+		<Description>A comforting woolen amulet.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12736,12737,12738,12739<\Children>
+		<Icon>12212581<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17788<\ID>
+		<Name>Noke's Talisman<\Name>
+		<Level>62<\Level>
+		<Description>This lucky amulet will protect you from those uneasy midnight encounters.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012363<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14602<\ID>
+		<Name>Imperial Bonulet<\Name>
+		<Level>63<\Level>
+		<Description>This amulet is somehow reminiscent of a certain, well-known Sram.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014602<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12487<\ID>
+		<Name>Homing Bell<\Name>
+		<Level>65<\Level>
+		<Description>You might be wearing bells like a Snoofle, but that doesn't mean the kamas are going to start rolling in...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12212487<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14605<\ID>
+		<Name>Ugly Queen Amulet<\Name>
+		<Level>65<\Level>
+		<Description>Not even the finest jewelry could make you look good, so you may as well just wear this cheap tat instead.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014605<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15327<\ID>
+		<Name>Whirlmulet<\Name>
+		<Level>65<\Level>
+		<Description>An amulet to make you feel like the king of the Whirligigs. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015327<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>161<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15392<\ID>
+		<Name>The Dream Drhell<\Name>
+		<Level>65<\Level>
+		<Description>This amulet was designed with sleepless Drhellers in mind. All you had to do was slip it around your beloved pet's neck for a peaceful, refreshing night!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015392<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15545<\ID>
+		<Name>Royal Moogrr Amulet<\Name>
+		<Level>65<\Level>
+		<Description>This amulet grants you one year's membership to the Regional Moogrricultural Society, and you know what that means... FREE PEN!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015545<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15566<\ID>
+		<Name>Strichy Amulet<\Name>
+		<Level>65<\Level>
+		<Description>What a dandy neckpiece... Isn't it a bit too grand for a Strich?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015566<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15735<\ID>
+		<Name>Firedrhell Amulet<\Name>
+		<Level>65<\Level>
+		<Description>This amulet starts snuffling 30 seconds before night-time fire drills, which should give you time to put on your pyjama bottoms and comb your hair before going outside.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015735<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12357<\ID>
+		<Name>Fangulet<\Name>
+		<Level>66<\Level>
+		<Description>Careful with this amulet; it might just bite you in the middle of the night.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012357<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15352<\ID>
+		<Name>Divine Tofu Amulet<\Name>
+		<Level>66<\Level>
+		<Description>The owner of this amulet is said to be granted divine eternal rest. Ogrest probably should have gone for one of these rather than those pesky Dofus.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015352<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15485<\ID>
+		<Name>Royal Crab Amulet<\Name>
+		<Level>66<\Level>
+		<Description>This amulet is the best on the market, if you enjoy the feeling of tiny feet crawling all over you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015485<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15503<\ID>
+		<Name>Royal Puddulet<\Name>
+		<Level>66<\Level>
+		<Description>Legend has it that this amulet can make water appear in desert regions... Are you really willing to go there to find out if it's true?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015503<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15554<\ID>
+		<Name>Royal Strichulet<\Name>
+		<Level>66<\Level>
+		<Description>An eye-catching medallion scooped off the floor in the Abandoned Strichery in Brakmar. The Governor who built the birdcage saved it for his finest specimens.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015554<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15013<\ID>
+		<Name>Kamamulet<\Name>
+		<Level>67<\Level>
+		<Description>The kama is strong these days. Hit 'em where it hurts, right in the shares!<\Description>
+		<Slot>Necklace<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209364<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15557<\ID>
+		<Name>Moomulet<\Name>
+		<Level>67<\Level>
+		<Description>Wear a Moomulet and you'll be wreathed in a Moogrrish smell all the time. Just what you always wanted!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015557<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9628<\ID>
+		<Name>Class Amulet<\Name>
+		<Level>70<\Level>
+		<Description>Giving you some class is what this amulet does best! And it doesn't do much else!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209628<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13453<\ID>
+		<Name>Le Verrier Amulet<\Name>
+		<Level>70<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13454<\ID>
+		<Name>Galle Amulet<\Name>
+		<Level>70<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13565<\ID>
+		<Name>Gladiatrool Choker<\Name>
+		<Level>70<\Level>
+		<Description>As its name would indicate, this necklace chokes. Make sure you take a deep breath before you put it on!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12013565<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>167<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15792<\ID>
+		<Name>Cap'n Haba's Amulet<\Name>
+		<Level>71<\Level>
+		<Description>He set out for a simple sail, but wound up inside a whale, Ohhh, Cap'n Haba! The swirling eddies of Zinit destroyed the magical dream, ohhh...! *guitar solo*<\Description>
+		<Slot>Necklace<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015792<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15793<\ID>
+		<Name>Cap'n Krik's Amulet<\Name>
+		<Level>71<\Level>
+		<Description>This amulet is equipped with a tiny flask of WD-For-Thee, Cap'n Krik's favorite tipple when he's out on the open seas.<\Description>
+		<Slot>Necklace<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015793<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15794<\ID>
+		<Name>Cap'n Amakna's Amulet<\Name>
+		<Level>71<\Level>
+		<Description>Legend has it that Cap'n Amakna received this amulet after a private training session with Master Kano.<\Description>
+		<Slot>Necklace<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015794<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15795<\ID>
+		<Name>Cap'n Chafer's Amulet<\Name>
+		<Level>71<\Level>
+		<Description>This one time, when Cap'n Chafer was at the Bagrutte Tavern, he called out: \"Barkeep! Know why I'm here alone? I had no body to invite!\" KLAK KLAK KLAK!!!<\Description>
+		<Slot>Necklace<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015795<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12374<\ID>
+		<Name>Lunar Amulet<\Name>
+		<Level>72<\Level>
+		<Description>This amulet is a surprisingly effective night-light for those times when you just can't get off.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012374<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17812<\ID>
+		<Name>Thork Amulet<\Name>
+		<Level>72<\Level>
+		<Description>Thork's only apparently useless accessory, the amulet is made of the beard of an ancient Bwork named Nad'Lug. In actuality, it's really powerful.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017812<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12461<\ID>
+		<Name>Crobak Amulet<\Name>
+		<Level>75<\Level>
+		<Description>Wearing this amulet is a bit like having a great big bird around your neck, which is why it won't really protect you from baddies.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012461<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17622<\ID>
+		<Name>Deceptallion<\Name>
+		<Level>75<\Level>
+		<Description> This medallion is mostly pieced together from the remains of several of Decepticon's previous enemies. The rest are things he wasn't able to digest.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017622<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10038<\ID>
+		<Name>Supernov Amulet<\Name>
+		<Level>78<\Level>
+		<Description>If you can't see the stars in your sweetheart's eyes, you'll be sure to find them in this amulet at least.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010038<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12638<\ID>
+		<Name>Rat Collara<\Name>
+		<Level>79<\Level>
+		<Description>This dirty necklace might just give you some nasty diseases. Don't get pooped out!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012638<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9356<\ID>
+		<Name>The Stars Custard Tart<\Name>
+		<Level>80<\Level>
+		<Description>\"Did you know? The stars are actually a subtle mixture of fairy dust and custard!\"\\n- Mye Iopik, astrologer<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10868,10869,10870,10871<\Children>
+		<Icon>1209356<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12857<\ID>
+		<Name>The Ghoulie<\Name>
+		<Level>80<\Level>
+		<Description>Now you're as pretty as a picture, from your head down to your Ghoulie, at least.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012857<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13455<\ID>
+		<Name>Apollonius Amulet<\Name>
+		<Level>80<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13456<\ID>
+		<Name>Copernicus Amulet<\Name>
+		<Level>80<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13457<\ID>
+		<Name>Geminus Amulet<\Name>
+		<Level>80<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13458<\ID>
+		<Name>Metis Amulet<\Name>
+		<Level>80<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17861<\ID>
+		<Name>The Stars Custard Tart<\Name>
+		<Level>80<\Level>
+		<Description>\"Did you know? The stars are actually a subtle mixture of fairy dust and custard!\"\\n- Mye Iopik, astrologer<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209356<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.29<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>161<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12588<\ID>
+		<Name>Gobbsage String<\Name>
+		<Level>81<\Level>
+		<Description>This amulet is a fine souvenir of your battle with Gobbsage.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12212588<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14993<\ID>
+		<Name>Imperial Treechnid Amulet<\Name>
+		<Level>81<\Level>
+		<Description>If this amulet is in bad condition, blame the Crobaks that spend their days pecking and tearing at Treechnids' bark. <\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014993<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16080<\ID>
+		<Name>Brrrblimulet<\Name>
+		<Level>82<\Level>
+		<Description>Avoid tying this too tightly, as it instantly freezes anything it touches. Hello, stiff neck!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016080<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12620<\ID>
+		<Name>Iron Cross<\Name>
+		<Level>84<\Level>
+		<Description>Cross your heart (but don't hope to die!).<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012620<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13138<\ID>
+		<Name>Neckfut<\Name>
+		<Level>84<\Level>
+		<Description>In Forfut Village, lucky Wodent feet won't get you anywhere! Try one of these 100% organic Borbat-fiber amulets instead.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12013138<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15609<\ID>
+		<Name>Cloudy Strichulet<\Name>
+		<Level>85<\Level>
+		<Description>Light and voluptuous, this amulet will make you feel like a million dollars whilst you're out courting con men and flying on the sordid wings of adventure.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015609<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10039<\ID>
+		<Name>Savi Amulet<\Name>
+		<Level>86<\Level>
+		<Description>This amulet will make you aware of the slightest danger or enemy, preparing you for all manner of treacherous blows and aggressive locks.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12010039<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12621<\ID>
+		<Name>Wooden Cross<\Name>
+		<Level>86<\Level>
+		<Description>Cross your heart (but don't hope to die!).<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12722,12723,12724,12725<\Children>
+		<Icon>12012621<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14362<\ID>
+		<Name>Whispered Amulet<\Name>
+		<Level>86<\Level>
+		<Description>This pendant echoes with the wispy whispers of lingering Whisperers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014362<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15195<\ID>
+		<Name>Black Widow Amulet<\Name>
+		<Level>87<\Level>
+		<Description>This amulet still contains some of the Black Widow's lethal venom. Best not offer it to that friend of yours who chews on her necklace when she's thinking hard.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015195<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16796<\ID>
+		<Name>Rose of the Sands<\Name>
+		<Level>87<\Level>
+		<Description>This delicate rose is made of a subtle blend of sand and urine. Suits you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016796<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15416<\ID>
+		<Name>Rattagain Amulet<\Name>
+		<Level>89<\Level>
+		<Description>This amulet's goal is to keep you on the straight and narrow... Although, judging by the direction you've taken so far, I'm not sure going straight on is ideal...<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015416<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10040<\ID>
+		<Name>Dukamulet<\Name>
+		<Level>90<\Level>
+		<Description>This amulet is certainly a tight fit: it's great if you're seriously looking to lose some weight.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCrimeScore() <= -70,<\Conditions>
+		<Icon>12010040<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>21<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13462<\ID>
+		<Name>Desdemona Amulet <\Name>
+		<Level>90<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16025<\ID>
+		<Name>Boohmulet<\Name>
+		<Level>91<\Level>
+		<Description>This amulet can be used to light a fire. Just scrape a small Taroudium-coated match along the pendant.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016025<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12383<\ID>
+		<Name>Milimoowolf Amulet<\Name>
+		<Level>93<\Level>
+		<Description>Hell's bells, this amulet is gorgeous!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012383<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12767<\ID>
+		<Name>Moowolf Bell<\Name>
+		<Level>93<\Level>
+		<Description>Now you can attack your enemies with bells on!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12012767<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15617<\ID>
+		<Name>Celestial Strichulet<\Name>
+		<Level>94<\Level>
+		<Description>An rich amber amulet with beautiful hints of gold. This piece of jewelry is lovely enough to be in a hair care commercial!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015617<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14129<\ID>
+		<Name>Excarnus's Crystal<\Name>
+		<Level>95<\Level>
+		<Description>This piece of jewelry was used to link Excarnus's soul to Gobbsage's etherealized body. A powerful artefact in the hands of an excarnate... Do you really think you're capable of using its power?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014129<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16798<\ID>
+		<Name>String of Shells<\Name>
+		<Level>95<\Level>
+		<Description>For once, the overpriced tat you bought on holiday isn't half bad!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016798<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16012<\ID>
+		<Name>Brrrbley Spears's Pendent<\Name>
+		<Level>96<\Level>
+		<Description>Brrrbley Spears is a true leader; the Brrrblis hold her in profound esteem! This amulet reflects all the love they have for their mistress.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016012<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12890<\ID>
+		<Name>Shadowed Amulet<\Name>
+		<Level>97<\Level>
+		<Description>It might seem a bit shady but this amulet will protect you from sunburn... Hey, it's a lot cooler than whapping coats of colored sunblock on your face!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>13134,13135,13136,13137<\Children>
+		<Icon>12012890<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15200<\ID>
+		<Name>Phosphorescent Amulet<\Name>
+		<Level>97<\Level>
+		<Description>This amulet may look like an Al Howin's Treat, but that's no reason to eat it.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015200<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16828<\ID>
+		<Name>Swollen Amulet<\Name>
+		<Level>98<\Level>
+		<Description>Your head has swollen up pretty bad ever since you started wearing the same amulet as the Bilby Queen. Will she ever forgive you for biting her style?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016828<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13461<\ID>
+		<Name>Cressida Amulet <\Name>
+		<Level>100<\Level>
+		<Description>An amulet that goes with all your outfits...! There is a god!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1209358<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14135<\ID>
+		<Name>Milkar Fangs<\Name>
+		<Level>100<\Level>
+		<Description>These fangs are just what you need to complete your Moowolf Al Howin's outfit... Just remember to take them off if you're kissing your sweetheart.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014135<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14632<\ID>
+		<Name>Imperial Magus Amulet<\Name>
+		<Level>100<\Level>
+		<Description>A powerful pendant which will help you push your magic powers to the limit.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014632<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16762<\ID>
+		<Name>Lemon Jelly Amulet<\Name>
+		<Level>100<\Level>
+		<Description>When life gives you Lemon Jellies, make a Lemon Jelly Amulet!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016762<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17141<\ID>
+		<Name>Apprentice Amulet<\Name>
+		<Level>100<\Level>
+		<Description>Wisdom comes with experience, which you still lack.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017141<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14431<\ID>
+		<Name>Rampart Amulet<\Name>
+		<Level>104<\Level>
+		<Description>It protects the body and mind with a single look.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014431<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14141<\ID>
+		<Name>White Crow Amulet<\Name>
+		<Level>105<\Level>
+		<Description>A powerful piece of jewelry that gives its bearer a second personality. Something to bring out your dark side!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014141<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16114<\ID>
+		<Name>Wawa Collar<\Name>
+		<Level>105<\Level>
+		<Description>The coolness of this collar has already been demonstrated.\\nOn the other hand, it is up to you to reveal all its power.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016114<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16768<\ID>
+		<Name>Pinokiolada Amulet<\Name>
+		<Level>106<\Level>
+		<Description>Did you really believe this amulet would make your nose grow? You should stop drinking so much.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016768<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15965<\ID>
+		<Name>Polar Amulet<\Name>
+		<Level>107<\Level>
+		<Description>This amulet is studded with Taroudium chips, which assure the legendary resistance of the Polar Cracklers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015965<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16018<\ID>
+		<Name>YeCh'Ti'Wawa Amulet<\Name>
+		<Level>110<\Level>
+		<Description>This amulet could be used as a belt by the YeCh'Ti'Wawa, which is no reason to use it to tie up weaklings.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016018<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16111<\ID>
+		<Name>Mayor Cantile's Medal<\Name>
+		<Level>110<\Level>
+		<Description>This medal belonged to the former mayor of the Snowbound Village!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016111<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17545<\ID>
+		<Name>Celestial Bearbarian Amulet<\Name>
+		<Level>110<\Level>
+		<Description>Once, a delicious and sticky honey flowed from this amulet. But now it looks more like iced honey. One thing is sure: it won't leak all over your torso.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017545<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15966<\ID>
+		<Name>Icecast Bone Amulet<\Name>
+		<Level>112<\Level>
+		<Description>This amulet was the result of Freezz's very first Neoromantic Smithmagic experiments. It was so successful that all the Chafers in her army were duly equipped.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12015966<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16120<\ID>
+		<Name>Seawater Neckpiece<\Name>
+		<Level>115<\Level>
+		<Description>This beautiful jewelry is made from shimmering frozen seawater. If you happen to taste it inadvertently, you'll get an unpleasant surprise!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016120<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14452<\ID>
+		<Name>Worn Hushed Amulet<\Name>
+		<Level>117<\Level>
+		<Description>They say that this amulet's original wearer woke up one of the first Cracklers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014452<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14453<\ID>
+		<Name>Battered Hushed Amulet<\Name>
+		<Level>117<\Level>
+		<Description>They say that this amulet's original wearer woke up one of the first Cracklers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014452<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14454<\ID>
+		<Name>Hushed Amulet<\Name>
+		<Level>117<\Level>
+		<Description>They say that this amulet's original wearer woke up one of the first Cracklers.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12014452<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16034<\ID>
+		<Name>Hagen Daz Amulet<\Name>
+		<Level>117<\Level>
+		<Description>This amulet is so high in Taroudium that it may cause unwanted side effects!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016034<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18151<\ID>
+		<Name>Cactabrooch<\Name>
+		<Level>118<\Level>
+		<Description>This brooch allows the Castucs to send each other signals by reflecting the sun's blinding rays.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018151<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17137<\ID>
+		<Name>Initiate Amulet<\Name>
+		<Level>120<\Level>
+		<Description>The only true wisdom is in knowing you know nothing.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017137<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17255<\ID>
+		<Name>Black Wabbit Amulenewgy<\Name>
+		<Level>123<\Level>
+		<Description>This amulet serves as a sign of authorization, allowing safe passage through certain areas of Black Wabbit occupied territory.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017255<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16977<\ID>
+		<Name>Dragon Pig Beads<\Name>
+		<Level>124<\Level>
+		<Description>Letting you have this necklace kind of feels like casting pearls before swine.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016977<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16063<\ID>
+		<Name>Mechamulet<\Name>
+		<Level>125<\Level>
+		<Description>According to Sylargh, the body is an imperfect machine, but this amulet can correct the defects.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016063<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16057<\ID>
+		<Name>Sylargh's Amulet<\Name>
+		<Level>128<\Level>
+		<Description>You have to have some allies before you can support them. Luckily, this amulet seems to elicit the sympathies of all the creatures around.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12016057<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18638<\ID>
+		<Name>Emiwlet Amulet<\Name>
+		<Level>130<\Level>
+		<Description>This amulet is worn by the Emiw when he goes there where only he may enter. It absorbs bad smells.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018638<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>144<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17285<\ID>
+		<Name>Wo Wabbit Amulet<\Name>
+		<Level>131<\Level>
+		<Description>This amulet is as wide as a Wo Wabbit on a diet!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017285<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17267<\ID>
+		<Name>Amuleto<\Name>
+		<Level>134<\Level>
+		<Description>For real Black Wabbits!<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017267<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17242<\ID>
+		<Name>Victoly Amulet<\Name>
+		<Level>135<\Level>
+		<Description>In childhood, Lenald children learn to make the sign of Victoly, and this amulet is a testament to their gesturing expertise.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017242<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17133<\ID>
+		<Name>Sage Amulet<\Name>
+		<Level>135<\Level>
+		<Description>It is wise to keep your neck warm.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017133<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18639<\ID>
+		<Name>Wambomulet<\Name>
+		<Level>135<\Level>
+		<Description>Before wearing his trademark bandana, Wambo proudly wore this amulet in public.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018639<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17270<\ID>
+		<Name>Emiw Amulet<\Name>
+		<Level>137<\Level>
+		<Description>Protects you from those with bad intentions, especially those who want to directly harm you.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017270<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18165<\ID>
+		<Name>Collective Pensivant<\Name>
+		<Level>139<\Level>
+		<Description>With this amulet, Sugnuf can increase the range of the Blackspores' collective consciousness. It's actually pretty pointless though, since no Blackspore ever leaves the Fungopole.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018165<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18524<\ID>
+		<Name>Srambad Amulet<\Name>
+		<Level>145<\Level>
+		<Description>This amulet emits all its previous wearer's evil.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018524<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18637<\ID>
+		<Name>Loyal Guawd Talisman<\Name>
+		<Level>145<\Level>
+		<Description>This amulet is usually awarded to excellent Wabbit Guawds. They must have made a mistake.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018637<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18525<\ID>
+		<Name>Dwarf Bulldagger Collar<\Name>
+		<Level>146<\Level>
+		<Description>This collar is used on young Dwarf Bulldaggers to train them as quickly as possibly. It shocks them with a jolt of electricity each time they express joy.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018525<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17297<\ID>
+		<Name>Gwand Viziew Amulet<\Name>
+		<Level>149<\Level>
+		<Description>A magic aura comes from this amulet. Maybe this is where the Gwand Viziew got his power of persuasion?<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017297<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17320<\ID>
+		<Name>Wobot Medal<\Name>
+		<Level>149<\Level>
+		<Description>This medal is used like a little key. It's inserted into the Wobot to turn (and keep) it on.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017320<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18526<\ID>
+		<Name>Enurado Amulet<\Name>
+		<Level>155<\Level>
+		<Description>\"It is by wearing your luck for all to see that you can become richer than rich.\"<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018526<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17327<\ID>
+		<Name>Wa Wamulet<\Name>
+		<Level>156<\Level>
+		<Description>A precious heirloom guarded fiercely by generations of royal Wabbits. Then it was copied and the copies were sold off to the highest bidders.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12017327<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18464<\ID>
+		<Name>Flaxhid's Talisman<\Name>
+		<Level>160<\Level>
+		<Description>Flaxhid's remains encrusted into this Talisman give off an aura of power that adorns its bearer before each combat.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018464<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18527<\ID>
+		<Name>Onist Amulet<\Name>
+		<Level>163<\Level>
+		<Description>This amulet is offered to those who remain honest and generous regardless of the situation. But it is also worn by thieves who want to blend in with high society.<\Description>
+		<Slot>Amulet<\Slot>
+		<SlotID>120<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>12018527<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

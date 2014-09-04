@@ -1,0 +1,5902 @@
+
+<Items>
+	<Item>
+		<ID>11552<\ID>
+		<Name>Golden Boots<\Name>
+		<Level>0<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11911552<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>18053<\ID>
+		<Name>[ADMIN] Hide set boots<\Name>
+		<Level>0<\Level>
+		<Description>[ADMIN] Hide set boots<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918053<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.3<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9772<\ID>
+		<Name>Black Drheller Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199772<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10168<\ID>
+		<Name>Leafy Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910168<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10171<\ID>
+		<Name>Hairocles Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910171<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10172<\ID>
+		<Name>Al's Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910172<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10183<\ID>
+		<Name>Sacrifitz's Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910183<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13441<\ID>
+		<Name>Guild Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>11913441<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13555<\ID>
+		<Name>Evil Quaquack Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913555<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13559<\ID>
+		<Name>Quaquack Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913559<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13600<\ID>
+		<Name>Ellipsis Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11910531<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13665<\ID>
+		<Name>Cupiddlypants's Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913665<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13705<\ID>
+		<Name>Uncle Sammy Shoes<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913705<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13706<\ID>
+		<Name>Aunt Samantha Heels<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913706<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>15987<\ID>
+		<Name>Hogmeiser's Worn Boots<\Name>
+		<Level>1<\Level>
+		<Description>These worn-out boots once belonged to Hogmeiser. They are so worn they are crippling. With a bit of luck, a skilled shoemaker should be able to repair them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915987<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>32<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16091<\ID>
+		<Name>Cold Hunter Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916091<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16097<\ID>
+		<Name>Smisse Pirate Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916097<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16935<\ID>
+		<Name>Hunter Boots<\Name>
+		<Level>1<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916935<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>7119<\ID>
+		<Name>Wodent Slippers<\Name>
+		<Level>3<\Level>
+		<Description>These slippers are perfect for stay-at-home adventurers. Slip them on and you'll feel right at home in any dungeon in the World of Twelve.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1197119<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14743<\ID>
+		<Name>Dark Slippers<\Name>
+		<Level>3<\Level>
+		<Description>These slippers are perfect for stay-at-home adventurers. Slip them on and you'll feel right at home in any dungeon in the World of Twelve.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914743<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2310<\ID>
+		<Name>Red Piwi Claw Slippers<\Name>
+		<Level>5<\Level>
+		<Description>These Piwi claws have somehow been mysteriously expanded to fit your feet. Now, you can sit on branches, if they'll hold your weight.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192310<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2311<\ID>
+		<Name>Blue Piwi Claw Slippers<\Name>
+		<Level>5<\Level>
+		<Description>These Piwi claws have somehow been mysteriously expanded to fit your feet. Now, you can sit on branches, if they'll hold your weight.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192311<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2312<\ID>
+		<Name>Purple Piwi Claw Slippers<\Name>
+		<Level>5<\Level>
+		<Description>These Piwi claws have somehow been mysteriously expanded to fit your feet. Now, you can sit on branches, if they'll hold your weight.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192312<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2313<\ID>
+		<Name>Green Piwi Claw Slippers<\Name>
+		<Level>5<\Level>
+		<Description>These Piwi claws have somehow been mysteriously expanded to fit your feet. Now, you can sit on branches, if they'll hold your weight.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192313<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13654<\ID>
+		<Name>Prime Boots<\Name>
+		<Level>5<\Level>
+		<Description>An exclusive fancy pair of polished boots donned by the cream of the crop, the top dogs, and the honorable guests.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>11913654<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13704<\ID>
+		<Name>Yugonets<\Name>
+		<Level>5<\Level>
+		<Description>Now you can try to get through customs without being stopped! But don't get too cocky...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>11913704<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9487<\ID>
+		<Name>Adventurer Boots<\Name>
+		<Level>7<\Level>
+		<Description>Very basic boots which are ideal for young adventurers just setting off on their journey.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199487<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9622<\ID>
+		<Name>Amaknian Boots<\Name>
+		<Level>7<\Level>
+		<Description>When used alongside other items, these Amaknian Boots will make you into an 'honest' citizen of the Nation of Amakna.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199622<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9664<\ID>
+		<Name>Bontarian Boots<\Name>
+		<Level>7<\Level>
+		<Description>When used alongside other items, these Bontarian Boots will make you into an 'honest' citizen of the Nation of Bonta.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199664<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9672<\ID>
+		<Name>Brakmarian Boots<\Name>
+		<Level>7<\Level>
+		<Description>When used alongside other items, these Brakmarian Boots will make you into an 'honest' citizen of the Nation of Brakmar.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199672<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10298<\ID>
+		<Name>Sufokian Boots<\Name>
+		<Level>7<\Level>
+		<Description>When used alongside other items, these Sufokian Boots will make you into an 'honest' citizen of the Nation of Sufokia.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910298<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10762<\ID>
+		<Name>Boots of Destiny<\Name>
+		<Level>7<\Level>
+		<Description>Because reconstructing buildings is your sole ambition!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910762<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4527<\ID>
+		<Name>Twiggy Boots<\Name>
+		<Level>9<\Level>
+		<Description>With these boots round your toes, you'll feel...  like you have your toes in boots. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1194527<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11411<\ID>
+		<Name>Zinit Boots<\Name>
+		<Level>9<\Level>
+		<Description>These boots allow plain sailing on the plains of Mount Zinit.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11911411<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12486<\ID>
+		<Name>Kabrok's Shabby Slippers<\Name>
+		<Level>10<\Level>
+		<Description>These slippers are super-duper snuggly... Now you know why Kabrok is always doing the shuffle in his shop!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11912486<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12822<\ID>
+		<Name>Bow Meow Paws<\Name>
+		<Level>10<\Level>
+		<Description>Now you can learn how to walk the catwalk properly!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912822<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10763<\ID>
+		<Name>Michelangecrow Boots<\Name>
+		<Level>11<\Level>
+		<Description>Go on! March forth, youngster!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910763<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10936<\ID>
+		<Name>Boots of Trouble<\Name>
+		<Level>13<\Level>
+		<Description>These troublesome boots were waxed with troubling black troublewax!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910936<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12830<\ID>
+		<Name>Zora's Boots<\Name>
+		<Level>13<\Level>
+		<Description>Tell your tootsies it's their lucky day - these boots are as comfy as comfy could be! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912830<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2023<\ID>
+		<Name>Gobboots<\Name>
+		<Level>15<\Level>
+		<Description>With these boots, you no longer have to worry about stepping in Gobball dung. The smell will be exactly the same, either way. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192023<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2041<\ID>
+		<Name>Tofu Boots<\Name>
+		<Level>15<\Level>
+		<Description>Mad races across spring fields, stampeding like a thousand rutting Tofus! It's good not to be afraid of looking silly.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192041<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4280<\ID>
+		<Name>Fisherman's Waders<\Name>
+		<Level>15<\Level>
+		<Description>Boots made for fishermen who have beautiful legs and know it. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1194280<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7571<\ID>
+		<Name>Scaraleaf Getas<\Name>
+		<Level>15<\Level>
+		<Description>Learning to walk in Getas is not easy. Strangely, it becomes much more difficult after a few liters of fermented muck.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1197571<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9551<\ID>
+		<Name>Royal Piwi Slippers<\Name>
+		<Level>15<\Level>
+		<Description>The Royal Piwi has rather fat ankles, so these slippers make comfortable boots for tired feet.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199551<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13949<\ID>
+		<Name>Deuldeu Boots<\Name>
+		<Level>15<\Level>
+		<Description>These boots are just about wearable.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913949<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13988<\ID>
+		<Name>Macho Boots<\Name>
+		<Level>15<\Level>
+		<Description>If these boots didn't hold in the heat so much they'd probably be one of the best creations from the Guild of Armorers.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913988<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9298<\ID>
+		<Name>Windy Larval Boots<\Name>
+		<Level>16<\Level>
+		<Description>Even though you might feel like you're walking on flan, the supple and humid texture of these boots will keep your skin feeling well-hydrated all day long.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199298<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10042<\ID>
+		<Name>Three Pistes Sandals<\Name>
+		<Level>16<\Level>
+		<Description>Next time you need to knock on wood, you'll only have to reach as far as your feet. Careful, they're uncomfy as anything and they'll stop you from walking straight.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910042<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14825<\ID>
+		<Name>Shin Larva Boots<\Name>
+		<Level>16<\Level>
+		<Description>The soles of these boots are made of baby larvae. Now you'll have a free foot massage to make your walks around Astrub nice and relaxing.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914825<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14966<\ID>
+		<Name>Moist Larval Boots<\Name>
+		<Level>16<\Level>
+		<Description>Even though you might feel like you're walking on flan, the supple and humid texture of these boots will keep your skin feeling well-hydrated all day long.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192315<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14968<\ID>
+		<Name>Muddy Larval Boots<\Name>
+		<Level>16<\Level>
+		<Description>Even though you might feel like you're walking on flan, the supple and humid texture of these boots will keep your skin feeling well-hydrated all day long.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192314<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14969<\ID>
+		<Name>Roast Larval Boots<\Name>
+		<Level>16<\Level>
+		<Description>Even though you might feel like you're walking on flan, the supple and humid texture of these boots will keep your skin feeling well-hydrated all day long.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1192316<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15514<\ID>
+		<Name>Googoo Drumsticks<\Name>
+		<Level>16<\Level>
+		<Description>Warm, yellow, and somehow reminiscent of the farmyard, these are the shoes for you if you enjoy clucking stupidly, sleeping on thin wooden beams, and totally nailing the alphabet.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915514<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10247<\ID>
+		<Name>Satisfaction Boots<\Name>
+		<Level>17<\Level>
+		<Description>These shoes are so comfortable, you can't help but be satisfied with them. Your enemies might not be quite so content if you decide to put the boot in, though.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910247<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4328<\ID>
+		<Name>Platform Shoes<\Name>
+		<Level>20<\Level>
+		<Description>A pair of boots made for adventurers who think that size matters. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1194328<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13964<\ID>
+		<Name>Spelunking Boots<\Name>
+		<Level>20<\Level>
+		<Description>These rock-out boots will protect your feet from humidity and hits, but not from the heat!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913964<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14709<\ID>
+		<Name>Dracneel's Slippers<\Name>
+		<Level>20<\Level>
+		<Description>Dracneel developed an incredible resistance to fire during his lifetime. His death was a reason for leather dealers everywhere to celebrate.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914709<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15529<\ID>
+		<Name>Cloudy Piwiboots<\Name>
+		<Level>20<\Level>
+		<Description>These boots are lined with anti-perspirant feathers to provide your aching feet with a little light relief. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915529<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9488<\ID>
+		<Name>Blibli Boots<\Name>
+		<Level>25<\Level>
+		<Description>These boots are great for walking in mud and ruining floorboards. If you wear them on the dance floor, it will be murder.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199488<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9500<\ID>
+		<Name>Kapow Thongs<\Name>
+		<Level>25<\Level>
+		<Description>Hitting with your bare hands is overrated. Awkkkkkk ooooff cr-r-a-a-ck clunk-eth.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199500<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10368<\ID>
+		<Name>Izugg Boots<\Name>
+		<Level>25<\Level>
+		<Description>Remember to stop and water your boots at regular intervals, they'll thank you for it!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910368<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13955<\ID>
+		<Name>Vagabond Boots<\Name>
+		<Level>25<\Level>
+		<Description>These boots aren't very practical when it's raining, but they're incredibly pleasant to wear thanks to their integrated natural airing system.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913955<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10088<\ID>
+		<Name>Bootriches<\Name>
+		<Level>26<\Level>
+		<Description>Whoever told you these boots run really fast wasn't joking: if you ever manage to catch them, make sure you strap them tightly to your feet!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910088<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10319<\ID>
+		<Name>Puddly Boots<\Name>
+		<Level>26<\Level>
+		<Description>These Getas are excellent for improving your posture, but you're going to need to practice if you ever hope to be able to run in them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910319<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15535<\ID>
+		<Name>Celestial Piwiboots<\Name>
+		<Level>26<\Level>
+		<Description>You'd think that boots with a name as heavenly as these would have been cleaned beforehand... But no.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915535<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9649<\ID>
+		<Name>Pointy Boots<\Name>
+		<Level>27<\Level>
+		<Description>Equipped with little spikes at the heel, these boots are just the thing for kicking Trool butt.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1190000<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10262<\ID>
+		<Name>Powerful Concentration Boots<\Name>
+		<Level>27<\Level>
+		<Description>These boots are so comfortable that they give the person who's wearing them a greater attention span.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910262<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10323<\ID>
+		<Name>Moogrr Boots<\Name>
+		<Level>27<\Level>
+		<Description>They're fur-lined, snug and stripy: Pandawas love them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910323<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11019<\ID>
+		<Name>Bouttes<\Name>
+		<Level>27<\Level>
+		<Description>Your feet will always feel fresh and moist in these!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911019<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11028<\ID>
+		<Name>Stuffold Boots<\Name>
+		<Level>27<\Level>
+		<Description>These boots haven't half seen some action.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911028<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10041<\ID>
+		<Name>Cruella Sandals<\Name>
+		<Level>30<\Level>
+		<Description>That horrible Eniripsa Cruelisa DeMon apparently skinned 101 enemies to make these boots, but they're sooo soft and comfortable!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10921,10922,10923<\Children>
+		<Icon>11910041<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12785<\ID>
+		<Name>Stalugg Boots<\Name>
+		<Level>30<\Level>
+		<Description>Ugly or fashionable? You decide!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11912785<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13994<\ID>
+		<Name>F'Artagnan Boots<\Name>
+		<Level>30<\Level>
+		<Description>Don't kick up a stink! These boots will leave you coming out of a fight smelling like anything but a Demonic Rose.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913994<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15340<\ID>
+		<Name>Cloudy Tofu Boots<\Name>
+		<Level>30<\Level>
+		<Description>You feel like you're walking on air in these boots. You also feel like you're tiny, round and yellow... Sound familiar?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915340<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11065<\ID>
+		<Name>Bufo Lows<\Name>
+		<Level>33<\Level>
+		<Description>These boots used to be very popular with people who liked matching their outfits with their Dragoturkeys. They've gone out of fashion now, but you can occasionally still find pairs at old hippies' car boot sales.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911065<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10966<\ID>
+		<Name>Skellington Boots<\Name>
+		<Level>34<\Level>
+		<Description>Half sandal, half boot, these won't keep your socks dry in the rain. Serves you right for wearing them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910966<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>84<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12791<\ID>
+		<Name>Explorer Boots<\Name>
+		<Level>34<\Level>
+		<Description>These boots have special insoles that prevent rubbing and blisters - your feet are sure to be as pleased as punch... ur... kick.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>11912791<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9299<\ID>
+		<Name>Royal Tofu Boots<\Name>
+		<Level>35<\Level>
+		<Description>These boots are made by sticking royal feathers to royal guano. Very classy.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199299<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9489<\ID>
+		<Name>Royal Gobball Boots<\Name>
+		<Level>35<\Level>
+		<Description>They shine; they exude strength; these boots are, in every way, royal.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199489<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11760<\ID>
+		<Name>Slowshoes<\Name>
+		<Level>35<\Level>
+		<Description>Has time slowed down or is it just those funny new shoes of yours?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11765,11766,11767<\Children>
+		<Icon>11911760<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11768<\ID>
+		<Name>Goose Feet<\Name>
+		<Level>35<\Level>
+		<Description>With these shoes you will definitely look like a duck and walk like a duck. The question is will you quack like a duck and fly like a duck...? Course you won't, they're Goose Feet!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11771,11772,11773<\Children>
+		<Icon>11911768<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13830<\ID>
+		<Name>Shamanic Boots<\Name>
+		<Level>35<\Level>
+		<Description>Wear these boots and you'll unearth a lot of dirt on your ancestors.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913830<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14905<\ID>
+		<Name>Imperial Shin Larva Boots<\Name>
+		<Level>36<\Level>
+		<Description>The stickiness can be unnerving, but your feet will feel as snug as a bug in a rug in these boots.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914905<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10531<\ID>
+		<Name>Nippies<\Name>
+		<Level>37<\Level>
+		<Description>A beautiful pair of Nippies to show off when it gets cold out. Careful, one of their side effects is attracting attention and wolf-whistles wherever you go!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910531<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>46<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12796<\ID>
+		<Name>Schnek Knee Pads<\Name>
+		<Level>39<\Level>
+		<Description>You needn't worry about getting attacked with these knee pads on - they're squidgy enough to cushion the blow.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912796<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5046<\ID>
+		<Name>Paladin Boots<\Name>
+		<Level>40<\Level>
+		<Description>Only adventurers fighting for noble causes are deemed worthy to wear these boots. That said, they do look pretty good on you...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10924,10925,10926<\Children>
+		<Icon>1194283<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10579<\ID>
+		<Name>Lil Challenger Boots<\Name>
+		<Level>40<\Level>
+		<Description>Your challenge, should you choose to accept: to kick all the travelers' butts!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910579<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>167<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10971<\ID>
+		<Name>Bonedals<\Name>
+		<Level>40<\Level>
+		<Description>Sacriers often wear these sandals to stimulate themselves. Because they're so painful to wear, of course.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910971<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13564<\ID>
+		<Name>Sacred Moogrr Boots<\Name>
+		<Level>40<\Level>
+		<Description>You'll be just as gracious as a feline in these boots but that doesn't mean that you can't tan someone's hide all the same.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913564<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13767<\ID>
+		<Name>Lorko Booto<\Name>
+		<Level>40<\Level>
+		<Description>These rock-out boots will protect your feet from humidity and hits, but not from the heat!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913767<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14722<\ID>
+		<Name>Polnuds<\Name>
+		<Level>40<\Level>
+		<Description>These boots use the best of modern technology to save you hundreds and hundreds of Dragoturkey kamiles.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914722<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9595<\ID>
+		<Name>Drhellingtons<\Name>
+		<Level>41<\Level>
+		<Description>These boots are no use in the rain, but they will help you run away if a mine starts collapsing above your head.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199595<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11052<\ID>
+		<Name>Waders<\Name>
+		<Level>42<\Level>
+		<Description>The boots of choice for budding marine biologists, these Waders will help you blend in when standing in rockpools the World over.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911052<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11076<\ID>
+		<Name>Kralaboots<\Name>
+		<Level>42<\Level>
+		<Description>These boots have anti-skid soles, made from real Kralove tentacles.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911076<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11435<\ID>
+		<Name>Black Zorboots<\Name>
+		<Level>42<\Level>
+		<Description>Apparently these boots enable you to walk on water, but nobody's proved it yet...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911435<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14043<\ID>
+		<Name>Cranny Faddocks<\Name>
+		<Level>43<\Level>
+		<Description>These boots, made out of leftover soup ingredients, were a gift from Auntie Cranny. Waste not, want not is all very well, but for a couple of days now you've been sure there are maggots crawling around between your toes...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914043<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9491<\ID>
+		<Name>Arachnee Boots<\Name>
+		<Level>44<\Level>
+		<Description>However good an impression these boots make on a night out, they're a real pain to get off once they've stuck to your legs.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199491<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15365<\ID>
+		<Name>Divine Claws<\Name>
+		<Level>44<\Level>
+		<Description>Several athletes have already been disqualified from the Krozolympiks for wearing these boots, which greatly increase runners' speed.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915365<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6782<\ID>
+		<Name>Cloudy Boots<\Name>
+		<Level>45<\Level>
+		<Description>Thanks to this pair of boots, you'll be on cloud nine. Or clouds 9a and 9b, to be precise! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1196782<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10578<\ID>
+		<Name>Shark-Mobiles<\Name>
+		<Level>45<\Level>
+		<Description>These steely boots will definitely make you look sharp, but don't expect them to save you from the jaws of death.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910578<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10730<\ID>
+		<Name>Mooth Boots<\Name>
+		<Level>45<\Level>
+		<Description>\"The awesomest boots I've ever seen, man!\" - DJ Gobkool<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910730<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11774<\ID>
+		<Name>Soft Embroidered Boots<\Name>
+		<Level>45<\Level>
+		<Description>They're soft yet scratchy and there are two of them. Remind you of anything?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11775,11776,11777<\Children>
+		<Icon>11911774<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14621<\ID>
+		<Name>Imperial Gobball Boots<\Name>
+		<Level>45<\Level>
+		<Description>These boots will make you feel hot, hot, hot! And look not so hot!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914621<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9490<\ID>
+		<Name>Whirligig Boots<\Name>
+		<Level>46<\Level>
+		<Description>Hard on the outside, their inside is lightly quilted with a soft lining that will tickle your toes while you're kicking butt.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199490<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9569<\ID>
+		<Name>Tsar Boots<\Name>
+		<Level>46<\Level>
+		<Description>These elegant boots with liven up the dull and dark colors worn by most adventurers.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199569<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12437<\ID>
+		<Name>Crackly Boots<\Name>
+		<Level>46<\Level>
+		<Description>Go on, have a crack at walking in these!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912437<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11595<\ID>
+		<Name>Bana Boots<\Name>
+		<Level>47<\Level>
+		<Description>These boots appear to lack practicality, but can you imagine anything more comfortable for wearing on the beach?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911595<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11853<\ID>
+		<Name>Amakna Riktus Boots<\Name>
+		<Level>47<\Level>
+		<Description>The Amakna Riktus are the most robust of the widespread Riktus family and this breastplate makes that very clear.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911853<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11854<\ID>
+		<Name>Bonta Riktus Boots<\Name>
+		<Level>47<\Level>
+		<Description>The Bonta Riktus are as hard as nails and the most resistant of the widespread Riktus family. This breastplate follows suit.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911854<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11855<\ID>
+		<Name>Brakmar Riktus Boots<\Name>
+		<Level>47<\Level>
+		<Description>The Brakmar Riktus are known for their super-human force, so don't underestimate the damage that this breastplate can inflict.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911855<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11856<\ID>
+		<Name>Sufokia Riktus Boots<\Name>
+		<Level>47<\Level>
+		<Description>The Sufokia Riktus are primarily renowned for their robbing and running, but they're not afraid of attacking if they have to! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911856<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14044<\ID>
+		<Name>Cankles<\Name>
+		<Level>47<\Level>
+		<Description>Please tell me those are boots...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914044<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11061<\ID>
+		<Name>Doc Sharkins<\Name>
+		<Level>48<\Level>
+		<Description>With these shoes on your feet, you'll look like an authentic crimebuster of the sea!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11911061<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12106<\ID>
+		<Name>Buno Boots<\Name>
+		<Level>49<\Level>
+		<Description>Your feet will melt deliciously into these silky boots. Mmmm, que bueno!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12110,12111,12112<\Children>
+		<Icon>11912106<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12446<\ID>
+		<Name>Stone Clogs<\Name>
+		<Level>49<\Level>
+		<Description>Once you've learned to stop dragging your feet, these clogs will build up your calf muscles in no time. If I were you, though, I wouldn't wear them swimming.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912446<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4326<\ID>
+		<Name>Dedpussin Boots<\Name>
+		<Level>50<\Level>
+		<Description>Originally these were offered to an Ecaflip, but he liked walking barefoot so much he spent the rest of his life refusing them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1194326<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10291<\ID>
+		<Name>Bowisse Boots<\Name>
+		<Level>50<\Level>
+		<Description>These exceptional boots will make you faster during fights. Sorry about the smell, they used to belong to Bowisse.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1194141<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13742<\ID>
+		<Name>Kozcu Boots<\Name>
+		<Level>50<\Level>
+		<Description>Your horoscope says... don't let other people trample on your toes!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913742<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13982<\ID>
+		<Name>Azuric Boots<\Name>
+		<Level>50<\Level>
+		<Description>These rock-out boots will protect your feet from humidity and hits, but not from the heat!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913982<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9680<\ID>
+		<Name>Treethongs<\Name>
+		<Level>51<\Level>
+		<Description>These thongs, made from dried Treechnid wood, are surprisingly comfortable: the wooden sole is filled with sap that cushions your each and every step!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1199680<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12055<\ID>
+		<Name>Taureador Boots<\Name>
+		<Level>51<\Level>
+		<Description>Andalay andalay! Areeba! Andalay! Wait... wait, is that a real Taur? It's coming towards you! Run! Run!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12072,12073,12074,12075<\Children>
+		<Icon>11912055<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4141<\ID>
+		<Name>Authentic Bowisse Boots<\Name>
+		<Level>55<\Level>
+		<Description>These boots (or their odor, at least) were inspired by a famous model. Put them on and you'll feel so sure of yourself that you'll actually be faster and more resistant than before.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9109,9110,9111,10927<\Children>
+		<Icon>1194141<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12336<\ID>
+		<Name>Riktus Elite Boots<\Name>
+		<Level>55<\Level>
+		<Description>These boots are so discreet they'll allow you to step out at night without getting caught.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912336<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>181<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13958<\ID>
+		<Name>Mystic Moe's Boots<\Name>
+		<Level>55<\Level>
+		<Description>...You've lost something... something very important... *sniff sniff* Your soap... you've lost your soap...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913958<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14620<\ID>
+		<Name>Imperial Tofu Boots<\Name>
+		<Level>55<\Level>
+		<Description>A little peep of terror escapes these boots as you put your feet in them.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914620<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14623<\ID>
+		<Name>Imperial Skellington Boots<\Name>
+		<Level>56<\Level>
+		<Description>These boots are extremely comfortable, so long as you're dead.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914623<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14882<\ID>
+		<Name>Deckhand Boots<\Name>
+		<Level>56<\Level>
+		<Description>These boots have a good grip on them to stop the seamen falling flat on their faces.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914882<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17805<\ID>
+		<Name>Seeping Bwork Boots<\Name>
+		<Level>56<\Level>
+		<Description>You've always wanted to walk a mile in a Bwork's shoes, but you didn't think of the half-inch of scum and sweat that would be left behind... Squelch!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917805<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10328<\ID>
+		<Name>Polteroboots<\Name>
+		<Level>57<\Level>
+		<Description>Polteroboots will give you the power to camouflage your feet when you hide in the thickets to escape the Boowolves.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910328<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12568<\ID>
+		<Name>Woolly Boots<\Name>
+		<Level>58<\Level>
+		<Description>These boots will keep your feet lovely and warm, even in summer!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912568<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15321<\ID>
+		<Name>Royal Whirly Boots<\Name>
+		<Level>58<\Level>
+		<Description>These shoes are so light and comfortable that the participants of Prancing on Ice swear by them! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915321<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10702<\ID>
+		<Name>Rass Galoshes<\Name>
+		<Level>59<\Level>
+		<Description>Golly galosh! These boots are just brimming with mischief!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910702<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8382<\ID>
+		<Name>Trool Boots<\Name>
+		<Level>60<\Level>
+		<Description>Let's hope these boots are as solid as they are smelly...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1198382<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12359<\ID>
+		<Name>Noke's Boots<\Name>
+		<Level>60<\Level>
+		<Description>These boots will make it that little bit easier to dance with Boowolves.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12387,12388,12389,12390<\Children>
+		<Icon>11912359<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15001<\ID>
+		<Name>Viddhartas<\Name>
+		<Level>60<\Level>
+		<Description>These boots have been absolutely everywhere... except the place they were meant to go.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915001<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>1583<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15002<\ID>
+		<Name>Dorky Boots<\Name>
+		<Level>60<\Level>
+		<Description>Whap these boots on and you'll be as alive and kicking as the renowned Bontarian Governor.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915002<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>304<\ID><Value>1583<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15003<\ID>
+		<Name>Orky Boots<\Name>
+		<Level>60<\Level>
+		<Description>All Sadida children know the story of Orky, a Sadida who tried to track down the god Sadida to become more powerful.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915003<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>304<\ID><Value>1583<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15004<\ID>
+		<Name>Retreating Boots<\Name>
+		<Level>60<\Level>
+		<Description>The bright spark of a Xelor who used to own these boots tried to turn back time... by walking backwards.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915004<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>304<\ID><Value>1583<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15148<\ID>
+		<Name>Stone Cold Boots<\Name>
+		<Level>60<\Level>
+		<Description>These boots have been readily available ever since they were banned from Gobbowl tournaments. Apparently they weren't hardcore enough.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915148<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17787<\ID>
+		<Name>Noke's Boots<\Name>
+		<Level>60<\Level>
+		<Description>These boots will make it that little bit easier to dance with Boowolves.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912359<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17767<\ID>
+		<Name>Great Wild Gobball Boots<\Name>
+		<Level>60<\Level>
+		<Description>The wilder the Great Gobball was, the more getting kicked in the butt with these boots will hurt.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917767<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10102<\ID>
+		<Name>Boowish Boots<\Name>
+		<Level>61<\Level>
+		<Description>These boots give you the strange sensation of walking on your opponents' remains. At night, especially, they make some very unnerving sounds.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910102<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12360<\ID>
+		<Name>Boowolf Boots<\Name>
+		<Level>61<\Level>
+		<Description>The day someone cries Boowolf is the day you should run for your life!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10112360<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>130<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14622<\ID>
+		<Name>Ivory Boots<\Name>
+		<Level>62<\Level>
+		<Description>Boots made of ivory? Okay, who had this idea? He's fired.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914622<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12370<\ID>
+		<Name>Lunar Boots<\Name>
+		<Level>64<\Level>
+		<Description>All the kids LOVE these boots - they're the kind that light up with every step you take. We know, we know, you used to have a pair...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912370<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15391<\ID>
+		<Name>Drhell A. Gear<\Name>
+		<Level>64<\Level>
+		<Description>Some people, especially Osamodas, find these shoes cruel, but they're soft, comfy and the coolest thing since guys wearing one earring, so you have to have at least one pair.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915391<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15400<\ID>
+		<Name>Drhellzerker Boots<\Name>
+		<Level>64<\Level>
+		<Description>These boots were fashioned out of Rascal Leather and are hardy companions for all types of terrain, from Brakmar's volcanic slopes to the muddy marshlands of Amakna!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915400<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14626<\ID>
+		<Name>Infernal Boots<\Name>
+		<Level>65<\Level>
+		<Description>Don't worry about the burning embers you leave in your wake - you're living the \"hot\" version of Hamster and Gertel!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914626<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14842<\ID>
+		<Name>Ancestral Treechnid Boots<\Name>
+		<Level>65<\Level>
+		<Description>Most boots hurt a bit until they're worn in, but these ones will be a thorn in your side all the time! Sometimes you just have to suffer to be a hero.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914842<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15178<\ID>
+		<Name>Predators<\Name>
+		<Level>65<\Level>
+		<Description>These boots are the bees' knees at detecting insects and Arachnees hiding amongst the trees... being invisible... and making creepy clicking noises. Brrr!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915178<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15483<\ID>
+		<Name>Royal Crab Boots<\Name>
+		<Level>65<\Level>
+		<Description>Annoyingly, these boots often get their kicks out of making you walk sideways.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915483<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15512<\ID>
+		<Name>Squelchers<\Name>
+		<Level>65<\Level>
+		<Description>The closest you'll ever get to walking on water.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915512<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17774<\ID>
+		<Name>Feesy's Boots<\Name>
+		<Level>65<\Level>
+		<Description>You've never heard of this Feesy, but these boots keep your feet nice and toasty... They're a bit wet too, but it's probably best not to think about that too much.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917774<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14625<\ID>
+		<Name>Imperator Boots<\Name>
+		<Level>66<\Level>
+		<Description>Mainly marketed towards those who love tanning their toes but not the rest of their feet. Needless to say, they sell like hotcakes.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914625<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14873<\ID>
+		<Name>Crabettos<\Name>
+		<Level>66<\Level>
+		<Description>If you thought high heels were hard to walk in, try these Crabettos! Now you know why the crab walk is so painfully awkward-looking.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914873<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14624<\ID>
+		<Name>Ultimate Survivor Boots<\Name>
+		<Level>67<\Level>
+		<Description>These boots are matchless when it comes to balancing on tree stumps.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914624<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15394<\ID>
+		<Name>Chained Boots<\Name>
+		<Level>67<\Level>
+		<Description>Ch-ch-ch-ch-Chained Boots! Look out, you rock and roller! Maybe this is punishment for all the creatures you've killed in your days...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915394<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15560<\ID>
+		<Name>Royal Strich Boots<\Name>
+		<Level>67<\Level>
+		<Description>Royal trappings for a prize-winning Strich. Are you really worthy?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915560<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15568<\ID>
+		<Name>Strichy Boots<\Name>
+		<Level>67<\Level>
+		<Description>Even when you have your head in the sand, passers-by will be able to admire your finest footwear.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915568<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15156<\ID>
+		<Name>Magmacrak Boots<\Name>
+		<Level>68<\Level>
+		<Description>These boots aren't recommended for the Clockwork Ball. You won't just step on your date's feet; you'll burn them right off!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915156<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10043<\ID>
+		<Name>Outkass Sandals<\Name>
+		<Level>69<\Level>
+		<Description>These sandals, which were made with little artistic flair and no attention to detail, quickly fell into disrepair and were forgotten. Like you, but they lasted a bit longer.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910043<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15250<\ID>
+		<Name>Hoodfella Boots<\Name>
+		<Level>69<\Level>
+		<Description>Congratulations, wise guy! These boots are the best in the World for tracking down the Hoodlum clan.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915250<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15324<\ID>
+		<Name>Imperial Whirly Boots<\Name>
+		<Level>69<\Level>
+		<Description>Goodbye, being turned away at the door for informal footwear; hello, Bilbiza's trendiest clubs! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915324<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13568<\ID>
+		<Name>Gladiatrool Boots<\Name>
+		<Level>70<\Level>
+		<Description>These boots'll make your feet smell like Bwork sweat!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913568<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8257<\ID>
+		<Name>Croboots<\Name>
+		<Level>71<\Level>
+		<Description>These Croboots emit a Crow squawk with every step you take. You can make the enemy flee just by warning them of your imminent arrival.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1195747<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12369<\ID>
+		<Name>Moonwalkers<\Name>
+		<Level>71<\Level>
+		<Description>These boots make walking backwards that little bit easier... and so much more stylish!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912369<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15800<\ID>
+		<Name>Cap'n Dark Hurl's Boots<\Name>
+		<Level>73<\Level>
+		<Description>This is all that remains of the illustrious Cap'n Dark Hurl. Fret not, my Captain, for one day I shall take vengeance for your death and the rebel Nations will sink at my feet.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915800<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15801<\ID>
+		<Name>Cap'n Pavement's Boots<\Name>
+		<Level>73<\Level>
+		<Description>This is all that remains of the illustrious Cap'n Pavement. Fret not, my Captain, for one day I shall find the one who spoke evil words about you, and order and justice will be afloat once more.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915801<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15802<\ID>
+		<Name>Cap'n LeChouque's Boots<\Name>
+		<Level>73<\Level>
+		<Description>This is all that remains of the illustrious Cap'n LeChouque. Fret not, my Captain, for one day I shall shine light upon your death and the truth will explode in the faces of the ignorant masses.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915802<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15803<\ID>
+		<Name>Captain Ardier's Boots<\Name>
+		<Level>73<\Level>
+		<Description>This is all that remains of the illustrious Captain Ardier. Fret not, my Captain, for one day I shall pierce the mystery that links the two of us, and become so dastardly that Brakmar will be proud of me.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915803<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10044<\ID>
+		<Name>Koolich Boots<\Name>
+		<Level>74<\Level>
+		<Description>Cooool, man!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910044<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12471<\ID>
+		<Name>Starry Boots<\Name>
+		<Level>74<\Level>
+		<Description>You're sure to be happy with these boots. They're covered in blue stars and foot the bill perfectly for walking on air!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912471<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12610<\ID>
+		<Name>Birk 'n' Stocks<\Name>
+		<Level>74<\Level>
+		<Description>Now, where are my Jon Lemon glasses?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12706,12707,12708,12709<\Children>
+		<Icon>11912610<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15207<\ID>
+		<Name>Boatox Boots<\Name>
+		<Level>74<\Level>
+		<Description>These boots were crafted out of a material which prevents the sole from ageing and may even help you float on water!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17814<\ID>
+		<Name>Thork Boots<\Name>
+		<Level>74<\Level>
+		<Description>The spikes on Thork's boots had always impressed his fellow Bwork Explorers. It's plain to see they've been used to kick a few butts...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917814<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>92<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13794<\ID>
+		<Name>Assassin Leggings<\Name>
+		<Level>75<\Level>
+		<Description>What do you mean, assassins don't wear leggings? Where else would they hide their most powerful weapons?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913794<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15035<\ID>
+		<Name>Anteak Boots<\Name>
+		<Level>75<\Level>
+		<Description>These boots are made of 100% authentic Ghostof fabric. They're gonna live forever!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915035<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12597<\ID>
+		<Name>Sacred Slippers<\Name>
+		<Level>76<\Level>
+		<Description>These slippers soothe tired feet and pre-emptively treat verrucas. Looks like they've got their work cut out with you.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912597<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12603<\ID>
+		<Name>Old Slippers<\Name>
+		<Level>80<\Level>
+		<Description>These slippers are so old and worn that you can see your enormous big toe sticking out of the end. Mind you, that's not difficult, is it?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912603<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12817<\ID>
+		<Name>Twofut<\Name>
+		<Level>81<\Level>
+		<Description>So you can always set off on the right fut.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912817<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15947<\ID>
+		<Name>Brrrbli Boots<\Name>
+		<Level>81<\Level>
+		<Description>The Brrrblis trample the ice as they stampede, but the island's temperature instantly freezes the water after they have passed, creating pretty white ripples.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915947<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15419<\ID>
+		<Name>Ratical Boots<\Name>
+		<Level>81<\Level>
+		<Description>These boots have an auto-pilot module installed in the heels. No more getting lost when you try to walk home from the tavern!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915419<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15194<\ID>
+		<Name>Black Widow Boots<\Name>
+		<Level>83<\Level>
+		<Description>The Black Widow has tons of these boots to spare, which is just as well, because Rogue magazine says they're in this season!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915194<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16898<\ID>
+		<Name>El Pochito Pixie Boots<\Name>
+		<Level>84<\Level>
+		<Description>These boots are awarded to the winner of Trool Academy.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916898<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13970<\ID>
+		<Name>Blazy Boots<\Name>
+		<Level>85<\Level>
+		<Description>These white-hot boots will set your steps on fire. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913970<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14997<\ID>
+		<Name>Imperial Treechnid Boots<\Name>
+		<Level>85<\Level>
+		<Description>Most boots hurt a bit until they're worn in, but these ones will be a thorn in your side all the time! Sometimes you just have to suffer to be a hero.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914997<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16918<\ID>
+		<Name>Strawberry Beachboots<\Name>
+		<Level>85<\Level>
+		<Description>These open-toed boots will get sand all over them as soon as you step outside, but you love the squelching sound they make.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916918<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16919<\ID>
+		<Name>Blue Raspberry Beachboots<\Name>
+		<Level>85<\Level>
+		<Description>These open-toed boots will get sand all over them as soon as you step outside, but you love the squelching sound they make.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916919<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15218<\ID>
+		<Name>Zizotopes<\Name>
+		<Level>86<\Level>
+		<Description>Gimme all your neutrons, all your hugs 'n' kisses too!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915218<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12893<\ID>
+		<Name>Rock Bottoms<\Name>
+		<Level>87<\Level>
+		<Description>Just the clumps for when you're down in the dumps.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912893<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>98<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10045<\ID>
+		<Name>Animal Boots<\Name>
+		<Level>89<\Level>
+		<Description>These boots are full of natural ingredients which will keep you in good health and give you a nice shiny coat. Apparently they work especially well on Osamodas!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10929,10930,10931,10932<\Children>
+		<Icon>11910045<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>84<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12863<\ID>
+		<Name>Tap Shoes<\Name>
+		<Level>90<\Level>
+		<Description>Clickety clack, clackety click!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912863<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16788<\ID>
+		<Name>Sand Hoppers<\Name>
+		<Level>90<\Level>
+		<Description>These boots will have you hopping along the beach like a Jelly!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916788<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15418<\ID>
+		<Name>Rattagain Boots<\Name>
+		<Level>91<\Level>
+		<Description>If ever you're unlucky enough to topple off a tall, iconic clock... Well, these heavy boots are only going to speed up your fall.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915418<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13545<\ID>
+		<Name>Vampyro's Boots<\Name>
+		<Level>92<\Level>
+		<Description>The first step to fame is some trusty boots to kick butt with.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912886<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16027<\ID>
+		<Name>Hemoh Boots<\Name>
+		<Level>92<\Level>
+		<Description>The footprints left by these boots call to mind the traces left by a winged creature. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916027<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15199<\ID>
+		<Name>Phosphorescent Boots<\Name>
+		<Level>93<\Level>
+		<Description>Standing in radioactive puddles won't faze you if you're wearing these shoes. I mean, you'll be doomed anyway, but you know...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915199<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16813<\ID>
+		<Name>Beach Sandals<\Name>
+		<Level>93<\Level>
+		<Description>You know that summer's finally here when you feel the sand between your toes.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916813<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14130<\ID>
+		<Name>Excarnus Hooves<\Name>
+		<Level>95<\Level>
+		<Description>As Gasper the friendly host once pointed out, these boots give you all sorts of airs and graces.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914130<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15616<\ID>
+		<Name>Celestial Strich Legs<\Name>
+		<Level>95<\Level>
+		<Description>You should take these off before going to bed, unless you want to rip your sheets to shreds.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915616<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15948<\ID>
+		<Name>Boohemoth Boots<\Name>
+		<Level>95<\Level>
+		<Description>Just show a white paw as proof of good faith to enter the fold!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915948<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15976<\ID>
+		<Name>Brrrbley Spears's Boots<\Name>
+		<Level>95<\Level>
+		<Description>Very light, these boots are made for walking on the thinnest parts of the ice without leaving the slightest trace of a footfall!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915976<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16760<\ID>
+		<Name>Blue Raspberry Jelly Bubboots<\Name>
+		<Level>97<\Level>
+		<Description>These boots bubble and squeak all over the place. It's surprisingly comforting!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916760<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17625<\ID>
+		<Name>M.A.R.C. 1 Boots<\Name>
+		<Level>98<\Level>
+		<Description>These boots are a prototype created a long time ago, but they're still great for traveling underwater.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917625<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10046<\ID>
+		<Name>Lifen Sole Boots<\Name>
+		<Level>99<\Level>
+		<Description>With these Albatrool Boots on, you'll really know how to kick your opponent into shape!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910046<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>150<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10546<\ID>
+		<Name>Bellatrool Boots<\Name>
+		<Level>99<\Level>
+		<Description>With these Albatrool Boots on, you'll really know how to kick your opponent into shape!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910546<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10547<\ID>
+		<Name>Moogrrtrool Boots<\Name>
+		<Level>99<\Level>
+		<Description>With these Albatrool Boots on, you'll really know how to kick your opponent into shape!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910547<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10548<\ID>
+		<Name>Scaretrool Boots<\Name>
+		<Level>99<\Level>
+		<Description>With these Albatrool Boots on, you'll really know how to kick your opponent into shape!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910548<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10549<\ID>
+		<Name>Albatrool Boots<\Name>
+		<Level>99<\Level>
+		<Description>With these Albatrool Boots on, you'll really know how to kick your opponent into shape!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910549<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10742<\ID>
+		<Name>Ethereal Amaknian Guard Boots<\Name>
+		<Level>99<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910742<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10743<\ID>
+		<Name>Ethereal Bontarian Guard Boots<\Name>
+		<Level>99<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910743<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10744<\ID>
+		<Name>Ethereal Brakmarian Guard Boots<\Name>
+		<Level>99<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910744<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10745<\ID>
+		<Name>Ethereal Sufokian Guard Boots<\Name>
+		<Level>99<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910745<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10772<\ID>
+		<Name>Dark Artisan Boots<\Name>
+		<Level>99<\Level>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11910772<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13411<\ID>
+		<Name>Kabrok's Slippers<\Name>
+		<Level>100<\Level>
+		<Description>Kabrok very rarely takes off these snuggly slippers and loves wearing them around in his shop... That explains why, every day, he's shuffling.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11912486<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13814<\ID>
+		<Name>Minatsu Boots<\Name>
+		<Level>100<\Level>
+		<Description>This ancient civilization used to walk a lot and lived essentially on hunting. They therefore needed very good shoes...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11913814<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14137<\ID>
+		<Name>Milkar Mitts<\Name>
+		<Level>100<\Level>
+		<Description>An accessory made for scratching hard-to-get-to places - just what you needed! A word of advice, though: with claws like that, you shouldn't use it anywhere... sensitive.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914137<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14634<\ID>
+		<Name>Imperial Illuminator Boots<\Name>
+		<Level>100<\Level>
+		<Description>These boots will make you run so fast and so effortlessly that people will start mistaking you for a gazelle.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914634<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16104<\ID>
+		<Name>Klime's Boots<\Name>
+		<Level>100<\Level>
+		<Description>These boots once belonged to Klime. They are resistant to extreme temperatures and provide an amazingly comfortable fit.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916104<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17177<\ID>
+		<Name>Apprentice Boots<\Name>
+		<Level>100<\Level>
+		<Description>The journey of a hundred miles begins with a single step.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917177<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8247<\ID>
+		<Name>Black Crow's Boots<\Name>
+		<Level>101<\Level>
+		<Description>These boots are in impeccable condition. It's not surprising for someone who did most of his traveling by air!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1196560<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14430<\ID>
+		<Name>Rampart Boots<\Name>
+		<Level>103<\Level>
+		<Description>Be inapproachable. Rampart Boots.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914430<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16775<\ID>
+		<Name>Royal Gumboots<\Name>
+		<Level>103<\Level>
+		<Description>These boots used to be thigh-high, but the previous owner got the munchies...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916775<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14117<\ID>
+		<Name>Gobbalrog Boots<\Name>
+		<Level>105<\Level>
+		<Description>These Gobbalrog Boots will allow you to give a good boot to any flaming Gobbowl Ball coming your way.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914117<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16115<\ID>
+		<Name>Wa Claws<\Name>
+		<Level>106<\Level>
+		<Description>The Wawa in Wawa falls mainly on the Wawa. As people say around here.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916115<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16123<\ID>
+		<Name>Snowfoux Legs<\Name>
+		<Level>110<\Level>
+		<Description>The Northern Chafers got the better of the Snowfoux and proudly wear their skins. Father Deepboar is constantly mistaking them for actual Snowfoux!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916123<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18219<\ID>
+		<Name>Ocushu Feet<\Name>
+		<Level>110<\Level>
+		<Description>As heavy as lead, these feet definitely weigh you down, especially in tough situations.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918219<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2570<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15949<\ID>
+		<Name>Icecast Bone Boots<\Name>
+		<Level>112<\Level>
+		<Description>These boots were the result of Freezz's very first Neoromantic Smithmagic experiments. They were so successful that all the Chafers in her army were duly equipped.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11915949<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16045<\ID>
+		<Name>Necroforged Boots<\Name>
+		<Level>113<\Level>
+		<Description>These boots allowed Missiz Freezz to convert a great deal of Frigost's population, who had initially been reluctant to serve her.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916045<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14122<\ID>
+		<Name>Magmog Feet<\Name>
+		<Level>115<\Level>
+		<Description>It's always easier to walk across lava with someone else's feet on. These have the added benefit of looking grood... I mean great. Great and good. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914122<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16041<\ID>
+		<Name>Hagen Daz's Boots<\Name>
+		<Level>115<\Level>
+		<Description>These boots make it possible to dodge all the dangers of the Frigost pack ice without ending up on your butt!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916041<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14489<\ID>
+		<Name>Whispering Clogs<\Name>
+		<Level>119<\Level>
+		<Description>Oooh... New shhhoes!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914489<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14441<\ID>
+		<Name>Hushed Boots<\Name>
+		<Level>120<\Level>
+		<Description>As you walk, these boots count your steps under their breath.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11914441<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>117<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17254<\ID>
+		<Name>Black Wabbit Paws<\Name>
+		<Level>120<\Level>
+		<Description>It would seem that Black Wabbit Paws bring luck. But Black Wabbits don't carry them; they see lucky charms as a sign of weakness.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917254<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>67<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17173<\ID>
+		<Name>Initiate Boots<\Name>
+		<Level>120<\Level>
+		<Description>The journey of a thousand miles begins with a single step.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917173<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16970<\ID>
+		<Name>Larduous Boots<\Name>
+		<Level>121<\Level>
+		<Description>I'm walking on bacon... Woooaaah!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916970<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18149<\ID>
+		<Name>Cactaboots<\Name>
+		<Level>122<\Level>
+		<Description>A spiky kick in the rear can be quite convincing.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918149<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16966<\ID>
+		<Name>Dragon Pig Trotters<\Name>
+		<Level>124<\Level>
+		<Description>Some lovely boots to help you serve up your enemies on a bed of salad.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916966<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>158<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18462<\ID>
+		<Name>Victus Feet<\Name>
+		<Level>125<\Level>
+		<Description>Ideal for gardeners, these boots are used to dig holes in the ground before planting seedlings in them. <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918462<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2571<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2569<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16058<\ID>
+		<Name>Sylargh's Boots<\Name>
+		<Level>129<\Level>
+		<Description>Repaired here and patched up there. How does he do it?<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11916058<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18179<\ID>
+		<Name>Spore Boots<\Name>
+		<Level>129<\Level>
+		<Description>They help you get around by sticking quite well to the humid and gooey ground of the Fungopole.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918179<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17280<\ID>
+		<Name>Wabbit Paws<\Name>
+		<Level>130<\Level>
+		<Description>It would seem that Wabbit Paws bring luck. But Wabbits generally prefer Lenald paws as lucky charms...<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917280<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17230<\ID>
+		<Name>Lenald Tabi<\Name>
+		<Level>131<\Level>
+		<Description>These shoes are particularly comfy; walking feels very natural, as if you weren't wearing anything.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917230<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18176<\ID>
+		<Name>Poinkpoink Boots<\Name>
+		<Level>132<\Level>
+		<Description>Comfortable on the inside, spiky on the outside.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918176<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>157<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17169<\ID>
+		<Name>Sage Boots<\Name>
+		<Level>135<\Level>
+		<Description>Always keep an open mind, a compassionate heart, and some seriously stylin' boots.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917169<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17269<\ID>
+		<Name>Emiw Shoes<\Name>
+		<Level>136<\Level>
+		<Description>These shoes, extensively tested by Awnie the Emiw, will let you run faster than a bomb explosion! <\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917269<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17431<\ID>
+		<Name>Magic Cawwot Boots<\Name>
+		<Level>140<\Level>
+		<Description>Boots made by Wabbits. They're impregnated with magic Cawwot juice made from a secret recipe handed down through generations.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917431<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>127<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18220<\ID>
+		<Name>Tormented Boots<\Name>
+		<Level>140<\Level>
+		<Description>Each torment can be known by the cry that follows it. Your boots, though, are silent as the crypt.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918220<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2567<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2413<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18380<\ID>
+		<Name>Harry Boots<\Name>
+		<Level>140<\Level>
+		<Description>Harry was an old wise-man who loved to fish with bare feet. Inevitably, after a long summer day, he forgot his boots on the Sufokian docks.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918380<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17339<\ID>
+		<Name>Boney Zwombbit Paws<\Name>
+		<Level>143<\Level>
+		<Description>There's no skin left on the Zwombbit paws. They're not very appealing, but they're certainly useful.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917339<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18164<\ID>
+		<Name>Sugnuf Boots<\Name>
+		<Level>148<\Level>
+		<Description>These boots are so beautiful and refined that Sugnuf doesn't even wear them - or maybe that's because he's got no feet.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918164<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>134<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17296<\ID>
+		<Name>Gwand Viziew Sandals<\Name>
+		<Level>150<\Level>
+		<Description>These sandals will let you run faster than a Wabbit runs after a Cawwot, and that's already pretty fast.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917296<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>132<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18550<\ID>
+		<Name>Srambad's Shadow<\Name>
+		<Level>150<\Level>
+		<Description>With these boots, walk with your head down in Sram's shadow!<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918550<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>136<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18643<\ID>
+		<Name>Used Wo-Boots<\Name>
+		<Level>150<\Level>
+		<Description>It's said the the Chief of Wobots himself wore these boots during an evening with the Wa Wabbit.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918643<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>150<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17322<\ID>
+		<Name>Woboots<\Name>
+		<Level>152<\Level>
+		<Description>You'll have to train pretty seriously to even be able to walk a step in these boots. They're really heavy, but somehow they still help you move more easily.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:not #HasEquipmentId(17357)# and not #HasEquipmentId(17332)#,<\Conditions>
+		<Icon>11917322<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>110<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17356<\ID>
+		<Name>Genetically Modified Boots<\Name>
+		<Level>152<\Level>
+		<Description>Particle reinforcement allows an auto-regenerating material to be joined to a removable one, making movement one millisecond faster.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11917356<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>143<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18551<\ID>
+		<Name>Solkrupt's Shadow<\Name>
+		<Level>159<\Level>
+		<Description>By wearing his boots, Solkrupt will have a much harder time finding you! Well, after a few moments, he'll know that someone is following him.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918551<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>139<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18552<\ID>
+		<Name>The Agiots<\Name>
+		<Level>163<\Level>
+		<Description>Agiots cause damage and interest when an enemy is overdrawn, and are calculated depending on the damage plus interests.<\Description>
+		<Slot>Boots<\Slot>
+		<SlotID>119<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11918552<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>144<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

@@ -1,0 +1,1625 @@
+
+<Items>
+	<Item>
+		<ID>16146<\ID>
+		<Name>Count Harebourg's Shield<\Name>
+		<Level>0<\Level>
+		<Description>This shield was actually designed to carry Count Harebourg's timepiece, but it also proved extremely effective against attacks.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>18916146<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>18285<\ID>
+		<Name>Novice Shield<\Name>
+		<Level>1<\Level>
+		<Description>This shield won't protect you from your own stupidity.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18918285<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12835<\ID>
+		<Name>Meow Shield<\Name>
+		<Level>7<\Level>
+		<Description>This shield is so soft and snuggly that it'll make even the toughest adventurer want to curl up and snooze in the sun.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18912835<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2057<\ID>
+		<Name>Gobbshield<\Name>
+		<Level>10<\Level>
+		<Description>This shield is so light you sometimes forget it's there to protect you! Though maybe that's because it's not doing such a great job of it...<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1892057<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2090<\ID>
+		<Name>Tofu Shield<\Name>
+		<Level>10<\Level>
+		<Description>Ah, this shield has clearly already taken one victim...<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1892090<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4145<\ID>
+		<Name>Twiggy Shield<\Name>
+		<Level>10<\Level>
+		<Description>No, this item isn't any better than its name implies. We all have to start somewhere though, right?<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1894145<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>172<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11393<\ID>
+		<Name>Shieldovore<\Name>
+		<Level>10<\Level>
+		<Description>As voracious as it is beautiful.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18911393<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10817<\ID>
+		<Name>Helm Shield<\Name>
+		<Level>13<\Level>
+		<Description>With this shield in your hands, your helm will always be manned.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910817<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9930<\ID>
+		<Name>The Absorber<\Name>
+		<Level>15<\Level>
+		<Description>This shield really can chew all that it bites off.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1899930<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10630<\ID>
+		<Name>Hard-Boiled Shield<\Name>
+		<Level>15<\Level>
+		<Description>Cook for 10 minutes in boiling water. This snack will come in handy between dungeons.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910630<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10251<\ID>
+		<Name>Mount Stinkky Shield<\Name>
+		<Level>19<\Level>
+		<Description>Greenish and pungent, this shield is still a weapon of choice when fighting the creatures of Mount Stinkky.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1899931<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>46<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9927<\ID>
+		<Name>Shield in Briefs<\Name>
+		<Level>20<\Level>
+		<Description>No one will be able to say you're not wearing any underwear now!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1899927<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10093<\ID>
+		<Name>Strichoke Shield<\Name>
+		<Level>23<\Level>
+		<Description>Trools absolutely adore freshly sliced strich necks dipped in the yolk of this shield. If they ask you for it, hand it over without a murmur.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910093<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4192<\ID>
+		<Name>The Bumper<\Name>
+		<Level>25<\Level>
+		<Description>Not to be confused with the bra of the same name from the \"Lovely Chassis\" series by Jean-Trool Grospied. <\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1894192<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15570<\ID>
+		<Name>Googoo Pow Arranger<\Name>
+		<Level>26<\Level>
+		<Description>Admittedly, there's so much bird poop around here that this shield is more useful as an umbrella than anything else.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915570<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11030<\ID>
+		<Name>Bliblield<\Name>
+		<Level>28<\Level>
+		<Description>Blibli fur is extremely resistant. Once the hairs have been woven together even a Cra arrow shot at short range will just bounce off.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18911030<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9975<\ID>
+		<Name>Necrofahrt Shield<\Name>
+		<Level>30<\Level>
+		<Description>The Necrofahrt shield - it wanted to be a trumpet when it was growing up!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>STASIS<\Quality>
+		<Conditions>EQUIP:GetStasisGauge() > 30,<\Conditions>
+		<Children>10824,10825,10826<\Children>
+		<Icon>1899975<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>172<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10970<\ID>
+		<Name>Chafer Shield<\Name>
+		<Level>30<\Level>
+		<Description>It's not surprising this shield is very fragile given its age. It doesn't offer much in the way of protection any more, either. Its main selling point is the hostile aspect of its appearance.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910970<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10275<\ID>
+		<Name>Bawbawian Shield<\Name>
+		<Level>31<\Level>
+		<Description>Wabbits aren't the sweet, cuddly little creatures you like to think they are. These barbaric animals will crush a Cawwot with their shield, just to make a glass of juice.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910275<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12431<\ID>
+		<Name>Bawbawian Shield of War<\Name>
+		<Level>31<\Level>
+		<Description>Wabbits aren't the sweet, cuddly little creatures you like to think they are. These barbaric animals will crush a Cawwot with their shield, just to make a glass of juice.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>18912431<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9655<\ID>
+		<Name>Sticky Shield<\Name>
+		<Level>36<\Level>
+		<Description>This shield is ideal for taking care of those slippery opponents.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1899655<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9254<\ID>
+		<Name>Royal Gobbshield<\Name>
+		<Level>37<\Level>
+		<Description>Instead of fighting like a Prince, why not defend yourself like a King!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10827,10828,10829<\Children>
+		<Icon>1892080<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10282<\ID>
+		<Name>Kloome Shield<\Name>
+		<Level>39<\Level>
+		<Description>This shield has saved Kloome from death by preventing him from being crushed by a love-struck Crackler. No one knows if he managed to survive his relationship with it though.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910282<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3976<\ID>
+		<Name>Inn Shield<\Name>
+		<Level>40<\Level>
+		<Description>This shield, made from a tavern sign, will make sure you don't get any headaches, but that's about it.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12350,12351,12352<\Children>
+		<Icon>1893976<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15364<\ID>
+		<Name>Musty Shield<\Name>
+		<Level>42<\Level>
+		<Description>This shield isn't much to look at, but don't judge a book by its cover. Use it right and not even a master Cra will get to you.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915364<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9976<\ID>
+		<Name>Shield of Denial<\Name>
+		<Level>45<\Level>
+		<Description>This shield is frequently wrong, but it will never admit it.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 45,<\Conditions>
+		<Children>10830,10831,10832<\Children>
+		<Icon>1899976<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>176<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10563<\ID>
+		<Name>Mudguard<\Name>
+		<Level>45<\Level>
+		<Description>This shield will help you stay beautiful, even during the toughest fights.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910563<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12801<\ID>
+		<Name>Prisoner Protector<\Name>
+		<Level>45<\Level>
+		<Description>You deserve a break, so why not just hide behind this schnexy schield...?<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>18912801<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13754<\ID>
+		<Name>Kozcu Shield<\Name>
+		<Level>45<\Level>
+		<Description>There's nothing left to do but throw this at the heads of your enemies!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18913754<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11870<\ID>
+		<Name>Riktus Shield<\Name>
+		<Level>48<\Level>
+		<Description>The daunting smile on this shield will conveniently distract your adversary.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18911870<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12057<\ID>
+		<Name>Ye Jolly Good Olde Shield<\Name>
+		<Level>48<\Level>
+		<Description>In betwixt his afternoon teas, croquet and general larking about, local funnyman Mussel Grand had ample time to create yon shield. Say what you please about it, twill bounce right off. <\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12079,12080,12081<\Children>
+		<Icon>18912057<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3974<\ID>
+		<Name>The Sharkal<\Name>
+		<Level>50<\Level>
+		<Description>This is great for those who want to look after their hard-earned kamas. Finally, a shield made for the well-off!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12353,12354,12355<\Children>
+		<Icon>1893974<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12104<\ID>
+		<Name>Chocolate Shield <\Name>
+		<Level>50<\Level>
+		<Description>There's nothing better than a Chocolate Shield to defend against those ravenous attacks.\\nNote: do not leave out in the sun.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12119,12120,12121<\Children>
+		<Icon>18912104<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10027<\ID>
+		<Name>Gumm Shield<\Name>
+		<Level>55<\Level>
+		<Description>Hold it high, it might just keep your teeth from being knocked out.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910027<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11805<\ID>
+		<Name>The Watch<\Name>
+		<Level>55<\Level>
+		<Description>Now you have The Watch, time is in your hands! You can be as late as you like!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11808,11809,11810<\Children>
+		<Icon>18911805<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12342<\ID>
+		<Name>Riktus Elite Shield<\Name>
+		<Level>55<\Level>
+		<Description>This shield is better at biffing and bashing than blocking.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18912342<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12571<\ID>
+		<Name>Ringlet Shield<\Name>
+		<Level>55<\Level>
+		<Description>The tight curls on this shield are so thick and healthy they'll easily put a crimp on your enemies' plans.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18912571<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17794<\ID>
+		<Name>The Watch<\Name>
+		<Level>55<\Level>
+		<Description>Now you have The Watch, time is in your hands! You can be as late as you like!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18911805<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17819<\ID>
+		<Name>Bwork Shield<\Name>
+		<Level>55<\Level>
+		<Description>You've turned it this way and that, and still cannot understand how they got the iron around the wooden center. Unless they somehow inserted the wooden center into the iron? You may never know...<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917819<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15180<\ID>
+		<Name>Shingle Shield<\Name>
+		<Level>57<\Level>
+		<Description>Thanksh to all the algae inshide thish shield, not a shingle bullet will shucsheed in reaching you.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915180<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5945<\ID>
+		<Name>Starry Shield<\Name>
+		<Level>60<\Level>
+		<Description>Would you look at that! This huge star has taken a liking to your shield!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10839,10840,10841,10842<\Children>
+		<Icon>1895945<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>82<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10100<\ID>
+		<Name>The Hulfmoun<\Name>
+		<Level>62<\Level>
+		<Description>This shield has been weatherproofed using Boowolf hairs. It's not as efficient as the mythical Foolmoun, but it provides pretty good protection against droplets. <\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910100<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15733<\ID>
+		<Name>Burrower Shield<\Name>
+		<Level>64<\Level>
+		<Description>You can use this shield to dig into the ground and discover the family of tiny people living under your house. So that's where all your toy teacups went!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915733<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14851<\ID>
+		<Name>Ancestral Treechnid Shield<\Name>
+		<Level>65<\Level>
+		<Description>This shield is crafted using the sturdiest wood around. That's what makes it so resistant to attacks.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18914851<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15037<\ID>
+		<Name>Protecto Plasm<\Name>
+		<Level>65<\Level>
+		<Description>This high-tech shield draws its resistance from all the souls it has captured. Its hardiness is matched only by its stickiness!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915037<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15158<\ID>
+		<Name>Petra-Pack<\Name>
+		<Level>65<\Level>
+		<Description>With a Petra-Pack on your arm, your basic necessities won't move an inch!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915158<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10099<\ID>
+		<Name>The Foolmoun<\Name>
+		<Level>70<\Level>
+		<Description>The Foolmoun weighs about as much as a dead Moogrr, but it's waterproof and resistant to Boowolf scratches. Sometimes, Trools even use it as a mirror.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10836,10837,10838,12407<\Children>
+		<Icon>18910099<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17747<\ID>
+		<Name>The Foolmoun<\Name>
+		<Level>70<\Level>
+		<Description>The Foolmoun weighs about as much as a dead Moogrr, but it's waterproof and resistant to Boowolf scratches. Sometimes, Trools even use it as a mirror.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910099<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15739<\ID>
+		<Name>The Levy Lup<\Name>
+		<Level>75<\Level>
+		<Description>Engraved on the back of this extraordinary shield, you can still make out parts of a tiny inscription: \"In memory of a love that wasn't to be... M... P.\"<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915739<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12481<\ID>
+		<Name>Bluestar Shield<\Name>
+		<Level>76<\Level>
+		<Description>Use this shield to defend yourself and you'll leave your adversaries seeing stars!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18912481<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15404<\ID>
+		<Name>Ratty Riot Shield<\Name>
+		<Level>80<\Level>
+		<Description>This shield is made up of all the body parts that were left over after one of Ratical's riotous parties. If you can bear to carry it, you probably don't realise that's what it's made of.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915404<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>122<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12604<\ID>
+		<Name>The Parish<\Name>
+		<Level>82<\Level>
+		<Description>Instantly absolves the sins of your enemies.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18912604<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>111<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16899<\ID>
+		<Name>El Pochito Shield<\Name>
+		<Level>82<\Level>
+		<Description>With great resistance comes great density. This shield weighs half a Trool, so it'll only protect you if you're really strong already.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916899<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15626<\ID>
+		<Name>Downy Defender<\Name>
+		<Level>93<\Level>
+		<Description>Crafted from heaps of Strich down and feathers, this shield will be a useful ally on the battlefield... Not least because it can also be used as a pillow when the fight is done and you need a rest.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18915626<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16026<\ID>
+		<Name>Frozen Bulwark<\Name>
+		<Level>93<\Level>
+		<Description>This shield's toughness is inversely proportional to the temperature outside. The colder it gets, the tougher it becomes.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916026<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4144<\ID>
+		<Name>The Fan<\Name>
+		<Level>95<\Level>
+		<Description>If your allies start getting out of breath, this shield can be a real lifesaver! Just wave it vigorously in all directions.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1894144<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16795<\ID>
+		<Name>Body Board<\Name>
+		<Level>95<\Level>
+		<Description>Despite being a favorite with Mitch Loosecannon, this board is made of foam and won't protect you from anything more than blowing sand.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916795<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16800<\ID>
+		<Name>Shell'f Defence<\Name>
+		<Level>95<\Level>
+		<Description>This shield would have made a great palette for budding painters - if only it didn't let in so much water.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916800<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16827<\ID>
+		<Name>Inflatable Shield<\Name>
+		<Level>98<\Level>
+		<Description>Awww... You asked for a giraffe!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916827<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>123<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14631<\ID>
+		<Name>Imperial Defender Shield <\Name>
+		<Level>100<\Level>
+		<Description>This shield will stand triumphant between you and all the dangers of the World of Twelve.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18914631<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>136<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17210<\ID>
+		<Name>Apprentice Shield<\Name>
+		<Level>100<\Level>
+		<Description>Wisdom will teach you to make use of your hands when need be.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917782<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>159<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14736<\ID>
+		<Name>Khiel's Aegis<\Name>
+		<Level>105<\Level>
+		<Description>The ancestral shield of a long-lost Feca.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18914736<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>183<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16767<\ID>
+		<Name>Lemon Aid<\Name>
+		<Level>106<\Level>
+		<Description>To leave enemies with a sour taste in their mouth.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916767<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>190<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16049<\ID>
+		<Name>Chaferized Shield<\Name>
+		<Level>110<\Level>
+		<Description>Smithmagic was Freezz's favorite pastime. In her spare time, she created shields to equip some of her henchmen, making them even tougher.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18916049<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>96<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14121<\ID>
+		<Name>The Mogmatic<\Name>
+		<Level>116<\Level>
+		<Description>With this on your arm, you can be sure of one thing... They shall not pass!<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18914121<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>221<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17782<\ID>
+		<Name>Initiate Shield<\Name>
+		<Level>120<\Level>
+		<Description>Your wisdom can be seen in your choice of arms.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917783<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>206<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17257<\ID>
+		<Name>The Wompifest<\Name>
+		<Level>125<\Level>
+		<Description>This shield is a bit of a killjoy, frankly. Maybe you could try a high-level joy-revival treatment over at the armorer's place?<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917257<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>122<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17549<\ID>
+		<Name>Chopped Cawwot<\Name>
+		<Level>125<\Level>
+		<Description>Some Cawwots are for munchin', some are for defendin'.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917549<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>122<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18175<\ID>
+		<Name>Poinkpoink Shield<\Name>
+		<Level>129<\Level>
+		<Description>When you're carrying this shield, people will want to keep their distance. Rare indeed is he who enjoys getting stabbed by sharp spines.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18918175<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>189<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17783<\ID>
+		<Name>Sage Shield<\Name>
+		<Level>135<\Level>
+		<Description>Turn your wounds into wisdom. Or carry a shield and avoid wounds. Your choice.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917210<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>191<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17744<\ID>
+		<Name>Troyle's GG Shield<\Name>
+		<Level>140<\Level>
+		<Description>Nope, this shield won't scream \"GG!!!\" every time you protect yourself with it... Unearthed deep within a Wabbit warren, you can't help wondering how it got down there.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917744<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>251<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18388<\ID>
+		<Name>Asse Shield<\Name>
+		<Level>145<\Level>
+		<Description>This magnificent shield contains a few drops of seawater. Not only does it bring good luck but it can also be used as a flask.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18910028<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>325<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17291<\ID>
+		<Name>Pompom Shield<\Name>
+		<Level>147<\Level>
+		<Description>Cushions blows in case of falls and bounces.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917291<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17317<\ID>
+		<Name>Wo Shield<\Name>
+		<Level>152<\Level>
+		<Description>This immense shield protects you well, sure, but you can't see anything over it.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18917317<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>178<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18559<\ID>
+		<Name>Falling Shadome<\Name>
+		<Level>159<\Level>
+		<Description>This dome-shaped shield completely covers the arm. Could it be a gravestone recycled into a defensive weapon?<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18918559<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>194<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18564<\ID>
+		<Name>Highly Armoured Shield<\Name>
+		<Level>164<\Level>
+		<Description>No thief has ever managed to make a dent in this armor used to secure Enurado's chests.<\Description>
+		<Slot>Shield<\Slot>
+		<SlotID>189<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>18918564<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>206<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

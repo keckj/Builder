@@ -1,0 +1,969 @@
+
+<Items>
+	<Item>
+		<ID>11405<\ID>
+		<Name>Disloyal Bow<\Name>
+		<Level>6<\Level>
+		<Description>This bow will bow to nobody - not even you!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11711405<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6598<\ID>
+		<Name>Twiggy Bow<\Name>
+		<Level>8<\Level>
+		<Description>Just because you're not that sharp yourself, doesn't mean you can't poke holes in things.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1176598<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10244<\ID>
+		<Name>Plassy Bow<\Name>
+		<Level>15<\Level>
+		<Description>This bow was created by a magician who believed you could find happiness in even the plainest of things. He invented this water-based bow to prove his point.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11710244<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3823<\ID>
+		<Name>Buzzard Bow<\Name>
+		<Level>20<\Level>
+		<Description>This bow was specially created for bird hunting. Light and easy to handle, it's useful for ruffling almost anyone's feathers.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1173823<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9348<\ID>
+		<Name>Rain Bow<\Name>
+		<Level>25<\Level>
+		<Description>They say that, if you can find where your arrows have landed, it will lead you to a treasure. Strangely, this only seems to work when rain and rays of sunshine mix together.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1179348<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10266<\ID>
+		<Name>Nomoon<\Name>
+		<Level>28<\Level>
+		<Description>This bow is powerful enough to send an arrow to the moon.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11710266<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11610<\ID>
+		<Name>The Sickle<\Name>
+		<Level>30<\Level>
+		<Description>Use Shark Tooth Arrows with this bow for optimum results.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11611,11612,11613<\Children>
+		<Icon>11711610<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3924<\ID>
+		<Name>Nickelbow<\Name>
+		<Level>35<\Level>
+		<Description>Now that you have it, nothing else matters. Your enemies will not hesitate to obey their master - now you call the shots...  <\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8469,8470,8471<\Children>
+		<Icon>1173924<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9964<\ID>
+		<Name>Bifmaro Bow<\Name>
+		<Level>35<\Level>
+		<Description>This juicy bow may look absolutely delicious, but gnawing on it will only make it less effective on the battlefield.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 35,<\Conditions>
+		<Children>11155,11156,11157<\Children>
+		<Icon>1179964<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10969<\ID>
+		<Name>Nuckle Bow<\Name>
+		<Level>36<\Level>
+		<Description>If you hate the sound of bones cracking, this definitely isn't the weapon for you. <\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11710969<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10287<\ID>
+		<Name>I Keeya Bow<\Name>
+		<Level>43<\Level>
+		<Description>Made in a warehouse in the north of Amakna, you assemble this cheap bow yourself. Its performance will depend on how good your DIY skills are.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11710287<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>37<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9349<\ID>
+		<Name>Yamato's Rope<\Name>
+		<Level>45<\Level>
+		<Description>Yamato's Rope has made more than one monster's heart beat a little faster. A finely tuned weapon, it can direct arrows to even the most well-hidden targets.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9513,9514,11158<\Children>
+		<Icon>1179349<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3601<\ID>
+		<Name>Hidsad Bow<\Name>
+		<Level>50<\Level>
+		<Description>The man who created this bow, a certain Marc Hidsad, never really knew how to use it. He usually hurt himself just as much as his enemies.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8466,8467,8468,11159<\Children>
+		<Icon>1173601<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9639<\ID>
+		<Name>Twang Bow<\Name>
+		<Level>50<\Level>
+		<Description>This bow is famous for its one-of-a-kind arrow propulsion system.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1179639<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11614<\ID>
+		<Name>Willow Bow<\Name>
+		<Level>50<\Level>
+		<Description>This bow comes in a 0.5 version, but the 0.7, which is reinforced with willow wood, is much more comfortable to use.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11615,11616,11617<\Children>
+		<Icon>11711614<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11865<\ID>
+		<Name>Riktus Bow<\Name>
+		<Level>50<\Level>
+		<Description>Go careful when using this bow. It can cause earthquakes that shoot off the Richter.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11711865<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9624<\ID>
+		<Name>The Water Bow<\Name>
+		<Level>51<\Level>
+		<Description>This bow knows how to satisfy lovers of breakouts. A hint of nostalgia and a ton of good ideas, and, before you know it, the flood gates have opened.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1179624<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12341<\ID>
+		<Name>Riktus Elite Bow<\Name>
+		<Level>55<\Level>
+		<Description>Don't lift a finger, the arrow will launch itself!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11712341<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5666<\ID>
+		<Name>King of Borins' Bow<\Name>
+		<Level>60<\Level>
+		<Description>This unconventional bow was designed specifically for the self-proclaimed king of a village of peasants, who loved showing off by firing two arrows simultaneously. <\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8523,8524,8525,8526<\Children>
+		<Icon>1175666<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12889<\ID>
+		<Name>Lagotar Bow<\Name>
+		<Level>60<\Level>
+		<Description>Apparently some smooth-talking dude in a dodgy cape sold this bow to the castle's owner, who ended up never really finding a use for it.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11712889<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>120<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>134<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>151<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15032<\ID>
+		<Name>Moski Bow<\Name>
+		<Level>60<\Level>
+		<Description>This bow was once used to annihilate nocturnal invaders such as Exotic Moskitos. It was so efficient that the poor things are now extinct.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11715032<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15539<\ID>
+		<Name>Strich Bow<\Name>
+		<Level>62<\Level>
+		<Description>If you wriggle both your arms through the gap in this bow, you might gain the power of flight! For the moment, it would be safer just to shoot arrows from it, though.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11715539<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14850<\ID>
+		<Name>Ancestral Treechnid Bow<\Name>
+		<Level>65<\Level>
+		<Description>They say the Arachnee Embroiderer who strung this bow had to start from scratch 59 times before the Ancestral Treechnid was satisfied with it.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11714850<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>119<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15127<\ID>
+		<Name>Mollusky Bow<\Name>
+		<Level>65<\Level>
+		<Description>If you don't know how to use this bow, you can always pretend it's a staff. Then again, only a real Iop doesn't know how to use a bow.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11715127<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17773<\ID>
+		<Name>Feesy's Bow<\Name>
+		<Level>65<\Level>
+		<Description>Can shoot odoriferous and, frankly, disgusting arrows.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11717773<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12467<\ID>
+		<Name>Crobak Bow<\Name>
+		<Level>72<\Level>
+		<Description>This arc has a large range and launches as the crow flies.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12532,12533,12534,12535<\Children>
+		<Icon>11712467<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17738<\ID>
+		<Name>Crobak Bow<\Name>
+		<Level>72<\Level>
+		<Description>This arc has a large range and launches as the crow flies.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11712467<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10012<\ID>
+		<Name>G'zee Bow<\Name>
+		<Level>77<\Level>
+		<Description>You still might not get invited to many garden parties, but this bow does make you look a bit more impressive than before.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11710012<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>90<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12625<\ID>
+		<Name>Forgiveness Bow<\Name>
+		<Level>84<\Level>
+		<Description>It will forgive your fallen opponents immediately.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12718,12719,12720,12721<\Children>
+		<Icon>11712625<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14645<\ID>
+		<Name>Lego Lars's Bow<\Name>
+		<Level>90<\Level>
+		<Description>This bow is said to have belonged to an elite archer with jaundiced skin and a curiously square head.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11714645<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14481<\ID>
+		<Name>Crackwhip Bow<\Name>
+		<Level>92<\Level>
+		<Description>The Cracklers tried their hand at writing by carving a few incomprehensible words on this bow: Although this bow poor...<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11714481<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13647<\ID>
+		<Name>Fanfest #1 Air Bow<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11712341<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13648<\ID>
+		<Name>Fanfest #1 Fire Bow<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11712341<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13649<\ID>
+		<Name>Fanfest #1 Water Bow<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11712341<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13650<\ID>
+		<Name>Fanfest #1 Earth Bow<\Name>
+		<Level>100<\Level>
+		<Description>You ain't seen nothing yet!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>11712341<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14646<\ID>
+		<Name>Freyrr's Bow<\Name>
+		<Level>100<\Level>
+		<Description>Everyone knows that Chowboca fought with a crossbow. A lesser-known fact is that his cousin Freyrr was more into bows.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11714646<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15272<\ID>
+		<Name>Bill Tell's Bow <\Name>
+		<Level>100<\Level>
+		<Description>This bow comes with two double-A Apis for your first training session. Once you've used them up, you'll have to buy your own fruit. Pfft... Consumerism, grmbl...<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11715272<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>135<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14427<\ID>
+		<Name>Wreckin Bow<\Name>
+		<Level>105<\Level>
+		<Description>This bow is somehow reminiscent of a primitive cannon. It's powerful, but very heavy.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11714427<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>136<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16062<\ID>
+		<Name>Adoussur Bow<\Name>
+		<Level>113<\Level>
+		<Description>Made with the best Mecha alloy, this bow focuses on the pure essentials, making it lighter, finer, and more efficient.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11716062<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17309<\ID>
+		<Name>Slingshot<\Name>
+		<Level>144<\Level>
+		<Description>Aim straight between the two prongs.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11717309<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>147<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>95<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18450<\ID>
+		<Name>Arcus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>A real tactical throw weapon, the hunters use it when hunting in the Shustuft Krust.<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11718450<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>235<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17352<\ID>
+		<Name>Infected Bow<\Name>
+		<Level>151<\Level>
+		<Description>The arrows spread the infection. Once hit by one, there's no escaping!<\Description>
+		<Slot>Bow<\Slot>
+		<SlotID>117<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11717352<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>157<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

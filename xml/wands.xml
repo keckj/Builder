@@ -1,0 +1,1077 @@
+
+<Items>
+	<Item>
+		<ID>7041<\ID>
+		<Name>Piwi Wand<\Name>
+		<Level>5<\Level>
+		<Description>Well, what? Look at it. It's a wand. It's not rocket science!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1087041<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11403<\ID>
+		<Name>King Kee Wand<\Name>
+		<Level>7<\Level>
+		<Description>King Kee used to use this wand to accessorize all his underwear with extravagant feathers, and now you can do the same.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10811403<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2675<\ID>
+		<Name>Twiggy Wand<\Name>
+		<Level>8<\Level>
+		<Description>This is a very simple wand. Not the stuff of legends.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1082675<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2058<\ID>
+		<Name>Gobbette Wand<\Name>
+		<Level>11<\Level>
+		<Description>This is an improved version of the Shepherd's Staff. This wand now has even more ways of driving your flock to chop up your enemies.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1082058<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6571<\ID>
+		<Name>Tofu Wand<\Name>
+		<Level>11<\Level>
+		<Description>King Kee used to use this wand to accessorize all his underwear with extravagant feathers, and now you can do the same.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1086571<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11796<\ID>
+		<Name>Splinter Wand<\Name>
+		<Level>13<\Level>
+		<Description>Whoever made this wand only had four fingers.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10811796<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9354<\ID>
+		<Name>Hour Wand<\Name>
+		<Level>15<\Level>
+		<Description>Made by the Eniripsa, Mie Dopan, this wand is able to turn back time to prevent fights. It normally ends up shoved in some demon's eye.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1089354<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4040<\ID>
+		<Name>Hitek Wand<\Name>
+		<Level>20<\Level>
+		<Description>The show-off's dream, these wands are the cream of the crop in the World of Twelve.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1084040<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10254<\ID>
+		<Name>Liriel's Wand<\Name>
+		<Level>20<\Level>
+		<Description>This wand used to belong to Liriel, the Eniripsa, who suffered a painful death from a strawberry overdose and lost his wings with a cry that curdled more than just the cream.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810254<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10095<\ID>
+		<Name>Strich Blood<\Name>
+		<Level>24<\Level>
+		<Description>This wand once belonged to Jonah Dward. You can use it to read a strich's thoughts. That's not so bad, you say.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810095<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10264<\ID>
+		<Name>Strangly Wand<\Name>
+		<Level>27<\Level>
+		<Description>This wand can tighten itself round your neck to strangle you. A very notable way to kill those you have little respect for.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810264<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9359<\ID>
+		<Name>Strange Wand<\Name>
+		<Level>30<\Level>
+		<Description>Given its limited capabilities, you'd probably be better off using this wand as a back scratcher.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11128,11129,11130<\Children>
+		<Icon>1089359<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9966<\ID>
+		<Name>Wand of Courage<\Name>
+		<Level>30<\Level>
+		<Description>All those who continually flee fights, this is the wand for you. It won't actually make you any braver, but it will make you better at running away!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 30,<\Conditions>
+		<Children>11131,11132,11133<\Children>
+		<Icon>1089966<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11618<\ID>
+		<Name>Pillo Wand<\Name>
+		<Level>30<\Level>
+		<Description>As well as being magical, this wand can be unrolled to keep your head warm and comfortable on those long winter nights.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11619,11620,11621<\Children>
+		<Icon>10811618<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14715<\ID>
+		<Name>Fullabeens Wand<\Name>
+		<Level>30<\Level>
+		<Description>If anything's fullabeens, it's definitely this wand. I mean, look at it!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814715<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15354<\ID>
+		<Name>The Featherlight<\Name>
+		<Level>32<\Level>
+		<Description>Tie your prey up and tickle its chin with this feather! It's the most harrowing torture known to man!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10815354<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5197<\ID>
+		<Name>Swiffer Wand<\Name>
+		<Level>40<\Level>
+		<Description>This wand is behind the emancipation of Eniripsa housewives. It's excellent for getting rid of both monsters and dust. Practical, no? <\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11134,11135,11136<\Children>
+		<Icon>1085197<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10564<\ID>
+		<Name>Hearty Wand<\Name>
+		<Level>40<\Level>
+		<Description>Snap this in half and you'll have an ornament to give your sweetheart, and a toothpick for yourself.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810564<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10286<\ID>
+		<Name>Wand Hering<\Name>
+		<Level>43<\Level>
+		<Description>The artisan who invented this wand had apprentices to train. Not the greatest teacher in the World, he often couldn't keep his mind on what he was saying long enough to finish the...<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810286<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11046<\ID>
+		<Name>Yubend Wand<\Name>
+		<Level>45<\Level>
+		<Description>You'll want to keep this wand in good condition. If you ever need it in an emergency, the last thing you'll want is some sort of blockage.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10811046<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11078<\ID>
+		<Name>Kralawand<\Name>
+		<Level>47<\Level>
+		<Description>A cedar wand which contains a Krala tentacle fiber.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10811078<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>38<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10289<\ID>
+		<Name>The Hyldegarde<\Name>
+		<Level>48<\Level>
+		<Description>This wand was created many years ago in the forging flames of Dyin Ard. You'd be well-advised to have a bucket of water at hand just to keep control of the mini-inferno.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810289<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9644<\ID>
+		<Name>Quilty Wand<\Name>
+		<Level>49<\Level>
+		<Description>Just because it's soft, doesn't mean it's useless. This wand is the perfect example of that! Your enemies will soon be in an eternal sleep...<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1089644<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10692<\ID>
+		<Name>Maneuver Wand<\Name>
+		<Level>50<\Level>
+		<Description>If you'd love to gain total control of your troops just by waving a magic wand, this is the tool for you!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810692<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15275<\ID>
+		<Name>Lil Healey's Wand <\Name>
+		<Level>50<\Level>
+		<Description>This wand isn't just for Eniripsas, but for all adventurers who like being hot on their heals.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>10815275<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9274<\ID>
+		<Name>Kawfy Wand<\Name>
+		<Level>55<\Level>
+		<Description>You know, like the drink, but not spelled the same.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9288,9289,9290,11140<\Children>
+		<Icon>1089274<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9362<\ID>
+		<Name>Bread Wand<\Name>
+		<Level>55<\Level>
+		<Description>Just because it was cooked in a bread oven, that doesn't mean this wand's edible. The lingering odor of baking powder will fool the hungriest Iops, though.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9537,9538,11137,11138<\Children>
+		<Icon>1089362<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10693<\ID>
+		<Name>Bloodenbone Wand<\Name>
+		<Level>60<\Level>
+		<Description>Ugh, a horrible reminder of a failed operation...<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810693<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15330<\ID>
+		<Name>Whirlwand<\Name>
+		<Level>62<\Level>
+		<Description>When used, this wand glimmers and glows with powers called forth from the swirling mists of time!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10815330<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12583<\ID>
+		<Name>Wild Gobbwand<\Name>
+		<Level>64<\Level>
+		<Description>This baguette may be difficult to tame, but once you've broken it, you'll find it incredibly useful.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12744,12745,12746,12747<\Children>
+		<Icon>10812583<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10695<\ID>
+		<Name>Parish Wand<\Name>
+		<Level>65<\Level>
+		<Description>All you can do now is pray!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10810695<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>151<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14880<\ID>
+		<Name>Howstar Wand<\Name>
+		<Level>67<\Level>
+		<Description>We don't know much about this wand other than the people from its lands speak an incomprehensible language known as \"Chavish.\"<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814880<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11622<\ID>
+		<Name>Battlestick Galaktika<\Name>
+		<Level>70<\Level>
+		<Description>Join the Elite! Choose a Battlestick Galaktika.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11623,11624,11625,11626<\Children>
+		<Icon>10811622<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17746<\ID>
+		<Name>Battlestick Galaktika<\Name>
+		<Level>70<\Level>
+		<Description>Join the Elite! Choose a Battlestick Galaktika.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10811622<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>67<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12637<\ID>
+		<Name>Rough Splinter Wand<\Name>
+		<Level>72<\Level>
+		<Description>Apparently this wand's last owner dropped it because he didn't have any fingers left.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10812637<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12459<\ID>
+		<Name>Crobak Wand<\Name>
+		<Level>73<\Level>
+		<Description>Within this wooden wand is a beautiful Crobak feather. The locals say that, used correctly, it might just give you more quillpower and make you more determined.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10812459<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15212<\ID>
+		<Name>The Supernova<\Name>
+		<Level>75<\Level>
+		<Description>When used, this wand releases pretty sparks in all different colors. It's not very good for the planet, but it's so cute!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10815212<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14647<\ID>
+		<Name>Nausea Wand<\Name>
+		<Level>80<\Level>
+		<Description>This wand used to belong to an Eniripsa so talented and famous that it'd make you sick to your stomach.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814647<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12624<\ID>
+		<Name>Feather Duster<\Name>
+		<Level>86<\Level>
+		<Description>It gets deep into the dirtiest corners.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10812624<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14648<\ID>
+		<Name>Bab Ydi Wand<\Name>
+		<Level>90<\Level>
+		<Description>This wand used to belong to a powerful sorcerer who could invoke terrible demons made of marshmallow.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814648<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12896<\ID>
+		<Name>Vampyric Wand<\Name>
+		<Level>91<\Level>
+		<Description>At twilight, you can use this wand to fork your enemies' eyes out. By the time the new moon appears, they'll be doing it of their own accord. <\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10812896<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16081<\ID>
+		<Name>Wand-4-U<\Name>
+		<Level>91<\Level>
+		<Description>This wand will make all Brrrblis completely crazy about you!\\nYou'll have little monsters coming at you by the bucket load!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10816081<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14281<\ID>
+		<Name>Roseyposey<\Name>
+		<Level>100<\Level>
+		<Description>A rose by any other name would smell just as sweet... But you're stuck with this stupidly named one now!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814281<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14649<\ID>
+		<Name>Tijeebon Mallet<\Name>
+		<Level>100<\Level>
+		<Description>A wonderful find for anyone who dabbles in business... Monkey business, that is!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814649<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16773<\ID>
+		<Name>Royal Stirrer<\Name>
+		<Level>103<\Level>
+		<Description>Cocktails are better shaken, not stirred, but since when did you know anything about good taste?<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10816773<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16038<\ID>
+		<Name>Crackercrumb<\Name>
+		<Level>105<\Level>
+		<Description>A little crunch of Crackercrumb will send ice sparks flying!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10816038<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14120<\ID>
+		<Name>Gray Mage's Wand<\Name>
+		<Level>115<\Level>
+		<Description>This wand bears an almighty flame. It used to belong to a powerful mage and got terribly broken during an epic fight with a Gobbalrog.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10814120<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>108<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18180<\ID>
+		<Name>Portabella<\Name>
+		<Level>125<\Level>
+		<Description>Shake me! And spores will fall out!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10818180<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17284<\ID>
+		<Name>Cawwot Rod<\Name>
+		<Level>130<\Level>
+		<Description>How best to lure your adversary? Just stick a Cawwot under their nose and they'll come running!<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10817284<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>61<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18446<\ID>
+		<Name>Tigus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Once you've mastered this ring, the energy that binds it to its bearer means it can be also used as a boomerang.<\Description>
+		<Slot>Wand<\Slot>
+		<SlotID>108<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>10818446<\Icon>
+		<AP>4<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

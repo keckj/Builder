@@ -1,0 +1,5708 @@
+
+<Items>
+	<Item>
+		<ID>18054<\ID>
+		<Name>[ADMIN] Hide set cloak<\Name>
+		<Level>0<\Level>
+		<Description>[ADMIN] Hide set cloak<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218054<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.3<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9770<\ID>
+		<Name>Black Drheller Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329770<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9924<\ID>
+		<Name>Governor Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329924<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9925<\ID>
+		<Name>Governor Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329925<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9926<\ID>
+		<Name>Governor Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329926<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10167<\ID>
+		<Name>Leafy Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210167<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10173<\ID>
+		<Name>Al's Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210173<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10176<\ID>
+		<Name>Xaler Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210176<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10177<\ID>
+		<Name>Sylvester Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210177<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10542<\ID>
+		<Name>Bellatrool Rod<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210542<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10543<\ID>
+		<Name>Moogrrtrool Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210543<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10544<\ID>
+		<Name>Scaretrool Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210544<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10545<\ID>
+		<Name>Albatrool Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210545<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10733<\ID>
+		<Name>Governor Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210733<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10746<\ID>
+		<Name>Ethereal Amaknian Guard Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210746<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10747<\ID>
+		<Name>Ethereal Bontarian Guard Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210747<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10748<\ID>
+		<Name>Ethereal Brakmarian Guard Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210748<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10749<\ID>
+		<Name>Ethereal Sufokian Guard Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210749<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10765<\ID>
+		<Name>Michelangecrow Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210765<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10773<\ID>
+		<Name>Dark Artisan Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210773<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13442<\ID>
+		<Name>Guild Cape<\Name>
+		<Level>1<\Level>
+		<Description>Wear your guild colors with pride!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>13213442<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13554<\ID>
+		<Name>Evil Quaquack Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213554<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13558<\ID>
+		<Name>Quaquack Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213558<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13583<\ID>
+		<Name>Dark Vlad's Flamboyant Cape<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213583<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13599<\ID>
+		<Name>Exclamation Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>13212684<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13663<\ID>
+		<Name>Cupiddlypants's Angel Wings<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213663<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13696<\ID>
+		<Name>Spektral Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213696<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13697<\ID>
+		<Name>Mascot Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213697<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16100<\ID>
+		<Name>Smisse Pirate Cloak<\Name>
+		<Level>1<\Level>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216100<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9492<\ID>
+		<Name>Adventurer Cloak<\Name>
+		<Level>5<\Level>
+		<Description>Classy, but not very useful. This cape will still have a knockout effect on young warriors.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329492<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>154<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13651<\ID>
+		<Name>Prime Cape<\Name>
+		<Level>5<\Level>
+		<Description>An exclusive fancy cape donned by the cream of the crop, the top dogs, and the honorable guests.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13213651<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2298<\ID>
+		<Name>Red Capiwin<\Name>
+		<Level>6<\Level>
+		<Description>This cloak is light, very light. In fact, it weighs about the same as a Piwi brain!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322298<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2299<\ID>
+		<Name>Blue Capiwin<\Name>
+		<Level>6<\Level>
+		<Description>This cloak is light, very light. In fact, it weighs about the same as a Piwi brain!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322299<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2300<\ID>
+		<Name>Purple Capiwin<\Name>
+		<Level>6<\Level>
+		<Description>This cloak is light, very light. In fact, it weighs about the same as a Piwi brain!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322300<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2301<\ID>
+		<Name>Green Capiwin<\Name>
+		<Level>6<\Level>
+		<Description>This cloak is light, very light. In fact, it weighs about the same as a Piwi brain!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322301<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9317<\ID>
+		<Name>Twiggy Cloak<\Name>
+		<Level>7<\Level>
+		<Description>This cloak is ideal for learning to skateboard.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329317<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9621<\ID>
+		<Name>Amaknian Cloak<\Name>
+		<Level>8<\Level>
+		<Description>When used alongside other items, the Amaknian Cloak will make you into an 'honest' citizen of the Nation of Amakna.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329621<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9662<\ID>
+		<Name>Bontarian Cloak<\Name>
+		<Level>8<\Level>
+		<Description>When used alongside other items, the Bontarian Cloak will make you into an 'honest' citizen of the Nation of Bonta.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329662<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9670<\ID>
+		<Name>Brakmarian Cloak<\Name>
+		<Level>8<\Level>
+		<Description>When used alongside other items, this Brakmarian Cloak will make you into an 'honest' citizen of the Nation of Brakmar.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329670<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10299<\ID>
+		<Name>Sufokian Cloak<\Name>
+		<Level>8<\Level>
+		<Description>When used alongside other items, the Sufokian Cloak will make you into an 'honest' citizen of the Nation of Sufokia.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210299<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12821<\ID>
+		<Name>Bow Meow Tail<\Name>
+		<Level>9<\Level>
+		<Description>Why, you look just purrrrfect!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212821<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10764<\ID>
+		<Name>Destiny Cape<\Name>
+		<Level>10<\Level>
+		<Description>This cloak was meant for writing sneaky plans on.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210764<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15295<\ID>
+		<Name>Krospeed Cloak <\Name>
+		<Level>10<\Level>
+		<Description>Careful you don't run TOO fast with this cloak; the slightest jump will send you soaring into the air like a plumber!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13215295<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10783<\ID>
+		<Name>Cloak of Trouble<\Name>
+		<Level>12<\Level>
+		<Description>Sooo... this cloak is mean and troublesome. Wanna wear it?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210783<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11412<\ID>
+		<Name>Zinit Cloak<\Name>
+		<Level>12<\Level>
+		<Description>This cloak will keep you dry on those rainy days.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>13211412<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9319<\ID>
+		<Name>Royal Capiwin<\Name>
+		<Level>13<\Level>
+		<Description>Now you've been royally tufted, all you have to do is convince the other Piwis to go and die alone.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329319<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2024<\ID>
+		<Name>Gobball Cape<\Name>
+		<Level>14<\Level>
+		<Description>This cloak was made from the remains of a Gobball's dinner. Yes, you read right. Sometimes even Gobballs don't clear their plates.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322024<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2038<\ID>
+		<Name>Tofu Cloak<\Name>
+		<Level>14<\Level>
+		<Description>Light, useful, and a soft yellow... Tofu feathers exist for the sole purpose of making this cloak!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1322038<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4205<\ID>
+		<Name>Noask Cape<\Name>
+		<Level>15<\Level>
+		<Description>The only inspiring thing about this is the idea of never wearing it. <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1324205<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4207<\ID>
+		<Name>Capeoeira<\Name>
+		<Level>15<\Level>
+		<Description>This cloak is so liquid and light it will hang on to your back through all your Chackie Jan moments<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1324207<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11420<\ID>
+		<Name>Aguabrial's Cloak<\Name>
+		<Level>15<\Level>
+		<Description>It is said that this cape was created by a huff and a puff from Aguabrial the magic dragon.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211420<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11797<\ID>
+		<Name>Rat Tail<\Name>
+		<Level>15<\Level>
+		<Description>The smell of this cape will have all the Ecaflips in the territory hot on your tail.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211797<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12833<\ID>
+		<Name>Zora's Cloak<\Name>
+		<Level>15<\Level>
+		<Description>This cloak makes a great blanky. Cozy on down for the night... Sweet dreams!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212833<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10784<\ID>
+		<Name>Baron Cloak<\Name>
+		<Level>16<\Level>
+		<Description>This cloak will highlight your powerful stature as a young noob.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210784<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15526<\ID>
+		<Name>Cloudy Piwi Cape<\Name>
+		<Level>17<\Level>
+		<Description>Just so you know, the trendy \"feather-and-wing\" design on this cape won't be enough to save you when you leap off the cliff edge, hoping to soar across Amakna like a bird.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215526<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9318<\ID>
+		<Name>Capsule Cloak<\Name>
+		<Level>20<\Level>
+		<Description>A certain Mulba used this item to carry heavy items with her on her long, difficult quest to find the Seven Crystal Hens which fell from the stars.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329318<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10253<\ID>
+		<Name>Bowisse Cloak<\Name>
+		<Level>20<\Level>
+		<Description>This cloak is, just like its owner, often underestimated. It is made from green larva skins, which gives even the nicest people a rough side.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210253<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13951<\ID>
+		<Name>Deuldeu Cloak<\Name>
+		<Level>20<\Level>
+		<Description>It might not look like anything special but you'll look cool wearing this cloak, promise.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213951<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13990<\ID>
+		<Name>Macho Cloak<\Name>
+		<Level>20<\Level>
+		<Description>OK. Given, it looks a bit like a mop, but this cloak is one of the most resistant cloaks proposed by the Guild of Armorers.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213990<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14714<\ID>
+		<Name>Dauzd Cloak<\Name>
+		<Level>20<\Level>
+		<Description>This cloak belonged to an adventurer who felt so at one with nature that he decided to sleep with the Gobballs under the night sky. The next morning, only the cloak was found.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214714<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14821<\ID>
+		<Name>Shin Larva Cloak<\Name>
+		<Level>20<\Level>
+		<Description>You're welcome to use this cloak as a quilt, as long as you like sharing the bed. With larva hatchlings. <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214821<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10257<\ID>
+		<Name>Poak Cloak<\Name>
+		<Level>22<\Level>
+		<Description>The Poak Cloak is a legendary cloak, sewn by the tailors for warriors who prefer close combat.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210257<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>213<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9567<\ID>
+		<Name>Prespic Cloak<\Name>
+		<Level>23<\Level>
+		<Description>Don't worry about going into battle. This thick cloak will absorb any hits on behalf of your precious butt, whilst, at the same time, injuring your opponent. <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329567<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9648<\ID>
+		<Name>Ikono Cloak<\Name>
+		<Level>23<\Level>
+		<Description>A free-thinking, radical cloak, destined for a bohemian lifestyle.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1320000<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10128<\ID>
+		<Name>Bellafleece<\Name>
+		<Level>23<\Level>
+		<Description>The long greenish lines on this cape are crawling with tiny slobbery larvas. They're a bit sticky, but very appetizing.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210128<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10315<\ID>
+		<Name>Strawcrow Cloak<\Name>
+		<Level>23<\Level>
+		<Description>With this cloak on your shoulders, you will be the hero of the wheat fields, ready to protect the mill and the wheat grain.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210315<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>152<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11799<\ID>
+		<Name>Atroashacloak<\Name>
+		<Level>23<\Level>
+		<Description>This cloak is so atrocious that your allies and enemies will revolt with revoltedness.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211799<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15532<\ID>
+		<Name>Celestial Piwi Cape<\Name>
+		<Level>23<\Level>
+		<Description>No, no, this won't grant you the power of flight. I said... Argh... Do what you like, then.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215532<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10383<\ID>
+		<Name>Crabacape<\Name>
+		<Level>24<\Level>
+		<Description>Wear the Crabacape and you'll no longer have to fear what's lurking behind your back. Make sure you don't get caught in a pinch all the same though.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210383<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>71<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12776<\ID>
+		<Name>Glowing Stalagcape<\Name>
+		<Level>25<\Level>
+		<Description>The heat from this cape will ensure that you develop a constant coat of sweat and perpetual body odor.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212776<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13956<\ID>
+		<Name>Vagabond Cloak<\Name>
+		<Level>25<\Level>
+		<Description>Even vagabonds can look good!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213956<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4208<\ID>
+		<Name>Itou Lascione<\Name>
+		<Level>26<\Level>
+		<Description>This superb cloak once belonged to the Great Stratequerre, the warlord renowned for his expert strategy and hunger for the conquest of the universe.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10894,10895,10896<\Children>
+		<Icon>1324208<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9493<\ID>
+		<Name>Blibli Cloak<\Name>
+		<Level>26<\Level>
+		<Description>This mass of Blibli fur makes its wearer more vigorous, which is important since no one knows how they manage to bear the tickling that long. <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329493<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10116<\ID>
+		<Name>Scaracape<\Name>
+		<Level>26<\Level>
+		<Description>You might feel like this cloak gives you wings, but only a Iop would be foolish enough to try jumping off a cliff while wearing it.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210116<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9994<\ID>
+		<Name>Postit Cloak<\Name>
+		<Level>29<\Level>
+		<Description>Looks like you've gone a bit overboard!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329994<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>92<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11036<\ID>
+		<Name>Abell Cape<\Name>
+		<Level>29<\Level>
+		<Description>Will you be capable of wearing it all day long?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211036<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>94<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11048<\ID>
+		<Name>Mass Cape<\Name>
+		<Level>29<\Level>
+		<Description>This cape's camouflaging abilities only work at night, in swamps.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211048<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9494<\ID>
+		<Name>Royal Tofu Cloak<\Name>
+		<Level>31<\Level>
+		<Description>Less fur than the Tofu cloak, but ten times silkier. That's Royalty for you!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329494<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9495<\ID>
+		<Name>Royal Gobball Cape<\Name>
+		<Level>31<\Level>
+		<Description>This cloak, worn by his great Royal Gobball Associate, is both incredibly stylish and incredibly powerful.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329495<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15341<\ID>
+		<Name>Cloudy Tofu Cloak<\Name>
+		<Level>31<\Level>
+		<Description>At least the school bully who pins you to the ground and sits on your back crowing triumphantly will be extra comfortable now.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215341<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10267<\ID>
+		<Name>Vampyre Cloak<\Name>
+		<Level>32<\Level>
+		<Description>This blood red cloak has been bathing in blood for years. This type of cloak is very popular at Al Howin's parties.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210267<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>213<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10967<\ID>
+		<Name>Spyne<\Name>
+		<Level>32<\Level>
+		<Description>Who knew it would be so easy to stop people from calling you a spineless coward?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210967<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10992<\ID>
+		<Name>Skokottish Cape<\Name>
+		<Level>33<\Level>
+		<Description>The Skokottish works just like an invisibility cloak, in that you can pass unnoticed as long as you crawl along the ground. Oh, and it only works in the Jumpin' Jungle.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210992<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10047<\ID>
+		<Name>Mag-Hic Cloak<\Name>
+		<Level>34<\Level>
+		<Description>This cloak may look ordinary, but it has magical powers! It will make its wearer invisible to anyone who isn't looking their way. Incredible, isn't it?!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210047<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2395<\ID>
+		<Name>The Maimpa<\Name>
+		<Level>35<\Level>
+		<Description>Maimpa was an Ecaflip who wasn't afraid of heights... he thought he'd always land on his feet. One day, he landed on a starving Trool...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10897,10898,10899<\Children>
+		<Icon>1322395<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10977<\ID>
+		<Name>Stalagcape<\Name>
+		<Level>35<\Level>
+		<Description>Don't leave this cape in the bottom of your Haven Bag or you could find stalagmites growing in it. You'll only have yourself to blame when your back starts hurting...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210977<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17615<\ID>
+		<Name>Capetavius<\Name>
+		<Level>35<\Level>
+		<Description>This cape is the epitome of aquatic symbiosis. The tentacles have fused with the soaked fabric.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217615<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11740<\ID>
+		<Name>Kindling Cape<\Name>
+		<Level>37<\Level>
+		<Description>Just make sure you don't turn your back on any lumberjacks.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11744,11745,11746<\Children>
+		<Icon>13211740<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12795<\ID>
+		<Name>Schnek Tail<\Name>
+		<Level>38<\Level>
+		<Description>This spongy cloak will stick to your skin like proverbial feces to a blanket.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212795<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8400<\ID>
+		<Name>Ugly Cloak<\Name>
+		<Level>40<\Level>
+		<Description>Fed up of looking stylish? This unwelcome addition to your favorite outfit will get you VIP access to the Ugly Square!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1328400<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>42<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10583<\ID>
+		<Name>Cloaklum<\Name>
+		<Level>40<\Level>
+		<Description>Nobody's disputing that you're a cold-blooded lone wanderer, but wouldn't you like a big cozy cloak to snuggle into?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210583<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10584<\ID>
+		<Name>Lil Challenger Cloak<\Name>
+		<Level>40<\Level>
+		<Description>You used to be a mere fighter. Now you are... a Challenger!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210584<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>12447<\ID>
+		<Name>Stony Skin<\Name>
+		<Level>40<\Level>
+		<Description>Well, you don't have to worry about it blowing away in the wind, but if it falls over, you risk being crushed like a pancake.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12654,12655,12656<\Children>
+		<Icon>13212447<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13834<\ID>
+		<Name>Shamanic Cloak<\Name>
+		<Level>40<\Level>
+		<Description>This cloak will give you a mysterious side designed by Mother Nature herself.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213834<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14721<\ID>
+		<Name>Blust Cloak<\Name>
+		<Level>40<\Level>
+		<Description>Blust the adventurer is best known for... well... his unforgettable odor.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214721<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14906<\ID>
+		<Name>Imperial Shin Larva Cloak<\Name>
+		<Level>40<\Level>
+		<Description>This cloak is a major step on your way to becoming a butterfly.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214906<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9330<\ID>
+		<Name>Drheller Cloak<\Name>
+		<Level>41<\Level>
+		<Description>The fur covering this cloak enables the wearer to move through earth faster. Okay, maybe not, but through the air it works...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329330<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11434<\ID>
+		<Name>Zobscure Cloak<\Name>
+		<Level>41<\Level>
+		<Description>Although it's airy and light, it is best not to wear this cloak in the sun - it absolutely humdings of fish.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211434<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14572<\ID>
+		<Name>Imperial Gobball Cape<\Name>
+		<Level>41<\Level>
+		<Description>The perfect extra blanket for the chilly winter ahead.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214572<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9497<\ID>
+		<Name>Arachnee Cloak<\Name>
+		<Level>42<\Level>
+		<Description>This cloak may start off as the very picture of elegance, but it collects flies like nobody's business, so keeping it that way might be more of a challenge than even you bargained for.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329497<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>93<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11009<\ID>
+		<Name>Carnivore Cape<\Name>
+		<Level>42<\Level>
+		<Description>The perfect camouflage for the perfect predator!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211009<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11023<\ID>
+		<Name>Royal Blibli Cape<\Name>
+		<Level>42<\Level>
+		<Description>A unique garment made from Royal Blibli fur which keeps you very warm, but can cause strong skin irritations.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211023<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11031<\ID>
+		<Name>Golden Scaracape<\Name>
+		<Level>42<\Level>
+		<Description>These Golden Scara wings will protect your backside and make your whole body look much thinner.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211031<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10285<\ID>
+		<Name>Capette<\Name>
+		<Level>43<\Level>
+		<Description>This splendid cloak, sewn together from cloths of various natural materials, is unique in its color and reflectiveness.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210285<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>213<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11593<\ID>
+		<Name>Palm Tree Leaf<\Name>
+		<Level>44<\Level>
+		<Description>This Palm Tree Leaf has been in the sun too long, which explains its rather battered appearance.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211593<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9993<\ID>
+		<Name>The Backdrop<\Name>
+		<Level>45<\Level>
+		<Description>Now people will have trouble sneaking up on you, from behind or from in front.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329993<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11035<\ID>
+		<Name>Cherry Cloak<\Name>
+		<Level>45<\Level>
+		<Description>Enjoy the cloak side of life, in refreshing cherry flavor.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211035<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15363<\ID>
+		<Name>1001 Feathers<\Name>
+		<Level>45<\Level>
+		<Description>Take good care of this cloak. You owe that much at least to the hundreds of Tofus who carefully grew and groomed their feathers just to make a luxury cloak.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215363<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11578<\ID>
+		<Name>Royal Skeleton Cloak<\Name>
+		<Level>46<\Level>
+		<Description>The Chafer King only wears this cloak for special occasions. As a matter of fact, it just so happened that he was wearing it the day he was killed.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211578<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9568<\ID>
+		<Name>Tsar Cloak<\Name>
+		<Level>47<\Level>
+		<Description>Made from Tsar Tsu Tsu's two wings, this cloak is perfect for disguising yourself as an Eniripsa.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329568<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15347<\ID>
+		<Name>Celestial Tofu Cloak<\Name>
+		<Level>47<\Level>
+		<Description>If you do succumb to the temptation to take a nap in this cloak, please beware that you probably won't ever get up again. It's so cosy!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215347<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6781<\ID>
+		<Name>Cloudy Cover<\Name>
+		<Level>48<\Level>
+		<Description>Walking with a blanket on your back...  Another Sadida custom, no doubt...  <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1326781<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11058<\ID>
+		<Name>The Sharkape<\Name>
+		<Level>48<\Level>
+		<Description>With this cape, you can play the old 'shark in the water' trick on the poor, unsuspecting tourists!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211058<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11869<\ID>
+		<Name>Visibility Cloak<\Name>
+		<Level>48<\Level>
+		<Description>This cloak makes sure you don't go unnoticed.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211869<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>176<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>181<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12103<\ID>
+		<Name>Wrapping Cloak<\Name>
+		<Level>48<\Level>
+		<Description>This cloak is incredibly fragile and not recommended for windy days, sunny days, rainy days, or any other day for that matter. Which smart Alec thought of making a chocolate cloak anyway?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12116,12117,12118<\Children>
+		<Icon>13212103<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9320<\ID>
+		<Name>Rags<\Name>
+		<Level>50<\Level>
+		<Description>This strange cape draws all its power from its dilapidated appearance. The dirtier it is, the more use it will be to you.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9522,9523,9524<\Children>
+		<Icon>1329320<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12054<\ID>
+		<Name>French Fry Cloak<\Name>
+		<Level>50<\Level>
+		<Description>This cloak is just chipper with ketchup and garlic mayonnaise! Ooh la la!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12069,12070,12071<\Children>
+		<Icon>13212054<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15294<\ID>
+		<Name>Krolevel Cloak <\Name>
+		<Level>50<\Level>
+		<Description>Can you smell that? That's the light fragrance of grilled Blibli. It'll ensure that your summons know exactly where you are at all times.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13215294<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14573<\ID>
+		<Name>Imperial Tofu Cloak<\Name>
+		<Level>51<\Level>
+		<Description>Judging by the bloodstains all over this cloak, it probably doesn't give you the power to fly.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214573<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>3608<\ID>
+		<Name>Cape Huccino<\Name>
+		<Level>52<\Level>
+		<Description>This cape was made with just one goal in mind: it had to be able to keep its owner awake for a few days running.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9136,9137,9138,10900<\Children>
+		<Icon>1323608<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9681<\ID>
+		<Name>Treecape<\Name>
+		<Level>52<\Level>
+		<Description>If you want to look gnarly, snap this cape up!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329681<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14574<\ID>
+		<Name>Imperial Blibli Cloak<\Name>
+		<Level>52<\Level>
+		<Description>The musky, masculine odor given off by this cloak will show the Bliblis who's boss.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214574<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14575<\ID>
+		<Name>Alpha Predator Cloak<\Name>
+		<Level>52<\Level>
+		<Description>I'd tell you that this cloak is said to provide the perfect camouflage, but you appear to have disappeared. Never mind!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214575<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11085<\ID>
+		<Name>The Kralacape<\Name>
+		<Level>54<\Level>
+		<Description>Have you always dreamed of looking like an octopus? Now you can!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211085<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12338<\ID>
+		<Name>Riktus Elite Cloak<\Name>
+		<Level>54<\Level>
+		<Description>This cloak has thermal elements which will help you out if you ever get stuck on a glacier.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212338<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4161<\ID>
+		<Name>Hairy Cloak<\Name>
+		<Level>55<\Level>
+		<Description>Fair enough, this cloak has a very strong and unpleasant odor. It's basically a mix of various monster furs.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9321,9322,9323,9324<\Children>
+		<Icon>1324161<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13738<\ID>
+		<Name>Kozcu Cloak<\Name>
+		<Level>55<\Level>
+		<Description>Your horoscope says... you're able to face all the problems that bother you normally from day to day.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213738<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14048<\ID>
+		<Name>Messy Cape<\Name>
+		<Level>55<\Level>
+		<Description>For Gobbowl wonderkids and messy eaters. You only fit into the second category, unfortunately.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214048<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11747<\ID>
+		<Name>Silver Scarawings<\Name>
+		<Level>56<\Level>
+		<Description>These translucent Scaraleaf wings sparkle gently in daylight. Careful with them though, as they're not particularly resistant.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11753,11754,11755,11756<\Children>
+		<Icon>13211747<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14578<\ID>
+		<Name>Imperial Skeleton Cloak<\Name>
+		<Level>56<\Level>
+		<Description>This is not an excuse to spend the day stalking around pretending to be the king from Game of Bones.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214578<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10700<\ID>
+		<Name>Rass Cloak<\Name>
+		<Level>57<\Level>
+		<Description>With this Rass Cloak, you can prospect to your heart's content. It won't save you from underground rockfalls, though.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13210700<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14047<\ID>
+		<Name>Krypto Cloak<\Name>
+		<Level>57<\Level>
+		<Description>Team with glowsticks for a fail-safe going-out look.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214047<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14581<\ID>
+		<Name>Ugly Queen Cloak<\Name>
+		<Level>57<\Level>
+		<Description>The good thing about this cloak is that you won't feel bad about wiping your feet on it or using it to dry your privates after taking a bath.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214581<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15029<\ID>
+		<Name>Sparo's Cloak<\Name>
+		<Level>58<\Level>
+		<Description>This mysterious cloak was found aboard the Dark Hurl. The rumor is that it once belonged to a famous Dofus-era pirate.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215029<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>66<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15103<\ID>
+		<Name>Chaos Cloak<\Name>
+		<Level>58<\Level>
+		<Description>Cloak yourself in chaos.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13211818<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15147<\ID>
+		<Name>Stone Cold Cloak<\Name>
+		<Level>58<\Level>
+		<Description>A bad cloak for running the 100 kameters in. A good cloak for blending into your surroundings in the Holey Forest!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215147<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17807<\ID>
+		<Name>Brown Bwork Cape<\Name>
+		<Level>58<\Level>
+		<Description>It's said that the leather used in making this cape was tanned using the secretions of a Wild Gobball. This is only a rumor though. The truth is far worse.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217807<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15319<\ID>
+		<Name>Royal Whirly Cloak<\Name>
+		<Level>59<\Level>
+		<Description>This cloak is most welcome on places like Calamar Island, where the heat is unbearable for much of the year. Twirl gently near the sunbathers and they'll be eternally grateful.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215319<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>69<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10722<\ID>
+		<Name>Caspar Cloak<\Name>
+		<Level>60<\Level>
+		<Description>A cloak which is just as friendly as you!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329990<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13561<\ID>
+		<Name>Sacred Moogrr Finery<\Name>
+		<Level>60<\Level>
+		<Description>As seductive as a slab of Boowolf skin...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213561<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14038<\ID>
+		<Name>Citronana Cloak<\Name>
+		<Level>60<\Level>
+		<Description>This cloak diffuses a fruity aroma all day long. The monkeys will be going ape just to get to you!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214038<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14577<\ID>
+		<Name>Ivory Cape<\Name>
+		<Level>61<\Level>
+		<Description>A cape so white and pristine that everyone you meet will be tempted to take a tinkle on it. Too bad.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214577<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15113<\ID>
+		<Name>Molluskape<\Name>
+		<Level>61<\Level>
+		<Description>This cape should be enough to startle anyone trying to play a nasty trick on you. Danger, high voltage! <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215113<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15171<\ID>
+		<Name>Wounded Cloak<\Name>
+		<Level>61<\Level>
+		<Description>There must be at least fifty shades of blood on this cloak, from fruity Eniripsa blood to wood-scented Sadida blood, not forgetting a few healthy spatters of milky Pandawa blood.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215171<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14576<\ID>
+		<Name>Ebony Scaracape<\Name>
+		<Level>62<\Level>
+		<Description>There's nothing like a good hard shell on your back to avoid sneaky attacks from behind.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214576<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12582<\ID>
+		<Name>Abrasive Cape<\Name>
+		<Level>63<\Level>
+		<Description>When you're not wearing this cape, you can use it as a very effective scouring pad.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12740,12741,12742,12743<\Children>
+		<Icon>13212582<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14838<\ID>
+		<Name>Ancestral Treechnid Cape<\Name>
+		<Level>63<\Level>
+		<Description>This cape was put together using the Ancestral Treechnid's natural sap. It's always getting fluff stuck in its cracks, but at least it's solid.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214838<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14579<\ID>
+		<Name>Ultimate Survivor Leaf<\Name>
+		<Level>64<\Level>
+		<Description>This cape was made to protect itself from the rain. Whether it will protect you too, nobody can guarantee.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214579<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14861<\ID>
+		<Name>Exotic Cloak<\Name>
+		<Level>64<\Level>
+		<Description>This cloak's bright colors will remind you just why you're here: for a holiday! No more working for a week or two...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214861<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15481<\ID>
+		<Name>Royal Crab Cape<\Name>
+		<Level>64<\Level>
+		<Description>Careful you don't fall on your back wearing this cape. You'll never get up again.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215481<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15497<\ID>
+		<Name>Royal Puddly Cloak<\Name>
+		<Level>64<\Level>
+		<Description>Be very careful with this cloak. A friend of mine had one, but he left it out in the sun and it vanished.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215497<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15544<\ID>
+		<Name>Royal Moogrr Cloak<\Name>
+		<Level>64<\Level>
+		<Description>You'll be the star of the Regional Moogrricultural Convention in this finery. What do you mean you're not going? You have to go!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215544<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13961<\ID>
+		<Name>Mystic Moe's Cloak<\Name>
+		<Level>65<\Level>
+		<Description>...an adventurer at peril...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213961<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15494<\ID>
+		<Name>Royal Crabshell<\Name>
+		<Level>65<\Level>
+		<Description>What do you see when you look into this cloak? Don't just say splodges, I want to get inside your head...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215494<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>111<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15552<\ID>
+		<Name>Royal Strich Cloak<\Name>
+		<Level>65<\Level>
+		<Description>Strich hunters will almost definitely mistake you for one of their prey if you wear this. Maybe you like having men chase after you, though.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215552<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17770<\ID>
+		<Name>Great Wild Gobball Cape <\Name>
+		<Level>65<\Level>
+		<Description>Even wild animals can have a bit of class!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217770<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12365<\ID>
+		<Name>Noke's Cloak<\Name>
+		<Level>66<\Level>
+		<Description>You'll be like a sheep in Boowolf's clothing with this cloak made from real Boowolf skin.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12399,12400,12401,12402<\Children>
+		<Icon>13212365<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12371<\ID>
+		<Name>Lunar Cloak<\Name>
+		<Level>66<\Level>
+		<Description>Unfortunately it won't fly you to the moon, nor let you play among the stars.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212371<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>62<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15397<\ID>
+		<Name>Imperial Drheller Cloak<\Name>
+		<Level>66<\Level>
+		<Description>This cloak will make sure you stay stylish as you paw the ground and charge your enemy like a wild beast.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215397<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15501<\ID>
+		<Name>The Puddlific<\Name>
+		<Level>66<\Level>
+		<Description>Is that a...? I think it is...! WATERFAAAALL!!!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215501<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17800<\ID>
+		<Name>Noke's Cloak<\Name>
+		<Level>66<\Level>
+		<Description>You'll be like a sheep in Boowolf's clothing with this cloak made from real Boowolf skin.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212365<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14580<\ID>
+		<Name>Imperator Cloak<\Name>
+		<Level>67<\Level>
+		<Description>This cloak will set you on your way to becoming the rightful tsar.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214580<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14582<\ID>
+		<Name>Infernal Cloak<\Name>
+		<Level>68<\Level>
+		<Description>Legend has it that this cloak was once used by Magmog as a welcome mat.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214582<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15325<\ID>
+		<Name>Imperial Whirly Cloak<\Name>
+		<Level>68<\Level>
+		<Description>This cloak sparkles and shines all over to make you the most questionably dressed belle at the ball.  Grab a shiny breastplate and a golden amulet and you'll look even better than the Kwismas tree!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215325<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14732<\ID>
+		<Name>Luccian's Cloak<\Name>
+		<Level>70<\Level>
+		<Description>Luccian was one of the World's most powerful Boowolves. But not even a Boowolf can tether the ravages of time, and now the cloak is yours.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214732<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>98<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15152<\ID>
+		<Name>Magmacrak Cloak<\Name>
+		<Level>71<\Level>
+		<Description>Erupt onto the scene with this scalding hot cloak! Do you have any idea how hard it is to get hold of these things?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215152<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>63<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15173<\ID>
+		<Name>Blood-Stained Cloak<\Name>
+		<Level>71<\Level>
+		<Description>There's fresh blood still dripping from this cloak. Colonel Mustang was wearing it when he committed a murder in the boiler room with the harpoon. That game didn't last long.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215173<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15248<\ID>
+		<Name>Hoodfella Cloak<\Name>
+		<Level>71<\Level>
+		<Description>This cloak will keep you hidden from prying eyes. Well, as long as you keep your back to people.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215248<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>980<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15125<\ID>
+		<Name>Acey Deecey<\Name>
+		<Level>73<\Level>
+		<Description>This cloak was a firm favorite of guitarist Fungus Young's, before Larsenus Wallace stole it from him in the hopes of absorbing some of its rockstar essence. <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215125<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12596<\ID>
+		<Name>Sacred Hood<\Name>
+		<Level>75<\Level>
+		<Description>The monks might not tell you this but it's very useful for taking a snooze during sermons.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212596<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12632<\ID>
+		<Name>Hairy Rat Tail<\Name>
+		<Level>75<\Level>
+		<Description>Now you know why those Ecaflips were licking their lips when you walked past them a moment ago.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212632<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15205<\ID>
+		<Name>Toxy Cloak<\Name>
+		<Level>75<\Level>
+		<Description>Some of the fibres woven into this cloak are used to transmit subliminal images. Keep an eye on it!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215205<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16892<\ID>
+		<Name>Trool Finery<\Name>
+		<Level>75<\Level>
+		<Description>This cloak looked elegant on the Trool it came from, but it just makes you look like a deformed Bwork.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216892<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17620<\ID>
+		<Name>Cod Wings<\Name>
+		<Level>75<\Level>
+		<Description>Betcha didn't know cod had wings, didja? Shows what you know, don't it?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217620<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>123<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12472<\ID>
+		<Name>Starry Cloak<\Name>
+		<Level>76<\Level>
+		<Description>If you want to reach for the stars, just chuck on this cloak. It might even help you climb every mountain.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212472<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15022<\ID>
+		<Name>Hurling Cloak<\Name>
+		<Level>76<\Level>
+		<Description>Just so you know, if you ever feel some trapped wind letting loose, this cloak will turn green and start vibrating violently.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215022<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12617<\ID>
+		<Name>Nun Cloak<\Name>
+		<Level>78<\Level>
+		<Description>The temperature drops with this icy veil over your shoulders.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212617<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9332<\ID>
+		<Name>Taine Future<\Name>
+		<Level>80<\Level>
+		<Description>This cape is not from our galaxy, yet it seems similar in color to your Gobball wool fishnet stockings.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1329332<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>12589<\ID>
+		<Name>Gobbsage Cape<\Name>
+		<Level>80<\Level>
+		<Description>This incredibly thick coat will keep you... incredibly warm!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212589<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13790<\ID>
+		<Name>Assassin Cloak<\Name>
+		<Level>80<\Level>
+		<Description>An assassin protects his behind at all times!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213790<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15193<\ID>
+		<Name>Black Widow Cloak<\Name>
+		<Level>82<\Level>
+		<Description>This cloak was woven thread by thread by the meticulous Black Widow herself. A Catapulted Crackler would have no chance against it, so I don't know why you're so quick to put it on your back.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215193<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>78<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15413<\ID>
+		<Name>Ratical Cloak<\Name>
+		<Level>82<\Level>
+		<Description>Whip this cloak round to the front and you can use it as a bib. To be honest, the smell coming off it is making you drool already...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215413<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16897<\ID>
+		<Name>El Pochito Cloak<\Name>
+		<Level>82<\Level>
+		<Description>This cloak is awarded to the winner of Trool Academy.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216897<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>102<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14994<\ID>
+		<Name>Imperial Treechnid Cape<\Name>
+		<Level>83<\Level>
+		<Description>This cape was put together using the Ancestral Treechnid's natural sap. It's always getting fluff stuck in its cracks, but at least it's solid.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214994<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15214<\ID>
+		<Name>Capushima<\Name>
+		<Level>84<\Level>
+		<Description>This cape, which bears the inimitable mark of the Black Widow, will probably get you free entry to a sect one of these days. An in-sect, that is! <\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215214<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>114<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16786<\ID>
+		<Name>Sand Cloak<\Name>
+		<Level>85<\Level>
+		<Description>Lie on your front on the beach: it's an adventurer sand-wich!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216786<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14366<\ID>
+		<Name>Whispered Cloak<\Name>
+		<Level>87<\Level>
+		<Description>Sheathe your body in a spine-tingling whisper.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214366<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12385<\ID>
+		<Name>Milimoowolf Fleece<\Name>
+		<Level>91<\Level>
+		<Description>It'll keep you nice and warm, even if you do look quite beastly!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212385<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12769<\ID>
+		<Name>Moowolf Finery<\Name>
+		<Level>91<\Level>
+		<Description>A well-earned hunting trophy!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212769<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>403<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15621<\ID>
+		<Name>Celestial Strich Cape<\Name>
+		<Level>91<\Level>
+		<Description>How many times must you be told? Superheroes shouldn't wear capes; it's dangerous. Although you're nothing like a superhero, so maybe it's okay.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215621<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15978<\ID>
+		<Name>Brrrbley Spears's Cloak<\Name>
+		<Level>93<\Level>
+		<Description>This cloak couldn't be less toxic: it's made of dry old leather, frozen by the cold!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215978<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>103<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13544<\ID>
+		<Name>Vampyro's Cape<\Name>
+		<Level>95<\Level>
+		<Description>This cape cost a fortune, but you feel like a male model in it, so what the neck!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13212883<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14131<\ID>
+		<Name>Excarnus Veil<\Name>
+		<Level>95<\Level>
+		<Description>A transparent veil which enables excarnates to become invisible. Many a man is pushing up daisies after trying too hard to obtain this precious item.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214131<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>92<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16804<\ID>
+		<Name>Oyster Cloak<\Name>
+		<Level>95<\Level>
+		<Description>Did someone throw up on your back? It looks like someone threw up on your back.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216804<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16814<\ID>
+		<Name>Beach Towel<\Name>
+		<Level>95<\Level>
+		<Description>With this towel on, there's no need to fear getting thrown on your back on the hot sand.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216814<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15954<\ID>
+		<Name>Boohemoth Cloak<\Name>
+		<Level>96<\Level>
+		<Description>Warm, soft and hairy, what could be better when it's raining cats and dogs?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215954<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>116<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13607<\ID>
+		<Name>Gladiatrool Plait<\Name>
+		<Level>100<\Level>
+		<Description>This accessory should help you contemplait life without dis-tress.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213607<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13818<\ID>
+		<Name>Minatsu Cape<\Name>
+		<Level>100<\Level>
+		<Description>The cape of this ancient civilization is a reflection of all the wealth that it possessed in the past.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13213818<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14134<\ID>
+		<Name>Milkar Finery<\Name>
+		<Level>100<\Level>
+		<Description>This cloak has a beastly smell that risks causing undesirable secondary effects that will send you howling to the moon.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214134<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>132<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14637<\ID>
+		<Name>Imperial Assassin Cape<\Name>
+		<Level>100<\Level>
+		<Description>By the time your enemies are close enough to admire the rich colors in this cape, it'll be too late for them.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214637<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15292<\ID>
+		<Name>Kroraging Cloak <\Name>
+		<Level>100<\Level>
+		<Description>This cloak was created to destabilize warriors whose forte was stabs in the back.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215292<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15293<\ID>
+		<Name>Krotector Cloak <\Name>
+		<Level>100<\Level>
+		<Description>This cloak belonged to your nanny before she died. Use it well.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215293<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>167<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16086<\ID>
+		<Name>Great Ice Cape<\Name>
+		<Level>100<\Level>
+		<Description>Want to break free from the mold? You need the Great Ice Cape.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216086<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16088<\ID>
+		<Name>Winter Coat <\Name>
+		<Level>100<\Level>
+		<Description>This thick coat won't let the cold through. It's prized by Frigostian hunters for exactly that reason.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>13216088<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>117<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17129<\ID>
+		<Name>Apprentice Cape<\Name>
+		<Level>100<\Level>
+		<Description>Patience is the companion of wisdom.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217129<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18088<\ID>
+		<Name>Ocushu Skin<\Name>
+		<Level>100<\Level>
+		<Description>This skin might help you embrace your inner Shushu. Or it might just help you keep warm.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218088<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2570<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8249<\ID>
+		<Name>Black Crow's Cloak<\Name>
+		<Level>102<\Level>
+		<Description>A needle, some thread and a few feathers taken from a decomposing Crobak... and now you have one of the most fashionable capes in the World of Twelve!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1326562<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15622<\ID>
+		<Name>Divine Strich Wings<\Name>
+		<Level>103<\Level>
+		<Description>These may look like ordinary Strich wings, but they're actually Divine Strich Wings! And that changes everything.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215622<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>131<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14144<\ID>
+		<Name>White Crow Wings<\Name>
+		<Level>105<\Level>
+		<Description>Fly into the face of danger with these wings. As angelic as they might seem, they're devilishly uncomfortable!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214144<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>157<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15851<\ID>
+		<Name>Gobbalrog Cloak<\Name>
+		<Level>105<\Level>
+		<Description>A cloak that'll keep you warm, even when it's hanging on the coat rack downstairs.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215851<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>105<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15852<\ID>
+		<Name>Rampart Cloak<\Name>
+		<Level>105<\Level>
+		<Description>With this cloak on, arrows in the back will bounce straight off again.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215852<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16037<\ID>
+		<Name>Golden Cloak<\Name>
+		<Level>105<\Level>
+		<Description>This cloak melts into the surrounding ice floe.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216037<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16769<\ID>
+		<Name>Blueberry<\Name>
+		<Level>106<\Level>
+		<Description>Blue is totally your color!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216769<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16029<\ID>
+		<Name>Capittle Cloak<\Name>
+		<Level>109<\Level>
+		<Description>It's the most powerful cloak in the nation, and you're giving it a piggyback. A classic example of 'I scratch your back, you scratch mine.'<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216029<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16118<\ID>
+		<Name>Ice Age Tablecloth<\Name>
+		<Level>110<\Level>
+		<Description>This cloak is suitable for all great gourmets who like to be left alone whilst they guzzle down dessert.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216118<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>112<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16122<\ID>
+		<Name>Snowfoux Cloak<\Name>
+		<Level>110<\Level>
+		<Description>Better not try wearing a Snowfoux's pelt before killing it!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216122<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14124<\ID>
+		<Name>Magmog Cloak<\Name>
+		<Level>115<\Level>
+		<Description>The only known way to obtain this cloak is to give Magmog a cold and then whisk it off of his back at the most opportune moment.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214124<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18386<\ID>
+		<Name>Troolgodyte Poncho<\Name>
+		<Level>115<\Level>
+		<Description>The shimmering fabric of this poncho actually seems to be pretty resistant, no matter how primitively it appears to have been made.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218386<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16046<\ID>
+		<Name>Necroforged Cloak<\Name>
+		<Level>116<\Level>
+		<Description>The embroidery on this cloak is made from fine splinters of Taroudium. Quite how Missiz Freezz managed to make it so light and airy remains a mystery!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216046<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14449<\ID>
+		<Name>Worn Hushed Cloak<\Name>
+		<Level>117<\Level>
+		<Description>A cloak with which to conspire in the dusty corners of libraries.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214449<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14450<\ID>
+		<Name>Hushed Cloak<\Name>
+		<Level>117<\Level>
+		<Description>A cloak with which to conspire in the dusty corners of libraries.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214449<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14451<\ID>
+		<Name>Battered Hushed Cloak<\Name>
+		<Level>117<\Level>
+		<Description>A cloak with which to conspire in the dusty corners of libraries.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214449<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15953<\ID>
+		<Name>Mecha-Cloak<\Name>
+		<Level>117<\Level>
+		<Description>Its purpose is simple: nothing can penetrate it. It would appear to work perfectly.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13215953<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14490<\ID>
+		<Name>Whispery Standard Cloak<\Name>
+		<Level>118<\Level>
+		<Description>This well-aired fabric will do just fine as a back-up cloak.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13214490<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>133<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18150<\ID>
+		<Name>Prickelback<\Name>
+		<Level>119<\Level>
+		<Description>It will protect you from overheating in the shadeless desert.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218150<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17125<\ID>
+		<Name>Initiate Cape<\Name>
+		<Level>120<\Level>
+		<Description>The truth is not for all men, but only for those who seek it.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217125<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16976<\ID>
+		<Name>Dragon Pig Kimono<\Name>
+		<Level>123<\Level>
+		<Description>Perfect when you're having someone dignified for dinner.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13216976<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17233<\ID>
+		<Name>Neemoi-Lenald Tail<\Name>
+		<Level>125<\Level>
+		<Description>Once you've tried on this cloak and felt how comfortable it is, you'll want to wear it forever. Taking it off would just be illogical.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217233<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18632<\ID>
+		<Name>Wagicien Cloak<\Name>
+		<Level>125<\Level>
+		<Description>This cloak will open the doors of all the Black Wabbit burrows to you, not that there are many of them.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218632<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17748<\ID>
+		<Name>Maltial Cape<\Name>
+		<Level>126<\Level>
+		<Description>This cape will surely augment your martial arts skills.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217748<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18157<\ID>
+		<Name>Ponktius Cloak<\Name>
+		<Level>127<\Level>
+		<Description>Great for poinkpiking throughout the desert and ponkponking with others.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218157<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18089<\ID>
+		<Name>Tormented Cape<\Name>
+		<Level>130<\Level>
+		<Description>Wearing this cape isn't a sign of any great torment, but rather a multitude of little worries.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218089<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2514<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17121<\ID>
+		<Name>Sage Cape<\Name>
+		<Level>135<\Level>
+		<Description>A prudent question is one half of wisdom. For example, is this cape genuine?<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217121<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18159<\ID>
+		<Name>Mushmantle<\Name>
+		<Level>136<\Level>
+		<Description>This cape really holds in moisture and humidity. It's not all that pleasant to wear, but it's plenty useful for protecting against the heat.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218159<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>89<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17348<\ID>
+		<Name>Zwombwork Cloak<\Name>
+		<Level>138<\Level>
+		<Description>This cloak was made from several bits and pieces of skin. It's like a piece of meat you carry around! You can be just like Lady Googoo!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217348<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>105<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17543<\ID>
+		<Name>Nettlez<\Name>
+		<Level>140<\Level>
+		<Description>This cape has a reputation for legendary softness, which means you can wear it without any underwear! An elegant way to expose yourself...<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217543<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>212<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>120<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17304<\ID>
+		<Name>Gauwd Cloak<\Name>
+		<Level>142<\Level>
+		<Description>It will allow you to make an impwovised sheltew undewgwound.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217304<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>173<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17247<\ID>
+		<Name>Empelol's Cloak<\Name>
+		<Level>143<\Level>
+		<Description>When you're well camouflaged underneath this cloak, the Crobaks won't come to steal your cheese.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217247<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17749<\ID>
+		<Name>Well-Guawded Cape<\Name>
+		<Level>143<\Level>
+		<Description>This cape will, without a doubt, assure your safety.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217749<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17308<\ID>
+		<Name>Oranged Wa<\Name>
+		<Level>144<\Level>
+		<Description>FACT: no warrior who wears the Oranged Wa into battle will ever fall before a Lenald!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217308<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17294<\ID>
+		<Name>Gwand Viziew's Cloak<\Name>
+		<Level>148<\Level>
+		<Description>This cloak protects its wearer against bad spells and pesticides.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217294<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>71<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18187<\ID>
+		<Name>Sugnuf Skin<\Name>
+		<Level>148<\Level>
+		<Description>This nauseating, rugged, viscous, sporal, contaminated (did we mention nauseating?) skin will look great on you.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218187<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>124<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18540<\ID>
+		<Name>Dark Side Cloak<\Name>
+		<Level>150<\Level>
+		<Description>This cloak unveils your darkest side and protects your other side from the light.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218540<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18543<\ID>
+		<Name>Credit Cloak<\Name>
+		<Level>151<\Level>
+		<Description>This cloak can be worn for as long as you like, on condition that you're happy to pay interest on it by the required due date.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218543<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>147<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>21<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17354<\ID>
+		<Name>Genetically Modified Cloak<\Name>
+		<Level>153<\Level>
+		<Description>This cloak was submitted to numerous molecular modifications, which improved the material's resistance and greatly increased its abilities.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217354<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>91<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18541<\ID>
+		<Name>Nocturnal Stealth Cloak<\Name>
+		<Level>155<\Level>
+		<Description>A stealthy cloak that allows you to melt into the dark, dark night.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218541<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17331<\ID>
+		<Name>Wa Wabbit's Cloak<\Name>
+		<Level>157<\Level>
+		<Description>This cloak is very slimming. Just look at the Wa's figure!<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13217331<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18542<\ID>
+		<Name>The Apothecloakery<\Name>
+		<Level>163<\Level>
+		<Description>A useful cloak with pockets for all the most terrifying potions and explosive cocktails.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218542<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>43<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18544<\ID>
+		<Name>Onist Cloak<\Name>
+		<Level>164<\Level>
+		<Description>This cloak makes you even more honest than you already are, and that's never a bad thing.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218544<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>117<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18460<\ID>
+		<Name>Victus Hood<\Name>
+		<Level>165<\Level>
+		<Description>There was once a time when this cape made its wearer invisible. Nowadays, its merely used to decorate the floors of Brakmar's taverns and those who pass out on them.<\Description>
+		<Slot>Cloak<\Slot>
+		<SlotID>132<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13218460<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>110<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

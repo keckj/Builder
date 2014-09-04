@@ -1,0 +1,5487 @@
+
+<Items>
+	<Item>
+		<ID>18056<\ID>
+		<Name>[ADMIN] Hide set breastplate<\Name>
+		<Level>0<\Level>
+		<Description>[ADMIN] Hide set breastplate<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618056<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.3<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9773<\ID>
+		<Name>Builder Kimono<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369773<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10182<\ID>
+		<Name>Kuro Breastplate<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610182<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13414<\ID>
+		<Name>Mod Breastplate<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>13613414<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13445<\ID>
+		<Name>Guild Breastplate<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>13613445<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13557<\ID>
+		<Name>Quaquack Bustier<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613557<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13586<\ID>
+		<Name>Evil Quaquack Bustier<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613586<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13602<\ID>
+		<Name>Question Breastplate<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DELETE:False,DROP:False,EXCHANGE:False,<\Conditions>
+		<Icon>1369616<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>125<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>35<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13664<\ID>
+		<Name>Cupiddlypants's Striped Vest<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613664<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13698<\ID>
+		<Name>Spektral Vest<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613698<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13709<\ID>
+		<Name>Uncle Sammy Costume<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613709<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13711<\ID>
+		<Name>Aunt Samantha Costume<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613711<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16090<\ID>
+		<Name>Cold Hunter Coat<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616090<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16098<\ID>
+		<Name>Smisse Pirate Smock<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616098<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>16939<\ID>
+		<Name>Hunter Coat<\Name>
+		<Level>1<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616939<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>7121<\ID>
+		<Name>Wodent Top<\Name>
+		<Level>2<\Level>
+		<Description>Granted, this armor won't really protect you from enemy attacks. You gotta admit, though, it does look pretty sexy!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1367121<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14740<\ID>
+		<Name>Dark Top<\Name>
+		<Level>2<\Level>
+		<Description>Granted, this armor won't really protect you from enemy attacks. You gotta admit, though, it does look pretty sexy!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614740<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16103<\ID>
+		<Name>Testplate<\Name>
+		<Level>2<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1367121<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9687<\ID>
+		<Name>Amakna Breastplate<\Name>
+		<Level>3<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369687<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9688<\ID>
+		<Name>Bonta Breastplate<\Name>
+		<Level>3<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369688<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>9693<\ID>
+		<Name>Brakmar Breastplate<\Name>
+		<Level>3<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369693<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>10461<\ID>
+		<Name>Sufokian Breastplate<\Name>
+		<Level>3<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610461<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>13653<\ID>
+		<Name>Prime Vest<\Name>
+		<Level>5<\Level>
+		<Description>An exclusive fancy buttoned vest donned by the cream of the crop, the top dogs, and the honorable guests.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13613653<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11390<\ID>
+		<Name>Greedoplate<\Name>
+		<Level>7<\Level>
+		<Description>Spears, enemies, and manic fangirls will bounce harmlessly off this breastplate.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611390<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9813<\ID>
+		<Name>Blue Goo Breastplate<\Name>
+		<Level>9<\Level>
+		<Description>This breastplate gets all its wisdom from the old Googoo hairs used to make it. Everybody knows that you need to be old to be egoodite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369813<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9814<\ID>
+		<Name>Red Goo Breastplate<\Name>
+		<Level>9<\Level>
+		<Description>This breastplate gets all its wisdom from the old Googoo hairs used to make it. Everybody knows that you need to be old to be egoodite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369814<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9815<\ID>
+		<Name>Green Goo Breastplate<\Name>
+		<Level>9<\Level>
+		<Description>This breastplate gets all its wisdom from the old Googoo hairs used to make it. Everybody knows that you need to be old to be egoodite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369815<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9816<\ID>
+		<Name>Purple Goo Breastplate<\Name>
+		<Level>9<\Level>
+		<Description>This breastplate gets all its wisdom from the old Googoo hairs used to make it. Everybody knows that you need to be old to be egoodite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369816<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10770<\ID>
+		<Name>Breastplate of Destiny<\Name>
+		<Level>10<\Level>
+		<Description>Blood, sweat and tears went into making this breastplate... and it's still kind of soggy.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610770<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15291<\ID>
+		<Name>Krospeed Torso<\Name>
+		<Level>10<\Level>
+		<Description>Hey baby, is your name Bad News? Cos they say Bad News travels fast.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13615291<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9398<\ID>
+		<Name>Windy Larval Breastplate<\Name>
+		<Level>12<\Level>
+		<Description>Who would have thought a Larva could be so big?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369398<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14982<\ID>
+		<Name>Moist Larval Breastplate<\Name>
+		<Level>12<\Level>
+		<Description>Who would have thought a Larva could be so big?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1366093<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14984<\ID>
+		<Name>Muddy Larval Breastplate<\Name>
+		<Level>12<\Level>
+		<Description>Who would have thought a Larva could be so big?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1366094<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14985<\ID>
+		<Name>Roast Larval Breastplate<\Name>
+		<Level>12<\Level>
+		<Description>Who would have thought a Larva could be so big?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1366095<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10785<\ID>
+		<Name>Breastplate of Trouble<\Name>
+		<Level>13<\Level>
+		<Description>This breastplate has a very unnerving gleam to it.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610785<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12832<\ID>
+		<Name>Zora's Tunic<\Name>
+		<Level>14<\Level>
+		<Description>The sun will shine out of places you didn't know existed when you don this yellow Tofu tunic!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612832<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>2400<\ID>
+		<Name>Hawaiian Shirt<\Name>
+		<Level>15<\Level>
+		<Description>This Hawaiian Shirt might be an easy target for the fashion police, but it does have one advantage: it will send your enemies running in the opposite direction.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1362399<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5309<\ID>
+		<Name>Gobball Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>It's soft, it's new, and it's clean...  Oh sorry, it's not clean. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365309<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5311<\ID>
+		<Name>Tofu Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>Have you ever been told that yellow suits you? Yes? Amazing...  <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365311<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7572<\ID>
+		<Name>Scaraleaf Kimono<\Name>
+		<Level>15<\Level>
+		<Description>Your first coat. And surely not the last...  <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1367572<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8092<\ID>
+		<Name>Three Pistes Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>A wooden breastplate: good when you're feeling a bit plastic, you know!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1368092<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10786<\ID>
+		<Name>Baron Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>A bodybuilder breastplate that will scare the living daylights out of all your friends.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610786<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13948<\ID>
+		<Name>Deuldeu Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>This breastplate will have a certain extra something that no other will.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613948<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13986<\ID>
+		<Name>Macho Breastplate<\Name>
+		<Level>15<\Level>
+		<Description>The finish on this breastplate makes sure that you'll be protected from fast-approaching arrows.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613986<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4314<\ID>
+		<Name>The Charaquick<\Name>
+		<Level>17<\Level>
+		<Description>A breastplate for those who want to reveal the animal within. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1364314<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14824<\ID>
+		<Name>Shin Larva Breastplate<\Name>
+		<Level>17<\Level>
+		<Description>This breastplate is really comfortable. Too bad it stinks, it's sticky, and you can't put it in the wash.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614824<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15528<\ID>
+		<Name>Cloudy Piwibody<\Name>
+		<Level>19<\Level>
+		<Description>When you tire of this breastplate, you'll be able to use it as reinforcement in your Piwillow fort!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615528<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4313<\ID>
+		<Name>The M'Bo<\Name>
+		<Level>20<\Level>
+		<Description>This armored breastplate prevents fatal blows to the chest...  that and breathing. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365232<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13952<\ID>
+		<Name>Spelunking Breastplate<\Name>
+		<Level>20<\Level>
+		<Description>Protects the chivalrous.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613952<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13985<\ID>
+		<Name>Azuric Breastplate<\Name>
+		<Level>20<\Level>
+		<Description>Protects the chivalrous.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613985<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14710<\ID>
+		<Name>Kajeet Breastplate<\Name>
+		<Level>20<\Level>
+		<Description>Kajeet is a big fan of Ecaflip, and he's known in his village as the frenzied feline fellow.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614710<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7758<\ID>
+		<Name>Sumi Breastplate<\Name>
+		<Level>21<\Level>
+		<Description>If you don't become expert in soft, round baps with an apron like that...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11122,11123,11124<\Children>
+		<Icon>1367758<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4150<\ID>
+		<Name>Blibli Breastplate<\Name>
+		<Level>24<\Level>
+		<Description>A breastplate gives you optimal support in the chest department for that special va va voom effect. Don't worry, if you're a man, it works equally well on your moobs.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365239<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>82<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10369<\ID>
+		<Name>Izungryplate<\Name>
+		<Level>24<\Level>
+		<Description>Scrub it as hard as you like, you'll never be able to get rid of that delightful Snapper smell.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610369<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.309<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13953<\ID>
+		<Name>Vagabond Breastplate<\Name>
+		<Level>25<\Level>
+		<Description>This breastplate was found kicking around on the ground. Lucky you!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613953<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13993<\ID>
+		<Name>F'Artagnan Blazer<\Name>
+		<Level>25<\Level>
+		<Description>Don't kick up a stink! These boots will leave you coming out of a fight smelling like anything but a Demonic Rose.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613993<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15534<\ID>
+		<Name>Celestial Piwibody<\Name>
+		<Level>25<\Level>
+		<Description>Such elegance! Such style! A bodice like this simply must have been designed by John Piwi Googooltier.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615534<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9506<\ID>
+		<Name>Kapow Breastplate<\Name>
+		<Level>26<\Level>
+		<Description>A lightly perfumed breastplate which is wonderfully attractive to hungry Gobballs in the area.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369506<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>95<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10322<\ID>
+		<Name>Puddly Breastplate<\Name>
+		<Level>26<\Level>
+		<Description>Puddly straw offers excellent protection against paper balls and soap bubbles.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610322<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>93<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10326<\ID>
+		<Name>Moogrrplate<\Name>
+		<Level>26<\Level>
+		<Description>Anyone who wears this breastplate will be constantly harassed by young Moogrr in search of milk. Don't say we didn't warn you.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610326<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10090<\ID>
+		<Name>Strichplate<\Name>
+		<Level>27<\Level>
+		<Description>Bertronche loved his strichplate. He liked watching life slip by.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610090<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12779<\ID>
+		<Name>Glowing Stalagirdle<\Name>
+		<Level>27<\Level>
+		<Description>This breastplate will keep your torso warm all day long.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612779<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15355<\ID>
+		<Name>Featherplate  <\Name>
+		<Level>27<\Level>
+		<Description>Just imagine how many kagallons of Tofu droppings had to be used to stick all the feathers onto this breastplate!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615355<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>979<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11016<\ID>
+		<Name>Floral Breastplate<\Name>
+		<Level>29<\Level>
+		<Description>This breastplate fills your days with a multitude of floral perfumes.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611016<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13562<\ID>
+		<Name>Sacred Moogrr Breastplate<\Name>
+		<Level>30<\Level>
+		<Description>You'll drive onlookers absolutely wild with this sexy breastplate!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613562<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13762<\ID>
+		<Name>Lorko Breastplatto<\Name>
+		<Level>30<\Level>
+		<Description>Protects the chivalrous.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613762<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>27<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11068<\ID>
+		<Name>Boostron<\Name>
+		<Level>33<\Level>
+		<Description>This item was all the rage at the Plastronboory Festival this year. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611068<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12792<\ID>
+		<Name>Explorer Jacket<\Name>
+		<Level>33<\Level>
+		<Description>This jacket won't protect you too well, but it certainly looks good. Now, which is more important for wild adventures...?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>CRAFT:False,EXCHANGE:False,<\Conditions>
+		<Icon>13612792<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9507<\ID>
+		<Name>Royal Gobball Breastplate<\Name>
+		<Level>34<\Level>
+		<Description>At first glance, there's nothing royal about this breastplate. In fact, it's even mangier and dirtier than the rest. That must be proof of the years of wisdom acquired by the Royal Gobball.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369507<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10063<\ID>
+		<Name>Fake Breastplate<\Name>
+		<Level>34<\Level>
+		<Description>This breastplate looks fragile, but once you know how to use it, it's incredibly powerful!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610063<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10995<\ID>
+		<Name>Kokolo Neck<\Name>
+		<Level>34<\Level>
+		<Description>Female Kokokos love this Kokolo Neck. It makes them feel very Kokettish.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610995<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15344<\ID>
+		<Name>Cloudy Tofu Breastplate<\Name>
+		<Level>34<\Level>
+		<Description>Make sure you pay attention to the washing guidelines on the seam of this breastplate! If you wash it too hard, the feathers will come out, leaving you with a loose-fitting corset of irritated Tofu skin.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615344<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9399<\ID>
+		<Name>Lidd Ihl<\Name>
+		<Level>35<\Level>
+		<Description>The collar of this particularly supple breastplate expands to let its owner put it on more easily.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>10910,10911,10912<\Children>
+		<Icon>3460000<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13826<\ID>
+		<Name>Shamanic Ornament<\Name>
+		<Level>35<\Level>
+		<Description>This ornamental piece will bring you good luck and help you find your way through crowds a-thronging.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613826<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14909<\ID>
+		<Name>Imperial Shin Larva Breastplate<\Name>
+		<Level>37<\Level>
+		<Description>You look like a busy, buzzy bumblebee. At least now the Larvae will worship you the way you always dreamed they would.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614909<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15451<\ID>
+		<Name>The Drhellspic<\Name>
+		<Level>39<\Level>
+		<Description>They say the spines on this breastplate can be explained by the fusion of a Drheller and a Prespic... Nothing can get in the way of true love, eh?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615451<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>56<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8402<\ID>
+		<Name>Ugly Breastplate<\Name>
+		<Level>40<\Level>
+		<Description>Fed up of looking stylish? This unwelcome addition to your favorite outfit will get you VIP access to the Ugly Square!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1368402<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>52<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>32<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9981<\ID>
+		<Name>Breastplate of Righteousness<\Name>
+		<Level>40<\Level>
+		<Description>Don't even bother arguing with this breastplate. It's ALWAYS right!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 40,<\Conditions>
+		<Children>10913,10914,10915<\Children>
+		<Icon>1369981<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>163<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10714<\ID>
+		<Name>Stressedplate<\Name>
+		<Level>40<\Level>
+		<Description>Perfect for people who are always hurrying to be on time.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610714<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11011<\ID>
+		<Name>Carnivore Breastplate<\Name>
+		<Level>40<\Level>
+		<Description>A gutsy breastplate if ever I saw one!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611011<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11025<\ID>
+		<Name>Royal Blibli Breastplate<\Name>
+		<Level>40<\Level>
+		<Description>This breastplate encases your torso more firmly, because it's nowhere near as wobbly.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611025<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11032<\ID>
+		<Name>Golden Scaraplate<\Name>
+		<Level>40<\Level>
+		<Description>An armor that shines like the rays of the sun and is also very fire-resistant.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611032<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11436<\ID>
+		<Name>Black Breaztplate<\Name>
+		<Level>40<\Level>
+		<Description>They used to laugh. Now they flee. For you... are... Zordo!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611436<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>152<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14720<\ID>
+		<Name>Heram Breastplate<\Name>
+		<Level>40<\Level>
+		<Description>Heram simply adooored Puddly fashion, which should tell you a lot about Heram as a person.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614720<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11074<\ID>
+		<Name>Kralatorso<\Name>
+		<Level>41<\Level>
+		<Description>This breastplate's flexibility will allow you to go from a heavyweight to a lightweight (or vice-versa) without the shame of having to buy a different size.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611074<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9730<\ID>
+		<Name>Alibert Apron<\Name>
+		<Level>43<\Level>
+		<Description>Sick of burning bread (and everything else, for that matter)? Wear this apron right, and you'll be a top chef in no time!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369730<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>47<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6785<\ID>
+		<Name>Cloudy Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>This breastplate will absorb all kinds of shocks. Now you're immune to head shots from dirty Gobbowl players. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1366785<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10976<\ID>
+		<Name>Stalagirdle<\Name>
+		<Level>44<\Level>
+		<Description>Want to be a solid as a rock? Now you can.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610976<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11857<\ID>
+		<Name>Amakna Riktus Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>The Amakna Riktus are the most robust of the widespread Riktus family and this breastplate makes that very clear.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611857<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11858<\ID>
+		<Name>Bonta Riktus Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>The Bonta Riktus are as hard as nails and the most resistant of the widespread Riktus family. This breastplate follows suit.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611858<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11859<\ID>
+		<Name>Brakmar Riktus Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>The Brakmar Riktus are known for their super-human force, so don't underestimate the damage that this breastplate can inflict.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611859<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11860<\ID>
+		<Name>Sufokia Riktus Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>The Sufokia Riktus are primarily renowned for their robbing and running, but they're not afraid of attacking if they have to! <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611860<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14705<\ID>
+		<Name>Prinssly Breastplate<\Name>
+		<Level>44<\Level>
+		<Description>This breastplate makes you look like a wardrobe made of ice. Er... Just what you wanted?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614705<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>39<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>158<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>7573<\ID>
+		<Name>Pandawan Kimono<\Name>
+		<Level>45<\Level>
+		<Description>We did say that it definitely wouldn't be the last...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1367573<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9508<\ID>
+		<Name>Whirligig Breastplate<\Name>
+		<Level>45<\Level>
+		<Description>This breastplate, which is supposed to protect the front of your body, was, in fact, made with a Whirligig's backside, which is softer and more elastic.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369508<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9573<\ID>
+		<Name>Tsar Breastplate<\Name>
+		<Level>45<\Level>
+		<Description>This delicate breastplate can tear your teeth apart with one single bite: ladies, you have been warned what will happen if you get too close to the big bad Boowolf.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369573<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13750<\ID>
+		<Name>Kozcu Breastplate<\Name>
+		<Level>45<\Level>
+		<Description>Your horoscope says... other people's problems won't affect you today and you'll be able to rise against any conflicts encountered.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613750<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10731<\ID>
+		<Name>Moostplate<\Name>
+		<Level>46<\Level>
+		<Description>This bristly breastplate will keep you warm during the winter months.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610731<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12443<\ID>
+		<Name>Roc Breastplate<\Name>
+		<Level>46<\Level>
+		<Description>You shall not pass!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612443<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9653<\ID>
+		<Name>Father Breastplate<\Name>
+		<Level>47<\Level>
+		<Description>\"Luke, I am your...\"<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365232<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11588<\ID>
+		<Name>Boneplate<\Name>
+		<Level>49<\Level>
+		<Description>A tough little breastplate that will put an end to short people trying to headbutt you. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13611588<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>156<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11780<\ID>
+		<Name>Koko Top<\Name>
+		<Level>50<\Level>
+		<Description>This top is 100% natural. Unfortunately, it's almost too heavy to carry.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11781,11782,11783<\Children>
+		<Icon>13611780<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11784<\ID>
+		<Name>Burning Heart Breastplate<\Name>
+		<Level>50<\Level>
+		<Description>Show your enemies your passionate, charming side before you deal the fatal blow.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11785,11786,11787<\Children>
+		<Icon>13611784<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12451<\ID>
+		<Name>Split Breastplate<\Name>
+		<Level>50<\Level>
+		<Description>Don't worry, it'll last for years yet.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12648,12649,12650<\Children>
+		<Icon>13612451<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14608<\ID>
+		<Name>Ebony Scaraplate<\Name>
+		<Level>50<\Level>
+		<Description>Now you're as well protected up front as you are behind.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614608<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15111<\ID>
+		<Name>Mollusky Breastplate<\Name>
+		<Level>50<\Level>
+		<Description>Too bad this breastplate isn't bigger, or else you could curl up inside it and chill on the beach all day, safe from harm.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615111<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15290<\ID>
+		<Name>Krolevel Torso<\Name>
+		<Level>50<\Level>
+		<Description>This armor is fitted with a row of little switches, so you can set off your traps or bombs on the go. Technology never ceases to amaze!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EXCHANGE:False,<\Conditions>
+		<Icon>13615290<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17752<\ID>
+		<Name>Wild Gobball Breastplate<\Name>
+		<Level>50<\Level>
+		<Description>It's been said that with this breastplate, you could stroll around Frigost almost completely naked. Note the word \"survive\" was not mentioned.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617752<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9400<\ID>
+		<Name>Riktus Toga<\Name>
+		<Level>51<\Level>
+		<Description>It might not be much good for anything else, but at least this deformed toga has the marvelous ability to make the people around you burst spontaneously into laughter.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369400<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9616<\ID>
+		<Name>Justice Breastplate<\Name>
+		<Level>51<\Level>
+		<Description>Before you wear this armor, there is one condition: you have to be able to say \"Sue shooed Shushus by the sea shore\" without swallowing your tongue. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>EQUIP:GetCrimeScore() >= 500,<\Conditions>
+		<Icon>1369616<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>67<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>38<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15164<\ID>
+		<Name>The Party Bloc<\Name>
+		<Level>53<\Level>
+		<Description>The only breastplate that will make you want to bop your head - and your enemies' heads!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615164<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>154<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14606<\ID>
+		<Name>Imperial Gobball Breastplate<\Name>
+		<Level>54<\Level>
+		<Description>A breastplate to be proud of - go on, stick out that chest!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614606<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9401<\ID>
+		<Name>Treestplate<\Name>
+		<Level>55<\Level>
+		<Description>Yes, this breastplate might be a little stiff, but that's the price you have to pay if you want to be at one with nature.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369401<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11788<\ID>
+		<Name>Taurifying Tunic<\Name>
+		<Level>55<\Level>
+		<Description>There's a trail of Api juice dripping off this cloak - those Taurs really are pigs! Oh wait...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11789,11790,11791,11792<\Children>
+		<Icon>13611788<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17619<\ID>
+		<Name>Fatty Overalls<\Name>
+		<Level>55<\Level>
+		<Description>These overalls are made entirely of skin! True, it smells a bit more than latex, but it hydrates your skin so well!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617519<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17804<\ID>
+		<Name>Patched Bwork Breastplate<\Name>
+		<Level>55<\Level>
+		<Description>Despite the primitive craftsmanship, this breastplate seems pretty solid. It would be perfect for combat, were it not for the odor of Bwork wafting from literally every surface. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617804<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12335<\ID>
+		<Name>Riktus Elite Breastplate<\Name>
+		<Level>56<\Level>
+		<Description>On first glance, this breastplate seems as light as a feather. In reality it's as heavy as a sack of bricks. Make sure you buff up before attempting to put it on!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612335<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>4321<\ID>
+		<Name>Ballyke<\Name>
+		<Level>60<\Level>
+		<Description>It's most definitely him. You can tell by the two straps, yellower than a lemon.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>9226,9227,9228,9229<\Children>
+		<Icon>1364321<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10582<\ID>
+		<Name>Hurtle Girdle<\Name>
+		<Level>60<\Level>
+		<Description>This girdle will make you as tough as a rock, so you can hurtle into anything you like!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610582<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13981<\ID>
+		<Name>Thrud Breastplate<\Name>
+		<Level>60<\Level>
+		<Description>This helmet is named after a well-known warrior who was also the only daughter of eternal rest. May she rest in peace... Well, what are you waiting for? Get thudding!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613981<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14607<\ID>
+		<Name>Imperial Blibli Breastplate<\Name>
+		<Level>60<\Level>
+		<Description>This breastplate will offer the protection your torso's been waiting for. Just don't expect potential suitors to fall at your feet - it is NOT pretty.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614607<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>53<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14609<\ID>
+		<Name>Ivory Breastplate<\Name>
+		<Level>60<\Level>
+		<Description>Careful with this breastplate - you're likely to find yourself targeted by trapper on the hunt for kamas.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614609<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>171<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14729<\ID>
+		<Name>Frida's Breastplate<\Name>
+		<Level>60<\Level>
+		<Description>Frida loved Arachnees so much that she decided to dress like one and go and live with them. The Arachnees eventually adopted her as one of their own.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614729<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>77<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14884<\ID>
+		<Name>Deckhand Torso<\Name>
+		<Level>60<\Level>
+		<Description>This breastplate is so battered and worn that you could easily pretend to be a shipwreck survivor and cadge a lift off a friendly ship.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614884<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>64<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15318<\ID>
+		<Name>Royal Whirly Breastplate<\Name>
+		<Level>60<\Level>
+		<Description>When the Whirl is not enough, try going Royal.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615318<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12580<\ID>
+		<Name>Woolly Breastplate<\Name>
+		<Level>61<\Level>
+		<Description>This breastplate brings all the Gobballs to the yard.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12732,12733,12734,12735<\Children>
+		<Icon>13612580<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>59<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15149<\ID>
+		<Name>Stone Cold Breastplate<\Name>
+		<Level>61<\Level>
+		<Description>The only living being stupid and resistant enough to survive against this beast of a breastplate is the lovechild of a Iop and a Sacrier that was orphaned and raised by Boowolves. If this sounds like you, call now!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615149<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15181<\ID>
+		<Name>Shark Pecs<\Name>
+		<Level>61<\Level>
+		<Description>You may not have known that Sharks had pecs, but now you do know, do you not agree that they must be among the toughest in the World?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615181<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5491<\ID>
+		<Name>Kamailles' Coat<\Name>
+		<Level>64<\Level>
+		<Description>With this armor on your back, you're safe from Enutrofs. They're afraid of turtles, they are! <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365491<\Icon>
+		<AP>3<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8385<\ID>
+		<Name>Boowolf Breastplate<\Name>
+		<Level>64<\Level>
+		<Description>Since this breastplate arrived on the market, a new fighting technique has been seen on the battlefield. It's known as 'tufting.'<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365983<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14611<\ID>
+		<Name>Ugly Queen Breastplate<\Name>
+		<Level>64<\Level>
+		<Description>Whaddya know? Even queens can have an abominable dress sense.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614611<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>46<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>54<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14612<\ID>
+		<Name>Infernal Breastplate<\Name>
+		<Level>64<\Level>
+		<Description>That's funny. I thought there were going to be wings on this breastplate...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614612<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13960<\ID>
+		<Name>Mystic Moe's Breastplate<\Name>
+		<Level>65<\Level>
+		<Description>...I see dirt... ...dirt and difficulty...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613960<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14610<\ID>
+		<Name>Imperator Breastplate<\Name>
+		<Level>65<\Level>
+		<Description>Very effective against Moskito bites.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614610<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>58<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14839<\ID>
+		<Name>Ancestral Treechnid Breastplate<\Name>
+		<Level>65<\Level>
+		<Description>Let's hope the Ancestral Treechnid's bark is stronger than his bite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614839<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15116<\ID>
+		<Name>Kralapace<\Name>
+		<Level>65<\Level>
+		<Description>This gloopy breastplate sticks fast to your skin and is known to cause 65% of wearers allergic reactions! So that's why it was half price...<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615116<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15546<\ID>
+		<Name>Royal Moogrr Breastplate<\Name>
+		<Level>66<\Level>
+		<Description>This 100% reversible breastplate lets YOU make the big decisions in life! Will you choose... the scratchy side... or the sticky side?!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615546<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>67<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15558<\ID>
+		<Name>The Pectorius<\Name>
+		<Level>66<\Level>
+		<Description>No need to wait till summer to show off your pecs! They're enough to make Goultard drool.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615558<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14872<\ID>
+		<Name>Speckled Albatroplate<\Name>
+		<Level>69<\Level>
+		<Description>Make sure you give this breastplate a wipe before you charge into battle; guano really doesn't give off a good impression.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614872<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12373<\ID>
+		<Name>Lunar Breastplate<\Name>
+		<Level>70<\Level>
+		<Description>This breastplate glows in the moonlight.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612373<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12455<\ID>
+		<Name>Crobak Breastplate<\Name>
+		<Level>70<\Level>
+		<Description>Made with top-quality Crobak feathers.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612455<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13966<\ID>
+		<Name>Khist Breastplate<\Name>
+		<Level>70<\Level>
+		<Description>This breastplate is the last thing you'll see before your eternal rest.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613966<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15155<\ID>
+		<Name>Magmacrak Breastplate<\Name>
+		<Level>70<\Level>
+		<Description>One step up from the Stone Cold Breastplate, the Magmacrak variety will not only bust your fists when you punch it, but also singe their hairs right to the skin!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615155<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>74<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17810<\ID>
+		<Name>Thork Breastplate<\Name>
+		<Level>70<\Level>
+		<Description>Thork likes Bwork beer. But Thork is very clumsy. Which can be seen, and smelt, on his breastplate.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617810<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>88<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>8258<\ID>
+		<Name>Crobak Breastplate<\Name>
+		<Level>75<\Level>
+		<Description>A feathery thing that you can take great pleasure in showing off in the most squalid tavern in town.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1365757<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>91<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13786<\ID>
+		<Name>Assassin Breastplate<\Name>
+		<Level>75<\Level>
+		<Description>This breastplate is so light that it adapts to all situations, even the most risky!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613786<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14995<\ID>
+		<Name>Veteran Ancestral Treechnid Breastplate <\Name>
+		<Level>75<\Level>
+		<Description>Let's hope the Ancestral Treechnid's bark is stronger than his bite.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614995<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15208<\ID>
+		<Name>Platonium<\Name>
+		<Level>76<\Level>
+		<Description>This breastplate has certain chemical properties which may cause digestive trouble. Nothing to worry about... For now, that is.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615208<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>92<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15551<\ID>
+		<Name>Imperial Moogrr Breastplate<\Name>
+		<Level>76<\Level>
+		<Description>Nothing like some hair on your chest to prepare you for a new day.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615551<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>92<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15564<\ID>
+		<Name>Imperial Strichplate<\Name>
+		<Level>76<\Level>
+		<Description>Those bullies won't bother you now! After years without a hair on your chest, now you have a proud, feathery chest wig!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615564<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12865<\ID>
+		<Name>Ragplate<\Name>
+		<Level>77<\Level>
+		<Description>Although this breastplate is in tatters, it's still reasonably useful.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>13102,13103,13104,13105<\Children>
+		<Icon>13612865<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12599<\ID>
+		<Name>Sacred Tunic<\Name>
+		<Level>78<\Level>
+		<Description>This tunic, which is often worn during religious ceremonies, suits men as well as women.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612599<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15020<\ID>
+		<Name>Hurlplate<\Name>
+		<Level>78<\Level>
+		<Description>This breastplate is a little too tight, but to be honest, if you're happy wearing a garment made of old Ghostofs, you obviously don't care much about your appearance.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615020<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>75<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17621<\ID>
+		<Name>Skai Lee<\Name>
+		<Level>78<\Level>
+		<Description>This breastplate was specially designed to protect marine skin from contact with the air.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617621<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>130<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13978<\ID>
+		<Name>Valhalla Breastplate<\Name>
+		<Level>80<\Level>
+		<Description>The significance of this breastplate will become clear as you breathe your last breath.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613978<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15402<\ID>
+		<Name>The Ratpatch<\Name>
+		<Level>80<\Level>
+		<Description>This breastplate was cobbled together using patches of fabric and armor from all the members of the Rat family.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615402<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>117<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>979<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12475<\ID>
+		<Name>Starry Breastplate<\Name>
+		<Level>82<\Level>
+		<Description>You can thank your lucky star you've found this breastplate!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612475<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>85<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12587<\ID>
+		<Name>Gobbsage Breastplate<\Name>
+		<Level>82<\Level>
+		<Description>Don't be fooled by the softness of the wool, this breastplate will cut rocks like butter. It doesn't guarantee the safety of its wearer, however.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612587<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12619<\ID>
+		<Name>Nun Blouse<\Name>
+		<Level>82<\Level>
+		<Description>It'll freeze your skin until it bleeds!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612619<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>74<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>18<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12819<\ID>
+		<Name>Breastfut<\Name>
+		<Level>83<\Level>
+		<Description>This ultra-tight breastplate will give you super-hero abs!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612819<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15122<\ID>
+		<Name>Kraken Breastplate<\Name>
+		<Level>83<\Level>
+		<Description>This breastplate is a workaholic! It's already mopped up about 500 arrows, 900 bombs and countless Scaraleaf droppings.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615122<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15411<\ID>
+		<Name>Ratical Breastplate<\Name>
+		<Level>83<\Level>
+		<Description>We all know about arrow-proof jackets, but have you heard about beer-proof cardigans? This one gives you a shock for each swig you take. Electrifying!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615411<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15950<\ID>
+		<Name>Brrrbli Breastplate<\Name>
+		<Level>84<\Level>
+		<Description>This breastplate shields your front and behind, so feel free to take some hits for the others!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615950<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>87<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13969<\ID>
+		<Name>Blazy Breastplate<\Name>
+		<Level>85<\Level>
+		<Description>You'll be smoking hot in this breastplate but will smell of smoked Moogrr if you keep it on for too long.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613969<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15216<\ID>
+		<Name>The Torsium<\Name>
+		<Level>85<\Level>
+		<Description>This breastplate will give you pecs of toxic steel. What? Pecs of steel. That's what I said.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615216<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>112<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16908<\ID>
+		<Name>Strawberry Bubbleplate<\Name>
+		<Level>85<\Level>
+		<Description>This bubble of Jelly will protect your body from nasty outside threats.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616908<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>96<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16909<\ID>
+		<Name>Blue Raspberry Bubbleplate<\Name>
+		<Level>85<\Level>
+		<Description>This bubble of Jelly will protect your body from nasty outside threats.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616909<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>96<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16787<\ID>
+		<Name>Sand Breastplate<\Name>
+		<Level>87<\Level>
+		<Description>This is the one for you... Don't think we haven't seen you making six-packs and womanly curves out of sand on the beach!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616787<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>68<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15021<\ID>
+		<Name>Admiral Hurlplate<\Name>
+		<Level>88<\Level>
+		<Description>A breastplate that will not only protect you with its own life, but that will also cool you down when it's hot and keep you warm when it's cold!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615021<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>98<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13802<\ID>
+		<Name>Minatsu Tunic<\Name>
+		<Level>90<\Level>
+		<Description>This tunic forms part of the patrimony of an ancient civilization that used to live off of high spirits and fresh water alone!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613802<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.03<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>135<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14364<\ID>
+		<Name>Whispered Breastplate<\Name>
+		<Level>91<\Level>
+		<Description>This breastplate has absorbed gallons of whispers over the years. Why not just let it have a rest in your inventory now?<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614364<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15417<\ID>
+		<Name>Rattagain Breastplate<\Name>
+		<Level>93<\Level>
+		<Description>This breastplate will stop you from shaking with nerves at important meetings... as well as giving you an electric shock if you find yourself falling asleep!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615417<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>148<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16905<\ID>
+		<Name>Imperial Trool Breastplate<\Name>
+		<Level>93<\Level>
+		<Description>Victory is born of effort.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616905<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>61<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>13974<\ID>
+		<Name>Doziak Breastplate<\Name>
+		<Level>95<\Level>
+		<Description>Your chances of seeing a gold saint are as slim as a Schnek's of seeing the stars.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13613974<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14128<\ID>
+		<Name>Excarnus Fleece<\Name>
+		<Level>95<\Level>
+		<Description>This breastplate's curly virility is counteracted by the ectoplasmic gloop all over it. Talk about ruining the mood.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614128<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>93<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17006<\ID>
+		<Name>Phosphorescent Breastplate<\Name>
+		<Level>95<\Level>
+		<Description>No more getting lost in the dark!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617006<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16818<\ID>
+		<Name>Swimsuit<\Name>
+		<Level>95<\Level>
+		<Description>All the cool kids are wearing them... Honest!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616818<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>114<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12888<\ID>
+		<Name>Vampyric Breastplate<\Name>
+		<Level>96<\Level>
+		<Description>It's normal to feel exhausted after wearing this breastplate... It sucks the life right out of you.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13612888<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.02<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>144<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15625<\ID>
+		<Name>Celestial Featherplate<\Name>
+		<Level>96<\Level>
+		<Description>On the hanger, this thing looks like a seasick Kralove; on your muscular chest, it will look like... Well, it'll look good. I mean, it'll look okay. The bonuses make it worthwhile.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615625<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>114<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10758<\ID>
+		<Name>Ethereal Amaknian Guard Breastplate<\Name>
+		<Level>97<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610758<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10759<\ID>
+		<Name>Ethereal Bontarian Guard Breastplate<\Name>
+		<Level>97<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610759<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10760<\ID>
+		<Name>Ethereal Brakmarian Guard Breastplate<\Name>
+		<Level>97<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610760<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10761<\ID>
+		<Name>Ethereal Sufokian Guard Breastplate<\Name>
+		<Level>97<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610761<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10771<\ID>
+		<Name>Michelangecrow Breastplate<\Name>
+		<Level>97<\Level>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13610771<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>70<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16822<\ID>
+		<Name>Tanked Top<\Name>
+		<Level>97<\Level>
+		<Description>This cool summer tank top will allow you to show off your biceps while beating on people who make inappropriate jokes. Party on, dudes!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616822<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>73<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>9<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16761<\ID>
+		<Name>Mint Jelly Breastplate<\Name>
+		<Level>98<\Level>
+		<Description>With minty freshness like this on it all day, your torso will be a better kisser than you!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616761<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>1<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>107<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14136<\ID>
+		<Name>Milkar Fur<\Name>
+		<Level>100<\Level>
+		<Description>With one of these ferocious specimens on your front and one on your back, you'll look like... well, a beast with two backs.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614136<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>24<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14629<\ID>
+		<Name>Imperial Summoner Armor<\Name>
+		<Level>100<\Level>
+		<Description>Only summoners capable of handling a real menagerie are worthy of wearing this armor.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614629<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15288<\ID>
+		<Name>Kroraging Torso<\Name>
+		<Level>100<\Level>
+		<Description>This breastplate used to belong to some huge, green guy whose name has slipped my mind. Even when he transformed into an all-powerful monster, this armor remained intact.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615288<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>144<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15289<\ID>
+		<Name>Krotector Torso <\Name>
+		<Level>100<\Level>
+		<Description>This breastplate's resistance is something to behold. The only thing you won't be able to resist is the urge to show it off by striding into a barrage of enemy fire, laughing like a madman.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615289<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>80<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>174<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17117<\ID>
+		<Name>Apprentice Breastplate<\Name>
+		<Level>100<\Level>
+		<Description>A loving heart is the truest wisdom. <\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617117<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>55<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18005<\ID>
+		<Name>Otomai's Disciple Armor<\Name>
+		<Level>100<\Level>
+		<Description>An extraordinary piece of armor, given to you as a reward by Otomai's Disciple in Astrub. He promised you another mission, in exchange for which he'll swap this armor for a much more precious item. Don't lose it!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618005<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.3<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>220<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>90<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14116<\ID>
+		<Name>Gobbalrog Breastplate<\Name>
+		<Level>105<\Level>
+		<Description>As if the summer sun wasn't enough, here's a breastplate which aspires to be a radiator.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614116<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14142<\ID>
+		<Name>White Crow Breastplate<\Name>
+		<Level>105<\Level>
+		<Description>A very rare item made of white crow feathers. The only way to get those is to kill a Black Crow... It's said that they turn white when they die.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614142<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.05<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18439<\ID>
+		<Name>Gobbalrog Breastplate (linked when equipped)<\Name>
+		<Level>105<\Level>
+		<Description>As if the summer sun wasn't enough, here's a breastplate which aspires to be a radiator.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614116<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18440<\ID>
+		<Name>Gobbalrog Breastplate (linked when collected)<\Name>
+		<Level>105<\Level>
+		<Description>As if the summer sun wasn't enough, here's a breastplate which aspires to be a radiator.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614116<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>106<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>26<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15951<\ID>
+		<Name>Polar Breastplate<\Name>
+		<Level>106<\Level>
+		<Description>Polar Cracklers are covered in thick, tough ice that is practically unbreakable!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615951<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>139<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16016<\ID>
+		<Name>YeCh'Ti'Wawa Breastplate<\Name>
+		<Level>108<\Level>
+		<Description>The YeCh'Ti'Wawa's rabid rage is concentrated in this breastplate. If drool starts dripping from the corners of your mouth, then it's already too late.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616016<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>114<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16048<\ID>
+		<Name>Chaferization Breastplate<\Name>
+		<Level>110<\Level>
+		<Description>Crafted using ancient smithmaging knowledge, this breastplate creates a thick layer of ice over its wearer that prevents him from healing properly.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616048<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>118<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16110<\ID>
+		<Name>Lou Bricante's Jacket<\Name>
+		<Level>110<\Level>
+		<Description>This jacket belonged to the former deputy mayor of the Snowbound Village!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616110<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>149<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>988<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>23<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18090<\ID>
+		<Name>Ocushu Torso<\Name>
+		<Level>110<\Level>
+		<Description>You feel as if a legion of gazes are watching you and staring into your soul.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618090<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>51<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2411<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2513<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14486<\ID>
+		<Name>Whispery Pristplate<\Name>
+		<Level>112<\Level>
+		<Description>The Whisperers make their prisoners wear breastplates like this one so they can be spotted from afar if they make a run for it.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614486<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15952<\ID>
+		<Name>Icecast Bone Breastplate<\Name>
+		<Level>112<\Level>
+		<Description>This breastplate was the result of Freezz's very first Neoromantic Smithmagic experiments. It was so successful that all the Chafers in her army were duly equipped.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615952<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>149<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>28<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>28<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16052<\ID>
+		<Name>Freezzy-Breezzy Breastplate<\Name>
+		<Level>115<\Level>
+		<Description>The breastplate was made out of Taroudium before Missiz Freezz added the finishing touches at her forge. It will let you keep your drinks cool between your shoulder blades.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616052<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>36<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15971<\ID>
+		<Name>Mecha-Breastplate<\Name>
+		<Level>116<\Level>
+		<Description>Designed according to a standard model, this breastplate serves its purpose regardless of which way round you wear it.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13615971<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16033<\ID>
+		<Name>Hagen Daz's Armor<\Name>
+		<Level>116<\Level>
+		<Description>Armor is Hagen Daz's shiny centerpiece, and it's so powerful that it can't help but find a place in your collection.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616033<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>109<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14443<\ID>
+		<Name>Worn Hushed Breastplate<\Name>
+		<Level>117<\Level>
+		<Description>Its wearer will be protected by the ancient Whisperers' murmurs.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614443<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>82<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14444<\ID>
+		<Name>Hushed Breastplate<\Name>
+		<Level>117<\Level>
+		<Description>Its wearer will be protected by the ancient Whisperers' murmurs.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614443<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>121<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14445<\ID>
+		<Name>Battered Hushed Breastplate<\Name>
+		<Level>117<\Level>
+		<Description>Its wearer will be protected by the ancient Whisperers' murmurs.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13614443<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>97<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16152<\ID>
+		<Name>Sylargh's Breastplate<\Name>
+		<Level>120<\Level>
+		<Description>This breastplate appears to have been cast in a single piece. It protects against the often violent discharges that arise from metalwork.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616152<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>146<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16972<\ID>
+		<Name>Larduous Breastplate<\Name>
+		<Level>120<\Level>
+		<Description>Twist one of the knobs on this thing and it'll tune you into Live 'n' Lardy FM, the only radio station that will have you snorting with laughter all day long.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13616972<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17113<\ID>
+		<Name>Initiate Breastplate<\Name>
+		<Level>120<\Level>
+		<Description>It is impossible to love and to be wise.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617113<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>76<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17007<\ID>
+		<Name>Dragon Pig Breastplate<\Name>
+		<Level>122<\Level>
+		<Description>You'll feel safe and sound in this breastplate, whose chinks and cracks have been plugged up with cubes of ham.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617007<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>110<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18170<\ID>
+		<Name>Cactaegis<\Name>
+		<Level>124<\Level>
+		<Description>This breastplate you got from the Castucs will keep your skin cool and help you survive the desert.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618170<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>83<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>13<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17237<\ID>
+		<Name>Old Lenald Kimono<\Name>
+		<Level>125<\Level>
+		<Description>This kimono was worn for more than a decade; it's pretty beat up, but still has all the other characteristics it did so long ago.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617237<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>160<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>37<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>19<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18156<\ID>
+		<Name>Ponktius Torso<\Name>
+		<Level>126<\Level>
+		<Description>This breastplate will cover your torso and make you sweat unimaginably. Then you can collect the sweat and slake your thirst.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618156<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>153<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>47<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17261<\ID>
+		<Name>Black Coat<\Name>
+		<Level>128<\Level>
+		<Description>The Black Coat is prized for its solidity, exotic aroma, and strength of character.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617261<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>72<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>235<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18160<\ID>
+		<Name>Poroplast<\Name>
+		<Level>130<\Level>
+		<Description>A perfect combination of yourself and a rotten mushroom stem.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618160<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>94<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17279<\ID>
+		<Name>Wabbit Coat<\Name>
+		<Level>132<\Level>
+		<Description>The Wabbit Coat is prized for its softness, suppleness, and strength of character.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617279<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>105<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17229<\ID>
+		<Name>Lenald Kimono<\Name>
+		<Level>133<\Level>
+		<Description>Knowing how to fold and pleat the fabric around you in the traditional Lenald style is a skill that demands a lot of patience and dexterity.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617229<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>99<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17271<\ID>
+		<Name>Emiw Beawd<\Name>
+		<Level>135<\Level>
+		<Description>This breastplate is made from beard hair. It will protect your torso from explosion damage, and it'll also store Cawwot crumbs for later.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617271<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>135<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17109<\ID>
+		<Name>Sage Breastplate<\Name>
+		<Level>135<\Level>
+		<Description>It is wisest to keep one's organs within oneself.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617109<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.27<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>113<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>31<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>14<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18458<\ID>
+		<Name>Victus Shell<\Name>
+		<Level>135<\Level>
+		<Description>Who hasn't dreamed of one day of warming the cockles of their heart? Now, with this breastplate that warms you up from the inside out, you can.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618458<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2573<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2411<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2574<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17244<\ID>
+		<Name>Empelol's Breastplate<\Name>
+		<Level>139<\Level>
+		<Description>As brilliant as the Empelol himself, the breastplate hurts your eyes a little.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617244<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>168<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17306<\ID>
+		<Name>Guawd Toga<\Name>
+		<Level>140<\Level>
+		<Description>With this on, you won't be naked!<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617306<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>104<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17433<\ID>
+		<Name>Magic Cawwot Breastplate<\Name>
+		<Level>140<\Level>
+		<Description>A breastplate proudly made by Wabbits. It's impregnated with magic Cawwot juice made from a secret recipe handed down through generations.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617433<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.26<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>198<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>29<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>4<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17341<\ID>
+		<Name>Zwombbit Torso<\Name>
+		<Level>141<\Level>
+		<Description>This torso is putrid and covered in filthy hairs, but that doesn't stop you from wearing it because it assures unparalleled close-combat protection.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617341<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>126<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>35<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>17<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18166<\ID>
+		<Name>Sugnuf Torso<\Name>
+		<Level>146<\Level>
+		<Description>This will help you blend in while you're in the Fungopole.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618166<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.32<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>174<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17295<\ID>
+		<Name>Gwand Viziew's Beawd<\Name>
+		<Level>148<\Level>
+		<Description>This breastplate is made from beard hair. It will protect your torso from various projectiles, and it'll also store Cawwot crumbs for later.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13617295<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>148<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>46<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18091<\ID>
+		<Name>Tormented Breastplate<\Name>
+		<Level>150<\Level>
+		<Description>Don't worry, this breastplate only provokes constant worrying in 74.999% of cases. Go ahead - put it on.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618091<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.31<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>158<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>304<\ID><Value>2636<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18535<\ID>
+		<Name>Srambad Chest Plate<\Name>
+		<Level>150<\Level>
+		<Description>This chest plate will constrict your chest till you cry, but the bonuses it offers are well worth the pain.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618535<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>209<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>44<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18538<\ID>
+		<Name>Enurado Chest Plate<\Name>
+		<Level>152<\Level>
+		<Description>\"He who borrows to build Kama muscles, builds to sell better.\"<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618538<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>130<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18536<\ID>
+		<Name>Orgasmik Chest Plate<\Name>
+		<Level>160<\Level>
+		<Description>This chest plate is made of a material extracted from Solkrupt. It devours the surface of your skin to better fuse with your skeleton and offer better protection.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618536<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>184<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>71<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18694<\ID>
+		<Name>Happy Sram Kimono<\Name>
+		<Level>160<\Level>
+		<Description>This kimono belonged to a degenerate Sram, who was as happy as can be. It is said he set off for Amakna daydreaming of pink and white roses.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>pink<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1369404<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>217<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>39<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18537<\ID>
+		<Name>Souleater<\Name>
+		<Level>164<\Level>
+		<Description>This breast plate eats its wearer's soul to make him completely immune to blows and emotions.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>purple<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618537<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>115<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>400<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18539<\ID>
+		<Name>Cledus'Tight<\Name>
+		<Level>165<\Level>
+		<Description>Triple check that you've closed and tightened your belt. If that's not the case, don't complain when your kama-laden purses are stolen.<\Description>
+		<Slot>Breastplate<\Slot>
+		<SlotID>136<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>13618539<\Icon>
+		<AP>0<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>155<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>26<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>22<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>

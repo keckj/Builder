@@ -1,0 +1,880 @@
+
+<Items>
+	<Item>
+		<ID>6588<\ID>
+		<Name>Twiggy Shovel<\Name>
+		<Level>8<\Level>
+		<Description>Indispensable to any self-respecting Enutrof, this shovel will serve both to stun the enemy and to dig his grave. Two in one! <\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1116588<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9948<\ID>
+		<Name>Paw Pruner<\Name>
+		<Level>10<\Level>
+		<Description>If an enemy won't get his paws out of your business, then this shovel should help you cut him down to size.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1119948<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>6572<\ID>
+		<Name>Tofu Shovel<\Name>
+		<Level>13<\Level>
+		<Description>The process that made this Tofu beak flat remains a secret. All we can tell you is that we had a lot of help from Mama Bworks. <\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1116572<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>125<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9466<\ID>
+		<Name>Smithy Shovel<\Name>
+		<Level>15<\Level>
+		<Description>This shovel is well-made. It's an interesting weapon for beginners.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1119466<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>21<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>5<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10246<\ID>
+		<Name>Field Shovel<\Name>
+		<Level>15<\Level>
+		<Description>This shovel is a favorite of the field farmers, especially those who specialize in Potatows. But that doesn't stop you digging up anything else with it.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11110246<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9646<\ID>
+		<Name>Elegant Shovel<\Name>
+		<Level>20<\Level>
+		<Description>Even if you're dressed in rags, this shovel will make you seem elegant and refined. Whatever happened to calling a spade a spade?<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>1119646<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12262<\ID>
+		<Name>Elegant Shovel of War<\Name>
+		<Level>20<\Level>
+		<Description>Even if you're dressed in rags, this shovel will make you seem elegant and refined. Whatever happened to calling a spade a spade?<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Conditions>DROP:False,EXCHANGE:False,PICK_UP:False,<\Conditions>
+		<Icon>11112262<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>5<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10256<\ID>
+		<Name>Houze Shovel<\Name>
+		<Level>21<\Level>
+		<Description>Gaston Houze, the gardener, was a little over-enthusiastic about planting. This weapon is proof of that: it tends to play tricks on you and insult your intelligence.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11110256<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.308<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>5899<\ID>
+		<Name>Truffle Shovel<\Name>
+		<Level>30<\Level>
+		<Description>The Truffle Shovel will make the people around you laugh. At you, though, not with you.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>8953,8954,8955<\Children>
+		<Icon>1115899<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>124<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>82<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>6<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14718<\ID>
+		<Name>Nubby Shovel<\Name>
+		<Level>30<\Level>
+		<Description>You've heard it said that this shovel bears a Wodent-killing bonus. But it's probably nonsense.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11114718<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15360<\ID>
+		<Name>Guano Scoop<\Name>
+		<Level>31<\Level>
+		<Description>Always carry it with you in case your pet gets a little too excited.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11115360<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.21<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>7<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10581<\ID>
+		<Name>Domacion<\Name>
+		<Level>40<\Level>
+		<Description>Domacion became well-known for his work at the most famous farm in the land. He didn't stay for long, but he left this shovel behind as a souvenir.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11110581<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.31<\Patch>
+		<RuneCount>0<\RuneCount>
+	<\Item>
+
+	<Item>
+		<ID>11597<\ID>
+		<Name>Koko Shovel<\Name>
+		<Level>42<\Level>
+		<Description>Some people are skillful enough to use this shovel to harvest Kokonuts. Most of them just use it to make mud pies though.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11111597<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>152<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>84<\ID><Value>8<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12448<\ID>
+		<Name>Steam Shovel<\Name>
+		<Level>43<\Level>
+		<Description>Great for digging up large stones and little Crackrocks.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>12657,12658,12659<\Children>
+		<Icon>11112448<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9467<\ID>
+		<Name>Mishmashovel<\Name>
+		<Level>45<\Level>
+		<Description>With this shovel, you won't just be able weed your own daisies, you can make sure your enemies push up theirs as well.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11162,11163,11164<\Children>
+		<Icon>1119467<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>57<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14040<\ID>
+		<Name>O'Basan Spade<\Name>
+		<Level>46<\Level>
+		<Description>They say that Enutrofs are born with a golden spoon in their mouths. Amfufu!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11114040<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.04<\Patch>
+		<RuneCount>0<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>45<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9468<\ID>
+		<Name>Golden Rhizome<\Name>
+		<Level>50<\Level>
+		<Description>This garden shovel is used to cut the rhizomes of weeds. It's also an excellent weapon when it comes to cutting other things.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11165,11166,11167<\Children>
+		<Icon>1119468<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>120<\ID><Value>17<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11055<\ID>
+		<Name>Mussly Shovel<\Name>
+		<Level>50<\Level>
+		<Description>Very useful for opening mumussels without hurting yourself.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11111055<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.311<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>123<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>11868<\ID>
+		<Name>Riktus Shovel<\Name>
+		<Level>50<\Level>
+		<Description>Your smile grows wider with every piece of treasure you unearth!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11111868<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>25<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>25<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>10024<\ID>
+		<Name>Ellip Spade<\Name>
+		<Level>54<\Level>
+		<Description>If you don't shake this spade in an elliptical manner, you'll be going round in circles all day!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>grey<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11110024<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>122<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>11<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9470<\ID>
+		<Name>Munster Shovel<\Name>
+		<Level>55<\Level>
+		<Description>A good shovel from the east. It's made from Moogrr milk, which explains its rather delicate perfume.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11173,11174,11175,11176<\Children>
+		<Icon>1119470<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>161<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>42<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>8<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9970<\ID>
+		<Name>Hifipod Shovel<\Name>
+		<Level>55<\Level>
+		<Description>This weapon was invented by a smith who was sick of the booming bass coming from his neighbors' house. He used his creation to smash the source of their anti-social behavior to smithereens.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>WAKFU<\Quality>
+		<Conditions>EQUIP:GetWakfuGauge() > 55,<\Conditions>
+		<Children>11168,11169,11170,11171<\Children>
+		<Icon>1119970<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>48<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>9471<\ID>
+		<Name>Mechba Shovel<\Name>
+		<Level>60<\Level>
+		<Description>This shovel isn't just used by Enutrofs to harvest fruit from their trees, but also as a formidable weapon.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Children>11178,11179,11180,11181<\Children>
+		<Icon>1119471<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>0.307<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>175<\ID><Value>14<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>49<\Value><\Stat>
+			<Stat><ID>-1<\ID><Value>""<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>85<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>83<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15571<\ID>
+		<Name>Puddle Shovel<\Name>
+		<Level>62<\Level>
+		<Description>Always have this shovel on hand to clear the path in front of your house of nasty puddles.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11115571<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>79<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>19<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>234<\ID><Value>2<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15040<\ID>
+		<Name>Agis Shovel<\Name>
+		<Level>70<\Level>
+		<Description>Many Enutrofs swear loyalty to this shovel because they think it will help them find treasure. All it ever seems to dig up is dirty underpants, though. Is faith really this blind?<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>white<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11115040<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.08<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>101<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>23<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>2<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14673<\ID>
+		<Name>Cake Shovel <\Name>
+		<Level>75<\Level>
+		<Description>You know what I like the most? Cake Shovels!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11114673<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>100<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>12<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12628<\ID>
+		<Name>Brush<\Name>
+		<Level>78<\Level>
+		<Description>You'll sort your enemies out in one clear sweep with this brush.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11112628<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>81<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>12<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15406<\ID>
+		<Name>Ratto Rake<\Name>
+		<Level>80<\Level>
+		<Description>When Lady Gardenmore invented this tool for gathering dead leaves into piles, Sir Slayalday couldn't wait to borrow it to do the same thing with enemies' corpses. Each to their own.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11115406<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.2<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>95<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>16<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>875<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>12591<\ID>
+		<Name>Old-School Shovel<\Name>
+		<Level>81<\Level>
+		<Description>This shovel is useful for unearthing all kinds of bits and pieces.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11112591<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.01<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>34<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>30<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>15217<\ID>
+		<Name>Free Radigger<\Name>
+		<Level>84<\Level>
+		<Description>Don't tell this shovel where to dig! It's not a serial number, it's a free spade!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11115217<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.09<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>108<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>22<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>41<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14674<\ID>
+		<Name>Masked Shovel<\Name>
+		<Level>85<\Level>
+		<Description>For those who like their spades anonymous.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11114674<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>126<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>124<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>24<\Value><\Stat>
+			<Stat><ID>166<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>180<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16801<\ID>
+		<Name>Facetious Shovel<\Name>
+		<Level>93<\Level>
+		<Description>You love teasing your enemies with this thing, and you don't care if they don't find it funny!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11116801<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.25<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>60<\Value><\Stat>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>33<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>14675<\ID>
+		<Name>Exi's Ancestral Shovel<\Name>
+		<Level>100<\Level>
+		<Description>This Enutrof was not known for his greed alone. He was also an extraordinary blacksmith said to have created many works of art. <\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11114675<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.07<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>80<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>32<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>10<\Value><\Stat>
+			<Stat><ID>160<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>16083<\ID>
+		<Name>Ice Shovel<\Name>
+		<Level>100<\Level>
+		<Description>This shovel has the ability to cut through ice like butter, but it's not recommended practice as you risk falling into an icy water hole!<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11116083<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.22<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>162<\ID><Value>38<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>123<\ID><Value>50<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>27<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>832<\ID><Value>3<\Value><\Stat>
+			<Stat><ID>236<\ID><Value>15<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>17214<\ID>
+		<Name>Zombo<\Name>
+		<Level>130<\Level>
+		<Description>It moves us with its underground beats and gets us our exercise. Given its irregular curves, it's only beneficial for the one carrying it.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>green<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11117214<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.24<\Patch>
+		<RuneCount>2<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>162<\Value><\Stat>
+			<Stat><ID>173<\ID><Value>26<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>65<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>15<\Value><\Stat>
+			<Stat><ID>162<\ID><Value>18<\Value><\Stat>
+			<Stat><ID>80<\ID><Value>10<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18562<\ID>
+		<Name>The Overdrawn<\Name>
+		<Level>150<\Level>
+		<Description>The Overdrawn allows for debts to be settled or damage to be dealt over time.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>orange<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11118562<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>31<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>137<\Value><\Stat>
+			<Stat><ID>184<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>122<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>125<\ID><Value>70<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>20<\Value><\Stat>
+			<Stat><ID>838<\ID><Value>20<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18456<\ID>
+		<Name>Excavatus Shushu<\Name>
+		<Level>150<\Level>
+		<Description>Useful for digging the graves of your enemies, just the site of this shovel is sometimes enough to make your enemies dig their own.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11118456<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.35<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>41<\ID><Value>1<\Value><\Stat>
+			<Stat><ID>20<\ID><Value>180<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>30<\Value><\Stat>
+			<Stat><ID>175<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>6<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>110<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+	<Item>
+		<ID>18567<\ID>
+		<Name>The Shovelone<\Name>
+		<Level>168<\Level>
+		<Description>This shovel is loaned out to you on the condition that you gather an immense amount of Kamas during your lifetime.<\Description>
+		<Slot>Shovel<\Slot>
+		<SlotID>111<\SlotID>
+		<Rarity>yellow<\Rarity>
+		<Quality>CLASSIC<\Quality>
+		<Icon>11118567<\Icon>
+		<AP>5<\AP>
+		<Capacity>0<\Capacity>
+		<Patch>1.34<\Patch>
+		<RuneCount>3<\RuneCount>
+		<Stats>
+			<Stat><ID>20<\ID><Value>145<\Value><\Stat>
+			<Stat><ID>171<\ID><Value>40<\Value><\Stat>
+			<Stat><ID>150<\ID><Value>4<\Value><\Stat>
+			<Stat><ID>120<\ID><Value>150<\Value><\Stat>
+			<Stat><ID>149<\ID><Value>50<\Value><\Stat>
+		<\Stats>
+	<\Item>
+
+<\Items>
